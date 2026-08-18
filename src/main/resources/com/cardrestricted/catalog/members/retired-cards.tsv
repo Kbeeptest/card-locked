@@ -1,0 +1,930 @@
+card_id	display_name	card_type	entity_family_id	canonical_id	reason	runelite_constants
+item.10th_birthday_balloons.27820	10th birthday balloons	ITEM	cache-item-family.10th_birthday_balloons.27820	27820	HOLIDAY_EVENT_CONTENT	_10TH_BIRTHDAY_BALLOONS
+item.10th_birthday_cape.27812	10th birthday cape	ITEM	cache-item-family.10th_birthday_cape.27812	27812	HOLIDAY_EVENT_CONTENT	_10TH_BIRTHDAY_CAPE
+item.20th_anniversary_boots.25328	20th anniversary boots	ITEM	cache-item-family.20th_anniversary_boots.25328	25328	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_BOOTS
+item.20th_anniversary_bottom.25326	20th anniversary bottom	ITEM	cache-item-family.20th_anniversary_bottom.25326	25326	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_BOTTOM
+item.20th_anniversary_cape.25334	20th anniversary cape	ITEM	cache-item-family.20th_anniversary_cape.25334	25334	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_CAPE
+item.20th_anniversary_gloves.25330	20th anniversary gloves	ITEM	cache-item-family.20th_anniversary_gloves.25330	25330	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_GLOVES
+item.20th_anniversary_hat.25322	20th anniversary hat	ITEM	cache-item-family.20th_anniversary_hat.25322	25322	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_HAT
+item.20th_anniversary_necklace.25332	20th anniversary necklace	ITEM	cache-item-family.20th_anniversary_necklace.25332	25332	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_NECKLACE
+item.20th_anniversary_top.25324	20th anniversary top	ITEM	cache-item-family.20th_anniversary_top.25324	25324	HOLIDAY_EVENT_CONTENT	_20TH_ANNIVERSARY_TOP
+item.24_carat_sword.24539	'24-carat' sword	ITEM	cache-item-family.24_carat_sword.24539	24539	HOLIDAY_EVENT_CONTENT	_24CARAT_SWORD
+item.25th_anniversary_5x5_hat.33086	25th anniversary 5x5 hat	ITEM	cache-item-family.25th_anniversary_5x5_hat.33086	33086	HOLIDAY_EVENT_CONTENT	_25TH_ANNIVERSARY_5X5_HAT
+item.25th_anniversary_helmet.33080	25th anniversary helmet	ITEM	cache-item-family.25th_anniversary_helmet.33080	33080	HOLIDAY_EVENT_CONTENT	_25TH_ANNIVERSARY_HELMET
+item.25th_anniversary_skeleton_tabard.33084	25th anniversary skeleton tabard	ITEM	cache-item-family.25th_anniversary_skeleton_tabard.33084	33084	HOLIDAY_EVENT_CONTENT	_25TH_ANNIVERSARY_SKELETON_TABARD
+item.25th_anniversary_warrior_tabard.33082	25th anniversary warrior tabard	ITEM	cache-item-family.25th_anniversary_warrior_tabard.33082	33082	HOLIDAY_EVENT_CONTENT	_25TH_ANNIVERSARY_WARRIOR_TABARD
+item.4th_birthday_hat.21211	4th birthday hat	ITEM	cache-item-family.4th_birthday_hat.21211	21211	HOLIDAY_EVENT_CONTENT	_4TH_BIRTHDAY_HAT
+item.absorption_4.11734	Absorption	ITEM	cache-item-family.absorption_4.11734	11734	TEMPORARY_INSTANCE_ITEM	ABSORPTION_4,ABSORPTION_3,ABSORPTION_2,ABSORPTION_1
+item.abyssal_potato.33118	Abyssal potato	ITEM	cache-item-family.abyssal_potato.33118	33118	HOLIDAY_EVENT_CONTENT	ABYSSAL_POTATO
+item.adamant_axe_head.518	Adamant axe head	ITEM	cache-item-family.adamant_axe_head.518	518	INACCESSIBLE_CACHE_CONTENT	ADAMANT_AXE_HEAD
+item.ambrosia_1.27349	Ambrosia (1)	ITEM	cache-item-family.ambrosia_1.27349	27349	TEMPORARY_INSTANCE_ITEM	AMBROSIA_1
+item.ambrosia_2.27347	Ambrosia (2)	ITEM	cache-item-family.ambrosia_2.27347	27347	TEMPORARY_INSTANCE_ITEM	AMBROSIA_2
+item.amulet_of_the_monarchs.30376	Amulet of the monarchs	ITEM	cache-item-family.amulet_of_the_monarchs.30376	30376	TEMPORARY_LEAGUES_CONTENT	AMULET_OF_THE_MONARCHS
+item.ancient_mjolnir.7804	Ancient mjolnir	ITEM	cache-item-family.ancient_mjolnir.7804	7804	INACCESSIBLE_CACHE_CONTENT	ANCIENT_MJOLNIR
+item.annihilation_blueprints.33015	Annihilation blueprints	ITEM	cache-item-family.annihilation_blueprints.33015	33015	DEADMAN_REWARD	ANNIHILATION_BLUEPRINTS
+item.annihilation_teleport_scroll.33018	Annihilation teleport scroll	ITEM	cache-item-family.annihilation_teleport_scroll.33018	33018	DEADMAN_REWARD	ANNIHILATION_TELEPORT_SCROLL
+item.annihilation_weapon_scroll.33012	Annihilation weapon scroll	ITEM	cache-item-family.annihilation_weapon_scroll.33012	33012	DEADMAN_REWARD	ANNIHILATION_WEAPON_SCROLL
+item.anti_dragon_shield_nz.11710	Anti-dragon shield (nz)	ITEM	cache-item-family.anti_dragon_shield_nz.11710	11710	TEMPORARY_INSTANCE_ITEM	ANTIDRAGON_SHIELD_NZ
+item.anti_panties.13288	Anti-panties	ITEM	cache-item-family.anti_panties.13288	13288	HOLIDAY_EVENT_CONTENT	ANTIPANTIES
+item.antisanta_boots.12896	Antisanta boots	ITEM	cache-item-family.antisanta_boots.12896	12896	HOLIDAY_EVENT_CONTENT	ANTISANTA_BOOTS
+item.antisanta_gloves.12895	Antisanta gloves	ITEM	cache-item-family.antisanta_gloves.12895	12895	HOLIDAY_EVENT_CONTENT	ANTISANTA_GLOVES
+item.antisanta_jacket.12893	Antisanta jacket	ITEM	cache-item-family.antisanta_jacket.12893	12893	HOLIDAY_EVENT_CONTENT	ANTISANTA_JACKET
+item.antisanta_mask.12892	Antisanta mask	ITEM	cache-item-family.antisanta_mask.12892	12892	HOLIDAY_EVENT_CONTENT	ANTISANTA_MASK
+item.antisanta_pantaloons.12894	Antisanta pantaloons	ITEM	cache-item-family.antisanta_pantaloons.12894	12894	HOLIDAY_EVENT_CONTENT	ANTISANTA_PANTALOONS
+item.arcane_grimoire.26551	Arcane grimoire	ITEM	cache-item-family.arcane_grimoire.26551	26551	TEMPORARY_LEAGUES_CONTENT	ARCANE_GRIMOIRE
+item.archibald.33149	Archibald	ITEM	cache-item-family.archibald.33149	33149	HOLIDAY_EVENT_CONTENT	ARCHIBALD
+item.armageddon_cape_fabric.29628	Armageddon cape fabric	ITEM	cache-item-family.armageddon_cape_fabric.29628	29628	DEADMAN_REWARD	ARMAGEDDON_CAPE_FABRIC
+item.armageddon_rug.29619	Armageddon rug	ITEM	cache-item-family.armageddon_rug.29619	29619	DEADMAN_REWARD	ARMAGEDDON_RUG
+item.armageddon_teleport_scroll.29622	Armageddon teleport scroll	ITEM	cache-item-family.armageddon_teleport_scroll.29622	29622	DEADMAN_REWARD	ARMAGEDDON_TELEPORT_SCROLL
+item.armageddon_weapon_scroll.29625	Armageddon weapon scroll	ITEM	cache-item-family.armageddon_weapon_scroll.29625	29625	DEADMAN_REWARD	ARMAGEDDON_WEAPON_SCROLL
+item.astral_tiara.9106	Astral tiara	ITEM	cache-item-family.astral_tiara.9106	9106	INACCESSIBLE_CACHE_CONTENT	ASTRAL_TIARA
+item.banana_cape.25502	Banana cape	ITEM	cache-item-family.banana_cape.25502	25502	HOLIDAY_EVENT_CONTENT	BANANA_CAPE
+item.banana_hat.25840	Banana hat	ITEM	cache-item-family.banana_hat.25840	25840	SEASONAL_OR_PROMOTIONAL_REWARD	BANANA_HAT
+item.banker_s_briefcase.30361	Banker's briefcase	ITEM	cache-item-family.banker_s_briefcase.30361	30361	TEMPORARY_LEAGUES_CONTENT	BANKERS_BRIEFCASE
+item.banker_s_note.28767	Banker's note	ITEM	cache-item-family.banker_s_note.28767	28767	TEMPORARY_LEAGUES_CONTENT	BANKERS_NOTE
+item.banshee_mask.20773	Banshee mask	ITEM	cache-item-family.banshee_mask.20773	20773	HOLIDAY_EVENT_CONTENT	BANSHEE_MASK
+item.banshee_robe.20777	Banshee robe	ITEM	cache-item-family.banshee_robe.20777	20777	HOLIDAY_EVENT_CONTENT	BANSHEE_ROBE
+item.banshee_top.20775	Banshee top	ITEM	cache-item-family.banshee_top.20775	20775	HOLIDAY_EVENT_CONTENT	BANSHEE_TOP
+item.beer_belly_sweater.32930	Beer belly sweater	ITEM	cache-item-family.beer_belly_sweater.32930	32930	SEASONAL_OR_PROMOTIONAL_REWARD	BEER_BELLY_SWEATER
+item.beige_pumpkin_angry.30242	Beige pumpkin (angry)	ITEM	cache-item-family.beige_pumpkin_angry.30242	30242	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_ANGRY
+item.beige_pumpkin_depressed.30243	Beige pumpkin (depressed)	ITEM	cache-item-family.beige_pumpkin_depressed.30243	30243	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_DEPRESSED
+item.beige_pumpkin_disgusted.30237	Beige pumpkin (disgusted)	ITEM	cache-item-family.beige_pumpkin_disgusted.30237	30237	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_DISGUSTED
+item.beige_pumpkin_evil.30241	Beige pumpkin (evil)	ITEM	cache-item-family.beige_pumpkin_evil.30241	30241	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_EVIL
+item.beige_pumpkin_happy.30246	Beige pumpkin (happy)	ITEM	cache-item-family.beige_pumpkin_happy.30246	30246	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_HAPPY
+item.beige_pumpkin_laughing.30247	Beige pumpkin (laughing)	ITEM	cache-item-family.beige_pumpkin_laughing.30247	30247	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_LAUGHING
+item.beige_pumpkin_sad.30245	Beige pumpkin (sad)	ITEM	cache-item-family.beige_pumpkin_sad.30245	30245	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_SAD
+item.beige_pumpkin_shocked.30244	Beige pumpkin (shocked)	ITEM	cache-item-family.beige_pumpkin_shocked.30244	30244	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_SHOCKED
+item.beige_pumpkin_silly.30239	Beige pumpkin (silly)	ITEM	cache-item-family.beige_pumpkin_silly.30239	30239	HOLIDAY_EVENT_CONTENT	BEIGE_PUMPKIN_SILLY
+item.birthday_balloons.21209	Birthday balloons	ITEM	cache-item-family.birthday_balloons.21209	21209	HOLIDAY_EVENT_CONTENT	BIRTHDAY_BALLOONS
+item.black_axe_head.514	Black axe head	ITEM	cache-item-family.black_axe_head.514	514	INACCESSIBLE_CACHE_CONTENT	BLACK_AXE_HEAD
+item.black_h_ween_mask.11847	Black h'ween mask	ITEM	cache-item-family.black_h_ween_mask.11847	11847	HOLIDAY_EVENT_CONTENT	BLACK_HWEEN_MASK
+item.black_partyhat.11862	Black partyhat	ITEM	cache-item-family.black_partyhat.11862	11862	HOLIDAY_EVENT_CONTENT	BLACK_PARTYHAT
+item.black_santa_hat.13343	Black santa hat	ITEM	cache-item-family.black_santa_hat.13343	13343	HOLIDAY_EVENT_CONTENT	BLACK_SANTA_HAT
+item.blighted_overload_4.29631	Blighted overload	ITEM	cache-item-family.blighted_overload_4.29631	29631	TEMPORARY_DEADMAN_CONTENT	BLIGHTED_OVERLOAD_4,BLIGHTED_OVERLOAD_3,BLIGHTED_OVERLOAD_2,BLIGHTED_OVERLOAD_1
+item.blue_gingerbread_shield.24431	Blue gingerbread shield	ITEM	cache-item-family.blue_gingerbread_shield.24431	24431	HOLIDAY_EVENT_CONTENT	BLUE_GINGERBREAD_SHIELD
+item.blue_halloween_mask.1055	Blue halloween mask	ITEM	cache-item-family.blue_halloween_mask.1055	1055	HOLIDAY_EVENT_CONTENT	BLUE_HALLOWEEN_MASK
+item.blue_partyhat.1042	Blue partyhat	ITEM	cache-item-family.blue_partyhat.1042	1042	HOLIDAY_EVENT_CONTENT	BLUE_PARTYHAT
+item.blue_sweets.4558	Blue sweets	ITEM	cache-item-family.blue_sweets.4558	4558	INACCESSIBLE_CACHE_CONTENT	BLUE_SWEETS
+item.bob_the_cat_slippers.27806	Bob the cat slippers	ITEM	cache-item-family.bob_the_cat_slippers.27806	27806	HOLIDAY_EVENT_CONTENT	BOB_THE_CAT_SLIPPERS
+item.bobble_hat.6856	Bobble hat	ITEM	cache-item-family.bobble_hat.6856	6856	HOLIDAY_EVENT_CONTENT	BOBBLE_HAT
+item.bobble_scarf.6857	Bobble scarf	ITEM	cache-item-family.bobble_scarf.6857	6857	HOLIDAY_EVENT_CONTENT	BOBBLE_SCARF
+item.book_of_egg.29433	Book of egg	ITEM	cache-item-family.book_of_egg.29433	29433	SEASONAL_OR_PROMOTIONAL_REWARD	BOOK_OF_EGG
+item.broken_axe.494	Broken axe	ITEM	cache-item-family.broken_axe.494	494	INACCESSIBLE_CACHE_CONTENT	BROKEN_AXE
+item.broken_pickaxe.468	Broken pickaxe	ITEM	cache-item-family.broken_pickaxe.468	468	INACCESSIBLE_CACHE_CONTENT	BROKEN_PICKAXE
+item.bronze_axe_head.508	Bronze axe head	ITEM	cache-item-family.bronze_axe_head.508	508	INACCESSIBLE_CACHE_CONTENT	BRONZE_AXE_HEAD
+item.bronze_speedrun_trophy.27418	Bronze speedrun trophy	ITEM	cache-item-family.bronze_speedrun_trophy.27418	27418	TEMPORARY_SPEEDRUN_CONTENT	BRONZE_SPEEDRUN_TROPHY
+item.bunny_ears.1037	Bunny ears	ITEM	cache-item-family.bunny_ears.1037	1037	HOLIDAY_EVENT_CONTENT	BUNNY_EARS
+item.bunny_feet.13182	Bunny feet	ITEM	cache-item-family.bunny_feet.13182	13182	HOLIDAY_EVENT_CONTENT	BUNNY_FEET
+item.bunny_legs.13664	Bunny legs	ITEM	cache-item-family.bunny_legs.13664	13664	HOLIDAY_EVENT_CONTENT	BUNNY_LEGS
+item.bunny_paws.13665	Bunny paws	ITEM	cache-item-family.bunny_paws.13665	13665	HOLIDAY_EVENT_CONTENT	BUNNY_PAWS
+item.bunny_top.13663	Bunny top	ITEM	cache-item-family.bunny_top.13663	13663	HOLIDAY_EVENT_CONTENT	BUNNY_TOP
+item.bunnyman_mask.23448	Bunnyman mask	ITEM	cache-item-family.bunnyman_mask.23448	23448	HOLIDAY_EVENT_CONTENT	BUNNYMAN_MASK
+item.butler_s_bell.33237	Butler's bell	ITEM	cache-item-family.butler_s_bell.33237	33237	TEMPORARY_LEAGUES_CONTENT	BUTLERS_BELL
+item.cabbage_cape.13679	Cabbage cape	ITEM	cache-item-family.cabbage_cape.13679	13679	SEASONAL_OR_PROMOTIONAL_REWARD	CABBAGE_CAPE
+item.cake_hat.27804	Cake hat	ITEM	cache-item-family.cake_hat.27804	27804	HOLIDAY_EVENT_CONTENT	CAKE_HAT
+item.camelot_quest_lamp.33008	Camelot quest lamp	ITEM	cache-item-family.camelot_quest_lamp.33008	33008	TEMPORARY_DEADMAN_CONTENT	CAMELOT_QUEST_LAMP
+item.candy_cane.22719	Candy cane	ITEM	cache-item-family.candy_cane.22719	22719	HOLIDAY_EVENT_CONTENT	CANDY_CANE
+item.carrot_costume_body.30722	Carrot costume body	ITEM	cache-item-family.carrot_costume_body.30722	30722	HOLIDAY_EVENT_CONTENT	CARROT_COSTUME_BODY
+item.carrot_costume_gloves.30726	Carrot costume gloves	ITEM	cache-item-family.carrot_costume_gloves.30726	30726	HOLIDAY_EVENT_CONTENT	CARROT_COSTUME_GLOVES
+item.carrot_costume_hat.30720	Carrot costume hat	ITEM	cache-item-family.carrot_costume_hat.30720	30720	HOLIDAY_EVENT_CONTENT	CARROT_COSTUME_HAT
+item.carrot_costume_tights.30724	Carrot costume tights	ITEM	cache-item-family.carrot_costume_tights.30724	30724	HOLIDAY_EVENT_CONTENT	CARROT_COSTUME_TIGHTS
+item.carrot_sword.24537	Carrot sword	ITEM	cache-item-family.carrot_sword.24537	24537	HOLIDAY_EVENT_CONTENT	CARROT_SWORD
+item.castle_wars_arrow.30694	Castle wars arrow	ITEM	cache-item-family.castle_wars_arrow.30694	30694	TEMPORARY_INSTANCE_ITEM	CASTLE_WARS_ARROW
+item.castle_wars_bolts.30696	Castle wars bolts	ITEM	cache-item-family.castle_wars_bolts.30696	30696	TEMPORARY_INSTANCE_ITEM	CASTLE_WARS_BOLTS
+item.cat_ears.24525	Cat ears	ITEM	cache-item-family.cat_ears.24525	24525	HOLIDAY_EVENT_CONTENT	CAT_EARS
+item.chicken_feet.11019	Chicken feet	ITEM	cache-item-family.chicken_feet.11019	11019	HOLIDAY_EVENT_CONTENT	CHICKEN_FEET
+item.chicken_head.11021	Chicken head	ITEM	cache-item-family.chicken_head.11021	11021	HOLIDAY_EVENT_CONTENT	CHICKEN_HEAD
+item.chicken_legs.11022	Chicken legs	ITEM	cache-item-family.chicken_legs.11022	11022	HOLIDAY_EVENT_CONTENT	CHICKEN_LEGS
+item.chicken_wings.11020	Chicken wings	ITEM	cache-item-family.chicken_wings.11020	11020	HOLIDAY_EVENT_CONTENT	CHICKEN_WINGS
+item.christmas_dinner.32934	Christmas dinner	ITEM	cache-item-family.christmas_dinner.32934	32934	HOLIDAY_EVENT_CONTENT	CHRISTMAS_DINNER
+item.christmas_jumper.27566	Christmas jumper	ITEM	cache-item-family.christmas_jumper.27566	27566	HOLIDAY_EVENT_CONTENT	CHRISTMAS_JUMPER
+item.classic_imp_hood.30648	Classic imp hood	ITEM	cache-item-family.classic_imp_hood.30648	30648	SEASONAL_OR_PROMOTIONAL_REWARD	CLASSIC_IMP_HOOD
+item.classic_imp_tail.30646	Classic imp tail	ITEM	cache-item-family.classic_imp_tail.30646	30646	SEASONAL_OR_PROMOTIONAL_REWARD	CLASSIC_IMP_TAIL
+item.clown_bow_tie.22692	Clown bow tie	ITEM	cache-item-family.clown_bow_tie.22692	22692	HOLIDAY_EVENT_CONTENT	CLOWN_BOW_TIE
+item.clown_gown.22695	Clown gown	ITEM	cache-item-family.clown_gown.22695	22695	HOLIDAY_EVENT_CONTENT	CLOWN_GOWN
+item.clown_mask.22689	Clown mask	ITEM	cache-item-family.clown_mask.22689	22689	HOLIDAY_EVENT_CONTENT	CLOWN_MASK
+item.clown_shoes.22701	Clown shoes	ITEM	cache-item-family.clown_shoes.22701	22701	HOLIDAY_EVENT_CONTENT	CLOWN_SHOES
+item.clown_trousers.22698	Clown trousers	ITEM	cache-item-family.clown_trousers.22698	22698	HOLIDAY_EVENT_CONTENT	CLOWN_TROUSERS
+item.clue_compass.30363	Clue compass	ITEM	cache-item-family.clue_compass.30363	30363	TEMPORARY_LEAGUES_CONTENT	CLUE_COMPASS
+item.cobweb_cape.28601	Cobweb cape	ITEM	cache-item-family.cobweb_cape.28601	28601	HOLIDAY_EVENT_CONTENT	COBWEB_CAPE
+item.corrupted_armadyl_godsword.28537	Corrupted armadyl godsword	ITEM	cache-item-family.corrupted_armadyl_godsword.28537	28537	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_ARMADYL_GODSWORD
+item.corrupted_axe.23821	Corrupted axe	ITEM	cache-item-family.corrupted_axe.23821	23821	TEMPORARY_INSTANCE_ITEM	CORRUPTED_AXE
+item.corrupted_body_attuned.23844	Corrupted body (attuned)	ITEM	cache-item-family.corrupted_body_attuned.23844	23844	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BODY_ATTUNED
+item.corrupted_body_basic.23843	Corrupted body (basic)	ITEM	cache-item-family.corrupted_body_basic.23843	23843	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BODY_BASIC
+item.corrupted_body_perfected.23845	Corrupted body (perfected)	ITEM	cache-item-family.corrupted_body_perfected.23845	23845	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BODY_PERFECTED
+item.corrupted_bow_attuned.23856	Corrupted bow (attuned)	ITEM	cache-item-family.corrupted_bow_attuned.23856	23856	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BOW_ATTUNED
+item.corrupted_bow_basic.23855	Corrupted bow (basic)	ITEM	cache-item-family.corrupted_bow_basic.23855	23855	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BOW_BASIC
+item.corrupted_bow_perfected.23857	Corrupted bow (perfected)	ITEM	cache-item-family.corrupted_bow_perfected.23857	23857	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BOW_PERFECTED
+item.corrupted_bowstring.23832	Corrupted bowstring	ITEM	cache-item-family.corrupted_bowstring.23832	23832	TEMPORARY_INSTANCE_ITEM	CORRUPTED_BOWSTRING
+item.corrupted_dark_bow.29599	Corrupted dark bow	ITEM	cache-item-family.corrupted_dark_bow.29599	29599	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_DARK_BOW
+item.corrupted_dragon_claws.28534	Corrupted dragon claws	ITEM	cache-item-family.corrupted_dragon_claws.28534	28534	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_DRAGON_CLAWS
+item.corrupted_escape_crystal.25959	Corrupted escape crystal	ITEM	cache-item-family.corrupted_escape_crystal.25959	25959	TEMPORARY_INSTANCE_ITEM	CORRUPTED_ESCAPE_CRYSTAL
+item.corrupted_halberd_attuned.23850	Corrupted halberd (attuned)	ITEM	cache-item-family.corrupted_halberd_attuned.23850	23850	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HALBERD_ATTUNED
+item.corrupted_halberd_basic.23849	Corrupted halberd (basic)	ITEM	cache-item-family.corrupted_halberd_basic.23849	23849	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HALBERD_BASIC
+item.corrupted_halberd_perfected.23851	Corrupted halberd (perfected)	ITEM	cache-item-family.corrupted_halberd_perfected.23851	23851	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HALBERD_PERFECTED
+item.corrupted_harpoon.23823	Corrupted harpoon	ITEM	cache-item-family.corrupted_harpoon.23823	23823	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HARPOON
+item.corrupted_helm_attuned.23841	Corrupted helm (attuned)	ITEM	cache-item-family.corrupted_helm_attuned.23841	23841	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HELM_ATTUNED
+item.corrupted_helm_basic.23840	Corrupted helm (basic)	ITEM	cache-item-family.corrupted_helm_basic.23840	23840	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HELM_BASIC
+item.corrupted_helm_perfected.23842	Corrupted helm (perfected)	ITEM	cache-item-family.corrupted_helm_perfected.23842	23842	TEMPORARY_INSTANCE_ITEM	CORRUPTED_HELM_PERFECTED
+item.corrupted_legs_attuned.23847	Corrupted legs (attuned)	ITEM	cache-item-family.corrupted_legs_attuned.23847	23847	TEMPORARY_INSTANCE_ITEM	CORRUPTED_LEGS_ATTUNED
+item.corrupted_legs_basic.23846	Corrupted legs (basic)	ITEM	cache-item-family.corrupted_legs_basic.23846	23846	TEMPORARY_INSTANCE_ITEM	CORRUPTED_LEGS_BASIC
+item.corrupted_legs_perfected.23848	Corrupted legs (perfected)	ITEM	cache-item-family.corrupted_legs_perfected.23848	23848	TEMPORARY_INSTANCE_ITEM	CORRUPTED_LEGS_PERFECTED
+item.corrupted_ore.23837	Corrupted ore	ITEM	cache-item-family.corrupted_ore.23837	23837	TEMPORARY_INSTANCE_ITEM	CORRUPTED_ORE
+item.corrupted_paddlefish.25958	Corrupted paddlefish	ITEM	cache-item-family.corrupted_paddlefish.25958	25958	TEMPORARY_INSTANCE_ITEM	CORRUPTED_PADDLEFISH
+item.corrupted_pickaxe.23822	Corrupted pickaxe	ITEM	cache-item-family.corrupted_pickaxe.23822	23822	TEMPORARY_INSTANCE_ITEM	CORRUPTED_PICKAXE
+item.corrupted_sceptre.23820	Corrupted sceptre	ITEM	cache-item-family.corrupted_sceptre.23820	23820	TEMPORARY_INSTANCE_ITEM	CORRUPTED_SCEPTRE
+item.corrupted_scythe_of_vitur.28543	Corrupted scythe of vitur	ITEM	cache-item-family.corrupted_scythe_of_vitur.28543	28543	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_SCYTHE_OF_VITUR
+item.corrupted_shark.31174	Corrupted shark	ITEM	cache-item-family.corrupted_shark.31174	31174	TEMPORARY_COMMUNITY_EVENT_CONTENT	CORRUPTED_SHARK
+item.corrupted_staff_attuned.23853	Corrupted staff (attuned)	ITEM	cache-item-family.corrupted_staff_attuned.23853	23853	TEMPORARY_INSTANCE_ITEM	CORRUPTED_STAFF_ATTUNED
+item.corrupted_staff_basic.23852	Corrupted staff (basic)	ITEM	cache-item-family.corrupted_staff_basic.23852	23852	TEMPORARY_INSTANCE_ITEM	CORRUPTED_STAFF_BASIC
+item.corrupted_staff_perfected.23854	Corrupted staff (perfected)	ITEM	cache-item-family.corrupted_staff_perfected.23854	23854	TEMPORARY_INSTANCE_ITEM	CORRUPTED_STAFF_PERFECTED
+item.corrupted_teleport_crystal.23858	Corrupted teleport crystal	ITEM	cache-item-family.corrupted_teleport_crystal.23858	23858	TEMPORARY_INSTANCE_ITEM	CORRUPTED_TELEPORT_CRYSTAL
+item.corrupted_tumeken_s_shadow.28547	Corrupted tumeken's shadow	ITEM	cache-item-family.corrupted_tumeken_s_shadow.28547	28547	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_TUMEKENS_SHADOW
+item.corrupted_twisted_bow.28540	Corrupted twisted bow	ITEM	cache-item-family.corrupted_twisted_bow.28540	28540	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_TWISTED_BOW
+item.corrupted_voidwaker.28531	Corrupted voidwaker	ITEM	cache-item-family.corrupted_voidwaker.28531	28531	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_VOIDWAKER
+item.corrupted_volatile_nightmare_staff.29602	Corrupted volatile nightmare staff	ITEM	cache-item-family.corrupted_volatile_nightmare_staff.29602	29602	TEMPORARY_DEADMAN_CONTENT	CORRUPTED_VOLATILE_NIGHTMARE_STAFF
+item.cow_gloves.12958	Cow gloves	ITEM	cache-item-family.cow_gloves.12958	12958	HOLIDAY_EVENT_CONTENT	COW_GLOVES
+item.cow_mask.11919	Cow mask	ITEM	cache-item-family.cow_mask.11919	11919	HOLIDAY_EVENT_CONTENT	COW_MASK
+item.cow_shoes.12959	Cow shoes	ITEM	cache-item-family.cow_shoes.12959	12959	HOLIDAY_EVENT_CONTENT	COW_SHOES
+item.cow_top.12956	Cow top	ITEM	cache-item-family.cow_top.12956	12956	HOLIDAY_EVENT_CONTENT	COW_TOP
+item.cow_trousers.12957	Cow trousers	ITEM	cache-item-family.cow_trousers.12957	12957	HOLIDAY_EVENT_CONTENT	COW_TROUSERS
+item.crate_ring.26939	Crate ring	ITEM	cache-item-family.crate_ring.26939	26939	HOLIDAY_EVENT_CONTENT	CRATE_RING
+item.cruciferous_codex.13681	Cruciferous codex	ITEM	cache-item-family.cruciferous_codex.13681	13681	SEASONAL_OR_PROMOTIONAL_REWARD	CRUCIFEROUS_CODEX
+item.crystal_blessing.30384	Crystal blessing	ITEM	cache-item-family.crystal_blessing.30384	30384	TEMPORARY_LEAGUES_CONTENT	CRYSTAL_BLESSING
+item.crystal_body_attuned.23890	Crystal body (attuned)	ITEM	cache-item-family.crystal_body_attuned.23890	23890	TEMPORARY_INSTANCE_ITEM	CRYSTAL_BODY_ATTUNED
+item.crystal_body_basic.23889	Crystal body (basic)	ITEM	cache-item-family.crystal_body_basic.23889	23889	TEMPORARY_INSTANCE_ITEM	CRYSTAL_BODY_BASIC
+item.crystal_body_perfected.23891	Crystal body (perfected)	ITEM	cache-item-family.crystal_body_perfected.23891	23891	TEMPORARY_INSTANCE_ITEM	CRYSTAL_BODY_PERFECTED
+item.crystal_bow_1_10.4223	Crystal bow 1/10	ITEM	cache-item-family.crystal_bow_1_10.4223	4223	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_110
+item.crystal_bow_1_10_i.11758	Crystal bow 1/10 (i)	ITEM	cache-item-family.crystal_bow_1_10_i.11758	11758	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_110_I
+item.crystal_bow_2_10.4222	Crystal bow 2/10	ITEM	cache-item-family.crystal_bow_2_10.4222	4222	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_210
+item.crystal_bow_2_10_i.11757	Crystal bow 2/10 (i)	ITEM	cache-item-family.crystal_bow_2_10_i.11757	11757	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_210_I
+item.crystal_bow_3_10.4221	Crystal bow 3/10	ITEM	cache-item-family.crystal_bow_3_10.4221	4221	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_310
+item.crystal_bow_3_10_i.11756	Crystal bow 3/10 (i)	ITEM	cache-item-family.crystal_bow_3_10_i.11756	11756	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_310_I
+item.crystal_bow_4_10.4220	Crystal bow 4/10	ITEM	cache-item-family.crystal_bow_4_10.4220	4220	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_410
+item.crystal_bow_4_10_i.11755	Crystal bow 4/10 (i)	ITEM	cache-item-family.crystal_bow_4_10_i.11755	11755	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_410_I
+item.crystal_bow_5_10.4219	Crystal bow 5/10	ITEM	cache-item-family.crystal_bow_5_10.4219	4219	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_510
+item.crystal_bow_5_10_i.11754	Crystal bow 5/10 (i)	ITEM	cache-item-family.crystal_bow_5_10_i.11754	11754	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_510_I
+item.crystal_bow_6_10.4218	Crystal bow 6/10	ITEM	cache-item-family.crystal_bow_6_10.4218	4218	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_610
+item.crystal_bow_6_10_i.11753	Crystal bow 6/10 (i)	ITEM	cache-item-family.crystal_bow_6_10_i.11753	11753	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_610_I
+item.crystal_bow_7_10.4217	Crystal bow 7/10	ITEM	cache-item-family.crystal_bow_7_10.4217	4217	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_710
+item.crystal_bow_7_10_i.11752	Crystal bow 7/10 (i)	ITEM	cache-item-family.crystal_bow_7_10_i.11752	11752	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_710_I
+item.crystal_bow_8_10.4216	Crystal bow 8/10	ITEM	cache-item-family.crystal_bow_8_10.4216	4216	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_810
+item.crystal_bow_8_10_i.11751	Crystal bow 8/10 (i)	ITEM	cache-item-family.crystal_bow_8_10_i.11751	11751	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_810_I
+item.crystal_bow_9_10.4215	Crystal bow 9/10	ITEM	cache-item-family.crystal_bow_9_10.4215	4215	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_910
+item.crystal_bow_9_10_i.11750	Crystal bow 9/10 (i)	ITEM	cache-item-family.crystal_bow_9_10_i.11750	11750	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_910_I
+item.crystal_bow_attuned.23902	Crystal bow (attuned)	ITEM	cache-item-family.crystal_bow_attuned.23902	23902	TEMPORARY_INSTANCE_ITEM	CRYSTAL_BOW_ATTUNED
+item.crystal_bow_basic.23901	Crystal bow (basic)	ITEM	cache-item-family.crystal_bow_basic.23901	23901	TEMPORARY_INSTANCE_ITEM	CRYSTAL_BOW_BASIC
+item.crystal_bow_full.4214	Crystal bow full	ITEM	cache-item-family.crystal_bow_full.4214	4214	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_FULL
+item.crystal_bow_full_i.11749	Crystal bow full (i)	ITEM	cache-item-family.crystal_bow_full_i.11749	11749	OBSOLETE_HISTORICAL_STATE	CRYSTAL_BOW_FULL_I
+item.crystal_bow_perfected.23903	Crystal bow (perfected)	ITEM	cache-item-family.crystal_bow_perfected.23903	23903	TEMPORARY_INSTANCE_ITEM	CRYSTAL_BOW_PERFECTED
+item.crystal_dagger_perfected.30340	Crystal dagger (perfected)	ITEM	cache-item-family.crystal_dagger_perfected.30340	30340	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT	CRYSTAL_DAGGER_PERFECTED
+item.crystal_halberd_1_10.13101	Crystal halberd 1/10	ITEM	cache-item-family.crystal_halberd_1_10.13101	13101	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_110
+item.crystal_halberd_1_10_i.13090	Crystal halberd 1/10 (i)	ITEM	cache-item-family.crystal_halberd_1_10_i.13090	13090	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_110_I
+item.crystal_halberd_2_10.13100	Crystal halberd 2/10	ITEM	cache-item-family.crystal_halberd_2_10.13100	13100	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_210
+item.crystal_halberd_2_10_i.13089	Crystal halberd 2/10 (i)	ITEM	cache-item-family.crystal_halberd_2_10_i.13089	13089	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_210_I
+item.crystal_halberd_3_10.13099	Crystal halberd 3/10	ITEM	cache-item-family.crystal_halberd_3_10.13099	13099	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_310
+item.crystal_halberd_3_10_i.13088	Crystal halberd 3/10 (i)	ITEM	cache-item-family.crystal_halberd_3_10_i.13088	13088	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_310_I
+item.crystal_halberd_4_10.13098	Crystal halberd 4/10	ITEM	cache-item-family.crystal_halberd_4_10.13098	13098	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_410
+item.crystal_halberd_4_10_i.13087	Crystal halberd 4/10 (i)	ITEM	cache-item-family.crystal_halberd_4_10_i.13087	13087	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_410_I
+item.crystal_halberd_5_10.13097	Crystal halberd 5/10	ITEM	cache-item-family.crystal_halberd_5_10.13097	13097	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_510
+item.crystal_halberd_5_10_i.13086	Crystal halberd 5/10 (i)	ITEM	cache-item-family.crystal_halberd_5_10_i.13086	13086	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_510_I
+item.crystal_halberd_6_10.13096	Crystal halberd 6/10	ITEM	cache-item-family.crystal_halberd_6_10.13096	13096	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_610
+item.crystal_halberd_6_10_i.13085	Crystal halberd 6/10 (i)	ITEM	cache-item-family.crystal_halberd_6_10_i.13085	13085	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_610_I
+item.crystal_halberd_7_10.13095	Crystal halberd 7/10	ITEM	cache-item-family.crystal_halberd_7_10.13095	13095	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_710
+item.crystal_halberd_7_10_i.13084	Crystal halberd 7/10 (i)	ITEM	cache-item-family.crystal_halberd_7_10_i.13084	13084	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_710_I
+item.crystal_halberd_8_10.13094	Crystal halberd 8/10	ITEM	cache-item-family.crystal_halberd_8_10.13094	13094	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_810
+item.crystal_halberd_8_10_i.13083	Crystal halberd 8/10 (i)	ITEM	cache-item-family.crystal_halberd_8_10_i.13083	13083	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_810_I
+item.crystal_halberd_9_10.13093	Crystal halberd 9/10	ITEM	cache-item-family.crystal_halberd_9_10.13093	13093	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_910
+item.crystal_halberd_9_10_i.13082	Crystal halberd 9/10 (i)	ITEM	cache-item-family.crystal_halberd_9_10_i.13082	13082	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_910_I
+item.crystal_halberd_attuned.23896	Crystal halberd (attuned)	ITEM	cache-item-family.crystal_halberd_attuned.23896	23896	TEMPORARY_INSTANCE_ITEM	CRYSTAL_HALBERD_ATTUNED
+item.crystal_halberd_basic.23895	Crystal halberd (basic)	ITEM	cache-item-family.crystal_halberd_basic.23895	23895	TEMPORARY_INSTANCE_ITEM	CRYSTAL_HALBERD_BASIC
+item.crystal_halberd_full.13092	Crystal halberd full	ITEM	cache-item-family.crystal_halberd_full.13092	13092	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_FULL
+item.crystal_halberd_full_i.13081	Crystal halberd full (i)	ITEM	cache-item-family.crystal_halberd_full_i.13081	13081	OBSOLETE_HISTORICAL_STATE	CRYSTAL_HALBERD_FULL_I
+item.crystal_halberd_perfected.23897	Crystal halberd (perfected)	ITEM	cache-item-family.crystal_halberd_perfected.23897	23897	TEMPORARY_INSTANCE_ITEM	CRYSTAL_HALBERD_PERFECTED
+item.crystal_helm_attuned.23887	Crystal helm (attuned)	ITEM	cache-item-family.crystal_helm_attuned.23887	23887	TEMPORARY_INSTANCE_ITEM	CRYSTAL_HELM_ATTUNED
+item.crystal_helm_basic.23886	Crystal helm (basic)	ITEM	cache-item-family.crystal_helm_basic.23886	23886	TEMPORARY_INSTANCE_ITEM	CRYSTAL_HELM_BASIC
+item.crystal_helm_perfected.23888	Crystal helm (perfected)	ITEM	cache-item-family.crystal_helm_perfected.23888	23888	TEMPORARY_INSTANCE_ITEM	CRYSTAL_HELM_PERFECTED
+item.crystal_legs_attuned.23893	Crystal legs (attuned)	ITEM	cache-item-family.crystal_legs_attuned.23893	23893	TEMPORARY_INSTANCE_ITEM	CRYSTAL_LEGS_ATTUNED
+item.crystal_legs_basic.23892	Crystal legs (basic)	ITEM	cache-item-family.crystal_legs_basic.23892	23892	TEMPORARY_INSTANCE_ITEM	CRYSTAL_LEGS_BASIC
+item.crystal_legs_perfected.23894	Crystal legs (perfected)	ITEM	cache-item-family.crystal_legs_perfected.23894	23894	TEMPORARY_INSTANCE_ITEM	CRYSTAL_LEGS_PERFECTED
+item.crystal_ore.23877	Crystal ore	ITEM	cache-item-family.crystal_ore.23877	23877	TEMPORARY_INSTANCE_ITEM	CRYSTAL_ORE
+item.crystal_sceptre.23861	Crystal sceptre	ITEM	cache-item-family.crystal_sceptre.23861	23861	TEMPORARY_INSTANCE_ITEM	CRYSTAL_SCEPTRE
+item.crystal_shield_1_10.4234	Crystal shield 1/10	ITEM	cache-item-family.crystal_shield_1_10.4234	4234	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_110
+item.crystal_shield_1_10_i.11769	Crystal shield 1/10 (i)	ITEM	cache-item-family.crystal_shield_1_10_i.11769	11769	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_110_I
+item.crystal_shield_2_10.4233	Crystal shield 2/10	ITEM	cache-item-family.crystal_shield_2_10.4233	4233	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_210
+item.crystal_shield_2_10_i.11768	Crystal shield 2/10 (i)	ITEM	cache-item-family.crystal_shield_2_10_i.11768	11768	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_210_I
+item.crystal_shield_3_10.4232	Crystal shield 3/10	ITEM	cache-item-family.crystal_shield_3_10.4232	4232	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_310
+item.crystal_shield_3_10_i.11767	Crystal shield 3/10 (i)	ITEM	cache-item-family.crystal_shield_3_10_i.11767	11767	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_310_I
+item.crystal_shield_4_10.4231	Crystal shield 4/10	ITEM	cache-item-family.crystal_shield_4_10.4231	4231	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_410
+item.crystal_shield_4_10_i.11766	Crystal shield 4/10 (i)	ITEM	cache-item-family.crystal_shield_4_10_i.11766	11766	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_410_I
+item.crystal_shield_5_10.4230	Crystal shield 5/10	ITEM	cache-item-family.crystal_shield_5_10.4230	4230	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_510
+item.crystal_shield_5_10_i.11765	Crystal shield 5/10 (i)	ITEM	cache-item-family.crystal_shield_5_10_i.11765	11765	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_510_I
+item.crystal_shield_6_10.4229	Crystal shield 6/10	ITEM	cache-item-family.crystal_shield_6_10.4229	4229	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_610
+item.crystal_shield_6_10_i.11764	Crystal shield 6/10 (i)	ITEM	cache-item-family.crystal_shield_6_10_i.11764	11764	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_610_I
+item.crystal_shield_7_10.4228	Crystal shield 7/10	ITEM	cache-item-family.crystal_shield_7_10.4228	4228	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_710
+item.crystal_shield_7_10_i.11763	Crystal shield 7/10 (i)	ITEM	cache-item-family.crystal_shield_7_10_i.11763	11763	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_710_I
+item.crystal_shield_8_10.4227	Crystal shield 8/10	ITEM	cache-item-family.crystal_shield_8_10.4227	4227	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_810
+item.crystal_shield_8_10_i.11762	Crystal shield 8/10 (i)	ITEM	cache-item-family.crystal_shield_8_10_i.11762	11762	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_810_I
+item.crystal_shield_9_10.4226	Crystal shield 9/10	ITEM	cache-item-family.crystal_shield_9_10.4226	4226	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_910
+item.crystal_shield_9_10_i.11761	Crystal shield 9/10 (i)	ITEM	cache-item-family.crystal_shield_9_10_i.11761	11761	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_910_I
+item.crystal_shield_full.4225	Crystal shield full	ITEM	cache-item-family.crystal_shield_full.4225	4225	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_FULL
+item.crystal_shield_full_i.11760	Crystal shield full (i)	ITEM	cache-item-family.crystal_shield_full_i.11760	11760	OBSOLETE_HISTORICAL_STATE	CRYSTAL_SHIELD_FULL_I
+item.crystal_staff_attuned.23899	Crystal staff (attuned)	ITEM	cache-item-family.crystal_staff_attuned.23899	23899	TEMPORARY_INSTANCE_ITEM	CRYSTAL_STAFF_ATTUNED
+item.crystal_staff_basic.23898	Crystal staff (basic)	ITEM	cache-item-family.crystal_staff_basic.23898	23898	TEMPORARY_INSTANCE_ITEM	CRYSTAL_STAFF_BASIC
+item.crystal_staff_perfected.23900	Crystal staff (perfected)	ITEM	cache-item-family.crystal_staff_perfected.23900	23900	TEMPORARY_INSTANCE_ITEM	CRYSTAL_STAFF_PERFECTED
+item.crystalline_bowstring.23869	Crystalline bowstring	ITEM	cache-item-family.crystalline_bowstring.23869	23869	TEMPORARY_INSTANCE_ITEM	CRYSTALLINE_BOWSTRING
+item.cursed_banana.25500	Cursed banana	ITEM	cache-item-family.cursed_banana.25500	25500	HOLIDAY_EVENT_CONTENT	CURSED_BANANA
+item.dark_green_pumpkin_angry.30287	Dark green pumpkin (angry)	ITEM	cache-item-family.dark_green_pumpkin_angry.30287	30287	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_ANGRY
+item.dark_green_pumpkin_depressed.30288	Dark green pumpkin (depressed)	ITEM	cache-item-family.dark_green_pumpkin_depressed.30288	30288	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_DEPRESSED
+item.dark_green_pumpkin_disgusted.30284	Dark green pumpkin (disgusted)	ITEM	cache-item-family.dark_green_pumpkin_disgusted.30284	30284	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_DISGUSTED
+item.dark_green_pumpkin_evil.30286	Dark green pumpkin (evil)	ITEM	cache-item-family.dark_green_pumpkin_evil.30286	30286	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_EVIL
+item.dark_green_pumpkin_happy.30291	Dark green pumpkin (happy)	ITEM	cache-item-family.dark_green_pumpkin_happy.30291	30291	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_HAPPY
+item.dark_green_pumpkin_laughing.30292	Dark green pumpkin (laughing)	ITEM	cache-item-family.dark_green_pumpkin_laughing.30292	30292	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_LAUGHING
+item.dark_green_pumpkin_sad.30290	Dark green pumpkin (sad)	ITEM	cache-item-family.dark_green_pumpkin_sad.30290	30290	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_SAD
+item.dark_green_pumpkin_shocked.30289	Dark green pumpkin (shocked)	ITEM	cache-item-family.dark_green_pumpkin_shocked.30289	30289	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_SHOCKED
+item.dark_green_pumpkin_silly.30285	Dark green pumpkin (silly)	ITEM	cache-item-family.dark_green_pumpkin_silly.30285	30285	HOLIDAY_EVENT_CONTENT	DARK_GREEN_PUMPKIN_SILLY
+item.deep_blue_sweets.4559	Deep blue sweets	ITEM	cache-item-family.deep_blue_sweets.4559	4559	INACCESSIBLE_CACHE_CONTENT	DEEP_BLUE_SWEETS
+item.demonic_axe_ornament_kit.33305	Demonic axe ornament kit	ITEM	cache-item-family.demonic_axe_ornament_kit.33305	33305	TEMPORARY_LEAGUES_CONTENT	DEMONIC_AXE_ORNAMENT_KIT
+item.demonic_boots_t1.33269	Demonic boots (t1)	ITEM	cache-item-family.demonic_boots_t1.33269	33269	TEMPORARY_LEAGUES_CONTENT	DEMONIC_BOOTS_T1
+item.demonic_boots_t2.33281	Demonic boots (t2)	ITEM	cache-item-family.demonic_boots_t2.33281	33281	TEMPORARY_LEAGUES_CONTENT	DEMONIC_BOOTS_T2
+item.demonic_boots_t3.33293	Demonic boots (t3)	ITEM	cache-item-family.demonic_boots_t3.33293	33293	TEMPORARY_LEAGUES_CONTENT	DEMONIC_BOOTS_T3
+item.demonic_hood_t1.33260	Demonic hood (t1)	ITEM	cache-item-family.demonic_hood_t1.33260	33260	TEMPORARY_LEAGUES_CONTENT	DEMONIC_HOOD_T1
+item.demonic_hood_t2.33272	Demonic hood (t2)	ITEM	cache-item-family.demonic_hood_t2.33272	33272	TEMPORARY_LEAGUES_CONTENT	DEMONIC_HOOD_T2
+item.demonic_hood_t3.33284	Demonic hood (t3)	ITEM	cache-item-family.demonic_hood_t3.33284	33284	TEMPORARY_LEAGUES_CONTENT	DEMONIC_HOOD_T3
+item.demonic_pacts_adamant_trophy.33349	Demonic pacts adamant trophy	ITEM	cache-item-family.demonic_pacts_adamant_trophy.33349	33349	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_ADAMANT_TROPHY
+item.demonic_pacts_banner.33299	Demonic pacts banner	ITEM	cache-item-family.demonic_pacts_banner.33299	33299	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_BANNER
+item.demonic_pacts_bronze_trophy.33357	Demonic pacts bronze trophy	ITEM	cache-item-family.demonic_pacts_bronze_trophy.33357	33357	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_BRONZE_TROPHY
+item.demonic_pacts_demon_butler_scroll.33368	Demonic pacts demon butler scroll	ITEM	cache-item-family.demonic_pacts_demon_butler_scroll.33368	33368	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_DEMON_BUTLER_SCROLL
+item.demonic_pacts_dragon_trophy.33345	Demonic pacts dragon trophy	ITEM	cache-item-family.demonic_pacts_dragon_trophy.33345	33345	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_DRAGON_TROPHY
+item.demonic_pacts_iron_trophy.33355	Demonic pacts iron trophy	ITEM	cache-item-family.demonic_pacts_iron_trophy.33355	33355	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_IRON_TROPHY
+item.demonic_pacts_mithril_trophy.33351	Demonic pacts mithril trophy	ITEM	cache-item-family.demonic_pacts_mithril_trophy.33351	33351	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_MITHRIL_TROPHY
+item.demonic_pacts_relic_hunter_t1_armour_set.33451	Demonic pacts relic hunter (t1) armour set	ITEM	cache-item-family.demonic_pacts_relic_hunter_t1_armour_set.33451	33451	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_RELIC_HUNTER_T1_ARMOUR_SET
+item.demonic_pacts_relic_hunter_t2_armour_set.33454	Demonic pacts relic hunter (t2) armour set	ITEM	cache-item-family.demonic_pacts_relic_hunter_t2_armour_set.33454	33454	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_RELIC_HUNTER_T2_ARMOUR_SET
+item.demonic_pacts_relic_hunter_t3_armour_set.33457	Demonic pacts relic hunter (t3) armour set	ITEM	cache-item-family.demonic_pacts_relic_hunter_t3_armour_set.33457	33457	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_RELIC_HUNTER_T3_ARMOUR_SET
+item.demonic_pacts_rune_trophy.33347	Demonic pacts rune trophy	ITEM	cache-item-family.demonic_pacts_rune_trophy.33347	33347	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_RUNE_TROPHY
+item.demonic_pacts_steel_trophy.33353	Demonic pacts steel trophy	ITEM	cache-item-family.demonic_pacts_steel_trophy.33353	33353	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_STEEL_TROPHY
+item.demonic_pacts_throne_scroll.33362	Demonic pacts throne scroll	ITEM	cache-item-family.demonic_pacts_throne_scroll.33362	33362	TEMPORARY_LEAGUES_CONTENT	DEMONIC_PACTS_THRONE_SCROLL
+item.demonic_quill.33342	Demonic quill	ITEM	cache-item-family.demonic_quill.33342	33342	DEMONIC_PACTS_REWARD_CONTENT	DEMONIC_QUILL
+item.demonic_robe_bottom_t1.33266	Demonic robe bottom (t1)	ITEM	cache-item-family.demonic_robe_bottom_t1.33266	33266	TEMPORARY_LEAGUES_CONTENT	DEMONIC_ROBE_BOTTOM_T1
+item.demonic_robe_bottom_t2.33278	Demonic robe bottom (t2)	ITEM	cache-item-family.demonic_robe_bottom_t2.33278	33278	TEMPORARY_LEAGUES_CONTENT	DEMONIC_ROBE_BOTTOM_T2
+item.demonic_robe_bottom_t3.33290	Demonic robe bottom (t3)	ITEM	cache-item-family.demonic_robe_bottom_t3.33290	33290	TEMPORARY_LEAGUES_CONTENT	DEMONIC_ROBE_BOTTOM_T3
+item.demonic_robe_top_t1.33263	Demonic robe top (t1)	ITEM	cache-item-family.demonic_robe_top_t1.33263	33263	TEMPORARY_LEAGUES_CONTENT	DEMONIC_ROBE_TOP_T1
+item.demonic_robe_top_t2.33275	Demonic robe top (t2)	ITEM	cache-item-family.demonic_robe_top_t2.33275	33275	TEMPORARY_LEAGUES_CONTENT	DEMONIC_ROBE_TOP_T2
+item.demonic_robe_top_t3.33287	Demonic robe top (t3)	ITEM	cache-item-family.demonic_robe_top_t3.33287	33287	TEMPORARY_LEAGUES_CONTENT	DEMONIC_ROBE_TOP_T3
+item.demonic_sceptre.33296	Demonic sceptre	ITEM	cache-item-family.demonic_sceptre.33296	33296	TEMPORARY_LEAGUES_CONTENT	DEMONIC_SCEPTRE
+item.demonic_skin_contract.33302	Demonic skin contract	ITEM	cache-item-family.demonic_skin_contract.33302	33302	DEMONIC_PACTS_REWARD_CONTENT	DEMONIC_SKIN_CONTRACT
+item.demonic_staff_ornament_kit.33308	Demonic staff ornament kit	ITEM	cache-item-family.demonic_staff_ornament_kit.33308	33308	DEMONIC_PACTS_REWARD_CONTENT	DEMONIC_STAFF_ORNAMENT_KIT
+item.demonic_trident_ornament_kit.33311	Demonic trident ornament kit	ITEM	cache-item-family.demonic_trident_ornament_kit.33311	33311	DEMONIC_PACTS_REWARD_CONTENT	DEMONIC_TRIDENT_ORNAMENT_KIT
+item.devil_s_element.30371	Devil's element	ITEM	cache-item-family.devil_s_element.30371	30371	TEMPORARY_LEAGUES_CONTENT	DEVILS_ELEMENT
+item.diamond_speedrun_trophy.27783	Diamond speedrun trophy	ITEM	cache-item-family.diamond_speedrun_trophy.27783	27783	TEMPORARY_SPEEDRUN_CONTENT	DIAMOND_SPEEDRUN_TROPHY
+item.dni23_arms_bare.29730	Dni23 arms bare	ITEM	cache-item-family.dni23_arms_bare.29730	29730	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_BARE
+item.dni23_arms_bareshoulders.29736	Dni23 arms bareshoulders	ITEM	cache-item-family.dni23_arms_bareshoulders.29736	29736	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_BARESHOULDERS
+item.dni23_arms_frilly.29732	Dni23 arms frilly	ITEM	cache-item-family.dni23_arms_frilly.29732	29732	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_FRILLY
+item.dni23_arms_loosesleeves.29722	Dni23 arms loosesleeves	ITEM	cache-item-family.dni23_arms_loosesleeves.29722	29722	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_LOOSESLEEVES
+item.dni23_arms_princely.29724	Dni23 arms princely	ITEM	cache-item-family.dni23_arms_princely.29724	29724	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_PRINCELY
+item.dni23_arms_ripped.29728	Dni23 arms ripped	ITEM	cache-item-family.dni23_arms_ripped.29728	29728	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_RIPPED
+item.dni23_arms_shoulderpads.29718	Dni23 arms shoulderpads	ITEM	cache-item-family.dni23_arms_shoulderpads.29718	29718	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_SHOULDERPADS
+item.dni23_arms_tattylong.29726	Dni23 arms tattylong	ITEM	cache-item-family.dni23_arms_tattylong.29726	29726	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_TATTYLONG
+item.dni23_arms_tattyshort.29734	Dni23 arms tattyshort	ITEM	cache-item-family.dni23_arms_tattyshort.29734	29734	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_TATTYSHORT
+item.dni23_arms_thickstripe.29720	Dni23 arms thickstripe	ITEM	cache-item-family.dni23_arms_thickstripe.29720	29720	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_THICKSTRIPE
+item.dni23_arms_thin.29716	Dni23 arms thin	ITEM	cache-item-family.dni23_arms_thin.29716	29716	TECHNICAL_APPEARANCE_MODEL	DNI23_ARMS_THIN
+item.dni23_legs_beach.29740	Dni23 legs beach	ITEM	cache-item-family.dni23_legs_beach.29740	29740	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_BEACH
+item.dni23_legs_bighem.29764	Dni23 legs bighem	ITEM	cache-item-family.dni23_legs_bighem.29764	29764	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_BIGHEM
+item.dni23_legs_layered.29760	Dni23 legs layered	ITEM	cache-item-family.dni23_legs_layered.29760	29760	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_LAYERED
+item.dni23_legs_leggings.29744	Dni23 legs leggings	ITEM	cache-item-family.dni23_legs_leggings.29744	29744	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_LEGGINGS
+item.dni23_legs_longnarrowskirt.29756	Dni23 legs longnarrowskirt	ITEM	cache-item-family.dni23_legs_longnarrowskirt.29756	29756	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_LONGNARROWSKIRT
+item.dni23_legs_longskirt.29754	Dni23 legs longskirt	ITEM	cache-item-family.dni23_legs_longskirt.29754	29754	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_LONGSKIRT
+item.dni23_legs_patched.29750	Dni23 legs patched	ITEM	cache-item-family.dni23_legs_patched.29750	29750	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_PATCHED
+item.dni23_legs_patchedskirt.29772	Dni23 legs patchedskirt	ITEM	cache-item-family.dni23_legs_patchedskirt.29772	29772	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_PATCHEDSKIRT
+item.dni23_legs_patterned.29768	Dni23 legs patterned	ITEM	cache-item-family.dni23_legs_patterned.29768	29768	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_PATTERNED
+item.dni23_legs_princely.29742	Dni23 legs princely	ITEM	cache-item-family.dni23_legs_princely.29742	29742	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_PRINCELY
+item.dni23_legs_ripped.29748	Dni23 legs ripped	ITEM	cache-item-family.dni23_legs_ripped.29748	29748	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_RIPPED
+item.dni23_legs_sashdots.29762	Dni23 legs sashdots	ITEM	cache-item-family.dni23_legs_sashdots.29762	29762	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_SASHDOTS
+item.dni23_legs_sashtrousers.29766	Dni23 legs sashtrousers	ITEM	cache-item-family.dni23_legs_sashtrousers.29766	29766	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_SASHTROUSERS
+item.dni23_legs_shorts.29738	Dni23 legs shorts	ITEM	cache-item-family.dni23_legs_shorts.29738	29738	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_SHORTS
+item.dni23_legs_shortskirt.29758	Dni23 legs shortskirt	ITEM	cache-item-family.dni23_legs_shortskirt.29758	29758	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_SHORTSKIRT
+item.dni23_legs_sidestripes.29746	Dni23 legs sidestripes	ITEM	cache-item-family.dni23_legs_sidestripes.29746	29746	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_SIDESTRIPES
+item.dni23_legs_skirt.29752	Dni23 legs skirt	ITEM	cache-item-family.dni23_legs_skirt.29752	29752	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_SKIRT
+item.dni23_legs_tornskirt.29770	Dni23 legs tornskirt	ITEM	cache-item-family.dni23_legs_tornskirt.29770	29770	TECHNICAL_APPEARANCE_MODEL	DNI23_LEGS_TORNSKIRT
+item.dni23_torso_bodice.29714	Dni23 torso bodice	ITEM	cache-item-family.dni23_torso_bodice.29714	29714	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_BODICE
+item.dni23_torso_corsetry.29712	Dni23 torso corsetry	ITEM	cache-item-family.dni23_torso_corsetry.29712	29712	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_CORSETRY
+item.dni23_torso_croptops.29704	Dni23 torso croptops	ITEM	cache-item-family.dni23_torso_croptops.29704	29704	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_CROPTOPS
+item.dni23_torso_darkbuttons.29688	Dni23 torso darkbuttons	ITEM	cache-item-family.dni23_torso_darkbuttons.29688	29688	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_DARKBUTTONS
+item.dni23_torso_frilly.29710	Dni23 torso frilly	ITEM	cache-item-family.dni23_torso_frilly.29710	29710	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_FRILLY
+item.dni23_torso_lightbuttons.29686	Dni23 torso lightbuttons	ITEM	cache-item-family.dni23_torso_lightbuttons.29686	29686	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_LIGHTBUTTONS
+item.dni23_torso_poloneck.29706	Dni23 torso poloneck	ITEM	cache-item-family.dni23_torso_poloneck.29706	29706	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_POLONECK
+item.dni23_torso_princely.29698	Dni23 torso princely	ITEM	cache-item-family.dni23_torso_princely.29698	29698	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_PRINCELY
+item.dni23_torso_rippedweskit.29700	Dni23 torso rippedweskit	ITEM	cache-item-family.dni23_torso_rippedweskit.29700	29700	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_RIPPEDWESKIT
+item.dni23_torso_shirt.29692	Dni23 torso shirt	ITEM	cache-item-family.dni23_torso_shirt.29692	29692	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_SHIRT
+item.dni23_torso_simple.29708	Dni23 torso simple	ITEM	cache-item-family.dni23_torso_simple.29708	29708	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_SIMPLE
+item.dni23_torso_stitching.29694	Dni23 torso stitching	ITEM	cache-item-family.dni23_torso_stitching.29694	29694	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_STITCHING
+item.dni23_torso_twotoned.29696	Dni23 torso twotoned	ITEM	cache-item-family.dni23_torso_twotoned.29696	29696	TECHNICAL_APPEARANCE_MODEL	DNI23_TORSO_TWOTONED
+item.dog_boots.30491	Dog boots	ITEM	cache-item-family.dog_boots.30491	30491	HOLIDAY_EVENT_CONTENT	DOG_BOOTS
+item.dog_disguise.30487	Dog disguise	ITEM	cache-item-family.dog_disguise.30487	30487	HOLIDAY_EVENT_CONTENT	DOG_DISGUISE
+item.dragon_axe_head.6743	Dragon axe head	ITEM	cache-item-family.dragon_axe_head.6743	6743	INACCESSIBLE_CACHE_CONTENT	DRAGON_AXE_HEAD
+item.dragon_candle_dagger.27810	Dragon candle dagger	ITEM	cache-item-family.dragon_candle_dagger.27810	27810	HOLIDAY_EVENT_CONTENT	DRAGON_CANDLE_DAGGER
+item.dragonkin_quest_lamp.33006	Dragonkin quest lamp	ITEM	cache-item-family.dragonkin_quest_lamp.33006	33006	TEMPORARY_DEADMAN_CONTENT	DRAGONKIN_QUEST_LAMP
+item.druidic_wreath.12600	Druidic wreath	ITEM	cache-item-family.druidic_wreath.12600	12600	SEASONAL_OR_PROMOTIONAL_REWARD	DRUIDIC_WREATH
+item.drygore_blowpipe.30374	Drygore blowpipe	ITEM	cache-item-family.drygore_blowpipe.30374	30374	TEMPORARY_LEAGUES_CONTENT	DRYGORE_BLOWPIPE
+item.dummy.7586	Dummy	ITEM	cache-item-family.dummy.7586	7586	TECHNICAL_TEST_CONTENT	DUMMY
+item.dummy_stymphike_feather.33644	Dummy stymphike feather	ITEM	cache-item-family.dummy_stymphike_feather.33644	33644	TECHNICAL_TEST_CONTENT	DUMMY_STYMPHIKE_FEATHER
+item.easter_basket.4565	Easter basket	ITEM	cache-item-family.easter_basket.4565	4565	HOLIDAY_EVENT_CONTENT	EASTER_BASKET
+item.easter_egg.1961	Easter egg	ITEM	cache-item-family.easter_egg.1961	1961	HOLIDAY_EVENT_CONTENT	EASTER_EGG
+item.easter_egg_helm.21214	Easter egg helm	ITEM	cache-item-family.easter_egg_helm.21214	21214	HOLIDAY_EVENT_CONTENT	EASTER_EGG_HELM
+item.easter_hat.26937	Easter hat	ITEM	cache-item-family.easter_hat.26937	26937	HOLIDAY_EVENT_CONTENT	EASTER_HAT
+item.easter_ring.7927	Easter ring	ITEM	cache-item-family.easter_ring.7927	7927	HOLIDAY_EVENT_CONTENT	EASTER_RING
+item.eastfloor_spade.27873	Eastfloor spade	ITEM	cache-item-family.eastfloor_spade.27873	27873	HOLIDAY_EVENT_CONTENT	EASTFLOOR_SPADE
+item.echo_ahrim_s_ornament_kit.30451	Echo ahrim's ornament kit	ITEM	cache-item-family.echo_ahrim_s_ornament_kit.30451	30451	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT	ECHO_AHRIMS_ORNAMENT_KIT
+item.echo_axe.25110	Echo axe	ITEM	cache-item-family.echo_axe.25110	25110	TEMPORARY_LEAGUES_CONTENT	ECHO_AXE
+item.echo_harpoon.25114	Echo harpoon	ITEM	cache-item-family.echo_harpoon.25114	25114	TEMPORARY_LEAGUES_CONTENT	ECHO_HARPOON
+item.echo_home_teleport_scroll.30453	Echo home teleport scroll	ITEM	cache-item-family.echo_home_teleport_scroll.30453	30453	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT	ECHO_HOME_TELEPORT_SCROLL
+item.echo_pickaxe.25112	Echo pickaxe	ITEM	cache-item-family.echo_pickaxe.25112	25112	TEMPORARY_LEAGUES_CONTENT	ECHO_PICKAXE
+item.echo_venator_bow_ornament_kit.30432	Echo venator bow ornament kit	ITEM	cache-item-family.echo_venator_bow_ornament_kit.30432	30432	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT	ECHO_VENATOR_BOW_ORNAMENT_KIT
+item.echo_virtus_ornament_kit.30443	Echo virtus ornament kit	ITEM	cache-item-family.echo_virtus_ornament_kit.30443	30443	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT	ECHO_VIRTUS_ORNAMENT_KIT
+item.egg_priest_mitre.29443	Egg priest mitre	ITEM	cache-item-family.egg_priest_mitre.29443	29443	HOLIDAY_EVENT_CONTENT	EGG_PRIEST_MITRE
+item.egg_priest_necklace.29441	Egg priest necklace	ITEM	cache-item-family.egg_priest_necklace.29441	29441	HOLIDAY_EVENT_CONTENT	EGG_PRIEST_NECKLACE
+item.egg_priest_robe.29437	Egg priest robe	ITEM	cache-item-family.egg_priest_robe.29437	29437	HOLIDAY_EVENT_CONTENT	EGG_PRIEST_ROBE
+item.egg_priest_robe_top.29439	Egg priest robe top	ITEM	cache-item-family.egg_priest_robe_top.29439	29439	HOLIDAY_EVENT_CONTENT	EGG_PRIEST_ROBE_TOP
+item.eggnog.27563	Eggnog	ITEM	cache-item-family.eggnog.27563	27563	SEASONAL_OR_PROMOTIONAL_REWARD	EGGNOG
+item.eggshell_platebody.22351	Eggshell platebody	ITEM	cache-item-family.eggshell_platebody.22351	22351	HOLIDAY_EVENT_CONTENT	EGGSHELL_PLATEBODY
+item.eggshell_platelegs.22353	Eggshell platelegs	ITEM	cache-item-family.eggshell_platelegs.22353	22353	HOLIDAY_EVENT_CONTENT	EGGSHELL_PLATELEGS
+item.egniol_potion.23882	Egniol potion	ITEM	cache-item-family.egniol_potion.23882	23882	TEMPORARY_INSTANCE_ITEM	EGNIOL_POTION_1
+item.emperor_ring.30378	Emperor ring	ITEM	cache-item-family.emperor_ring.30378	30378	TEMPORARY_LEAGUES_CONTENT	EMPEROR_RING
+item.essence_pack.25280	Essence pack	ITEM	cache-item-family.essence_pack.25280	25280	INACCESSIBLE_CACHE_CONTENT	ESSENCE_PACK
+item.event_lamp.31211	Event lamp	ITEM	cache-item-family.event_lamp.31211	31211	INACCESSIBLE_CACHE_CONTENT	EVENT_LAMP
+item.evil_eye.33227	Evil eye	ITEM	cache-item-family.evil_eye.33227	33227	TEMPORARY_LEAGUES_CONTENT	EVIL_EYE
+item.extradimensional_bag.25106	Extradimensional bag	ITEM	cache-item-family.extradimensional_bag.25106	25106	INACCESSIBLE_CACHE_CONTENT	EXTRADIMENSIONAL_BAG
+item.fairy_mushroom.25102	Fairy mushroom	ITEM	cache-item-family.fairy_mushroom.25102	25102	TEMPORARY_LEAGUES_CONTENT	FAIRY_MUSHROOM
+item.fang_of_the_hound.33249	Fang of the hound	ITEM	cache-item-family.fang_of_the_hound.33249	33249	TEMPORARY_LEAGUES_CONTENT	FANG_OF_THE_HOUND
+item.festive_elf_hat.26312	Festive elf hat	ITEM	cache-item-family.festive_elf_hat.26312	26312	HOLIDAY_EVENT_CONTENT	FESTIVE_ELF_HAT
+item.festive_elf_slippers.26310	Festive elf slippers	ITEM	cache-item-family.festive_elf_slippers.26310	26310	HOLIDAY_EVENT_CONTENT	FESTIVE_ELF_SLIPPERS
+item.festive_games_crown.27588	Festive games crown	ITEM	cache-item-family.festive_games_crown.27588	27588	HOLIDAY_EVENT_CONTENT	FESTIVE_GAMES_CROWN
+item.festive_nutcracker_boots.27578	Festive nutcracker boots	ITEM	cache-item-family.festive_nutcracker_boots.27578	27578	HOLIDAY_EVENT_CONTENT	FESTIVE_NUTCRACKER_BOOTS
+item.festive_nutcracker_hat.27576	Festive nutcracker hat	ITEM	cache-item-family.festive_nutcracker_hat.27576	27576	HOLIDAY_EVENT_CONTENT	FESTIVE_NUTCRACKER_HAT
+item.festive_nutcracker_staff.27580	Festive nutcracker staff	ITEM	cache-item-family.festive_nutcracker_staff.27580	27580	HOLIDAY_EVENT_CONTENT	FESTIVE_NUTCRACKER_STAFF
+item.festive_nutcracker_top.27572	Festive nutcracker top	ITEM	cache-item-family.festive_nutcracker_top.27572	27572	HOLIDAY_EVENT_CONTENT	FESTIVE_NUTCRACKER_TOP
+item.festive_nutcracker_trousers.27574	Festive nutcracker trousers	ITEM	cache-item-family.festive_nutcracker_trousers.27574	27574	HOLIDAY_EVENT_CONTENT	FESTIVE_NUTCRACKER_TROUSERS
+item.festive_scarf.30489	Festive scarf	ITEM	cache-item-family.festive_scarf.30489	30489	HOLIDAY_EVENT_CONTENT	FESTIVE_SCARF
+item.flask_of_fervour.33239	Flask of fervour	ITEM	cache-item-family.flask_of_fervour.33239	33239	TEMPORARY_LEAGUES_CONTENT	FLASK_OF_FERVOUR
+item.flower_crown.27035	Flower crown	ITEM	cache-item-family.flower_crown.27035	27035	HOLIDAY_EVENT_CONTENT	FLOWER_CROWN
+item.forager_s_pouch.30357	Forager's pouch	ITEM	cache-item-family.forager_s_pouch.30357	30357	TEMPORARY_LEAGUES_CONTENT	FORAGERS_POUCH
+item.giant_boulder.25314	Giant boulder	ITEM	cache-item-family.giant_boulder.25314	25314	HOLIDAY_EVENT_CONTENT	GIANT_BOULDER
+item.giant_bronze_dagger.27871	Giant bronze dagger	ITEM	cache-item-family.giant_bronze_dagger.27871	27871	HOLIDAY_EVENT_CONTENT	GIANT_BRONZE_DAGGER
+item.giant_easter_egg.23446	Giant easter egg	ITEM	cache-item-family.giant_easter_egg.23446	23446	HOLIDAY_EVENT_CONTENT	GIANT_EASTER_EGG
+item.giant_present.20836	Giant present	ITEM	cache-item-family.giant_present.20836	20836	HOLIDAY_EVENT_CONTENT	GIANT_PRESENT
+item.gloves_of_the_damned.30380	Gloves of the damned	ITEM	cache-item-family.gloves_of_the_damned.30380	30380	TEMPORARY_LEAGUES_CONTENT	GLOVES_OF_THE_DAMNED
+item.gnome_child_backpack.27802	Gnome child backpack	ITEM	cache-item-family.gnome_child_backpack.27802	27802	HOLIDAY_EVENT_CONTENT	GNOME_CHILD_BACKPACK
+item.gnome_child_hat.13655	Gnome child hat	ITEM	cache-item-family.gnome_child_hat.13655	13655	HOLIDAY_EVENT_CONTENT	GNOME_CHILD_HAT
+item.gnome_child_mask.25336	Gnome child mask	ITEM	cache-item-family.gnome_child_mask.25336	25336	HOLIDAY_EVENT_CONTENT	GNOME_CHILD_MASK
+item.gnome_child_plush.27818	Gnome child plush	ITEM	cache-item-family.gnome_child_plush.27818	27818	HOLIDAY_EVENT_CONTENT	GNOME_CHILD_PLUSH
+item.goblin_paint_cannon.12727	Goblin paint cannon	ITEM	cache-item-family.goblin_paint_cannon.12727	12727	SEASONAL_OR_PROMOTIONAL_REWARD	GOBLIN_PAINT_CANNON
+item.gold_speedrun_trophy.27422	Gold speedrun trophy	ITEM	cache-item-family.gold_speedrun_trophy.27422	27422	TEMPORARY_SPEEDRUN_CONTENT	GOLD_SPEEDRUN_TROPHY
+item.gravedigger_boots.13286	Gravedigger boots	ITEM	cache-item-family.gravedigger_boots.13286	13286	HOLIDAY_EVENT_CONTENT	GRAVEDIGGER_BOOTS
+item.gravedigger_gloves.13287	Gravedigger gloves	ITEM	cache-item-family.gravedigger_gloves.13287	13287	HOLIDAY_EVENT_CONTENT	GRAVEDIGGER_GLOVES
+item.gravedigger_leggings.13285	Gravedigger leggings	ITEM	cache-item-family.gravedigger_leggings.13285	13285	HOLIDAY_EVENT_CONTENT	GRAVEDIGGER_LEGGINGS
+item.gravedigger_mask.13283	Gravedigger mask	ITEM	cache-item-family.gravedigger_mask.13283	13283	HOLIDAY_EVENT_CONTENT	GRAVEDIGGER_MASK
+item.gravedigger_top.13284	Gravedigger top	ITEM	cache-item-family.gravedigger_top.13284	13284	HOLIDAY_EVENT_CONTENT	GRAVEDIGGER_TOP
+item.green_gingerbread_shield.24428	Green gingerbread shield	ITEM	cache-item-family.green_gingerbread_shield.24428	24428	HOLIDAY_EVENT_CONTENT	GREEN_GINGERBREAD_SHIELD
+item.green_halloween_mask.1053	Green halloween mask	ITEM	cache-item-family.green_halloween_mask.1053	1053	HOLIDAY_EVENT_CONTENT	GREEN_HALLOWEEN_MASK
+item.green_partyhat.1044	Green partyhat	ITEM	cache-item-family.green_partyhat.1044	1044	HOLIDAY_EVENT_CONTENT	GREEN_PARTYHAT
+item.green_sweets.4563	Green sweets	ITEM	cache-item-family.green_sweets.4563	4563	INACCESSIBLE_CACHE_CONTENT	GREEN_SWEETS
+item.gregg_s_eastdoor.25604	Gregg's eastdoor	ITEM	cache-item-family.gregg_s_eastdoor.25604	25604	HOLIDAY_EVENT_CONTENT	GREGGS_EASTDOOR
+item.grid_master_altar_icon_scroll.31205	Grid master altar icon scroll	ITEM	cache-item-family.grid_master_altar_icon_scroll.31205	31205	GRID_MASTER_TEMPORARY_CONTENT	GRID_MASTER_ALTAR_ICON_SCROLL
+item.grid_master_tabard.31181	Grid master tabard	ITEM	cache-item-family.grid_master_tabard.31181	31181	GRID_MASTER_TEMPORARY_CONTENT	GRID_MASTER_TABARD
+item.grid_master_tabard_b.31184	Grid master tabard (b)	ITEM	cache-item-family.grid_master_tabard_b.31184	31184	GRID_MASTER_TEMPORARY_CONTENT	GRID_MASTER_TABARD_B
+item.grid_master_torch_scroll.31208	Grid master torch scroll	ITEM	cache-item-family.grid_master_torch_scroll.31208	31208	GRID_MASTER_TEMPORARY_CONTENT	GRID_MASTER_TORCH_SCROLL
+item.grim_reaper_bottoms.31231	Grim reaper bottoms	ITEM	cache-item-family.grim_reaper_bottoms.31231	31231	HOLIDAY_EVENT_CONTENT	GRIM_REAPER_BOTTOMS
+item.grim_reaper_gloves.31233	Grim reaper gloves	ITEM	cache-item-family.grim_reaper_gloves.31233	31233	HOLIDAY_EVENT_CONTENT	GRIM_REAPER_GLOVES
+item.grim_reaper_hood.12845	Grim reaper hood	ITEM	cache-item-family.grim_reaper_hood.12845	12845	HOLIDAY_EVENT_CONTENT	GRIM_REAPER_HOOD
+item.grim_reaper_top.31229	Grim reaper top	ITEM	cache-item-family.grim_reaper_top.31229	31229	HOLIDAY_EVENT_CONTENT	GRIM_REAPER_TOP
+item.grym_potion_unf.23881	Grym potion (unf)	ITEM	cache-item-family.grym_potion_unf.23881	23881	TEMPORARY_INSTANCE_ITEM	GRYM_POTION_UNF
+item.halloween_scarecrow.30234	Halloween scarecrow	ITEM	cache-item-family.halloween_scarecrow.30234	30234	HOLIDAY_EVENT_CONTENT	HALLOWEEN_SCARECROW
+item.halloween_wig.27497	Halloween wig	ITEM	cache-item-family.halloween_wig.27497	27497	HOLIDAY_EVENT_CONTENT	HALLOWEEN_WIG
+item.haunted_wine_bottle.26260	Haunted wine bottle	ITEM	cache-item-family.haunted_wine_bottle.26260	26260	HOLIDAY_EVENT_CONTENT	HAUNTED_WINE_BOTTLE
+item.headless_head.24975	Headless head	ITEM	cache-item-family.headless_head.24975	24975	HOLIDAY_EVENT_CONTENT	HEADLESS_HEAD
+item.hell_cat_ears.24527	Hell cat ears	ITEM	cache-item-family.hell_cat_ears.24527	24527	HOLIDAY_EVENT_CONTENT	HELL_CAT_EARS
+item.honey_locust.27351	Honey locust	ITEM	cache-item-family.honey_locust.27351	27351	TEMPORARY_INSTANCE_ITEM	HONEY_LOCUST
+item.hornwood_helm.19699	Hornwood helm	ITEM	cache-item-family.hornwood_helm.19699	19699	SEASONAL_OR_PROMOTIONAL_REWARD	HORNWOOD_HELM
+item.icy_jumper.28786	Icy jumper	ITEM	cache-item-family.icy_jumper.28786	28786	HOLIDAY_EVENT_CONTENT	ICY_JUMPER
+item.impish_ritual_scroll.33359	Impish ritual scroll	ITEM	cache-item-family.impish_ritual_scroll.33359	33359	DEMONIC_PACTS_REWARD_CONTENT	IMPISH_RITUAL_SCROLL
+item.impish_whistle.33365	Impish whistle	ITEM	cache-item-family.impish_whistle.33365	33365	DEMONIC_PACTS_REWARD_CONTENT	IMPISH_WHISTLE
+item.infernal_tecpatl.33243	Infernal tecpatl	ITEM	cache-item-family.infernal_tecpatl.33243	33243	TEMPORARY_LEAGUES_CONTENT	INFERNAL_TECPATL
+item.inverted_santa_hat.13344	Inverted santa hat	ITEM	cache-item-family.inverted_santa_hat.13344	13344	HOLIDAY_EVENT_CONTENT	INVERTED_SANTA_HAT
+item.iron_axe_head.510	Iron axe head	ITEM	cache-item-family.iron_axe_head.510	510	INACCESSIBLE_CACHE_CONTENT	IRON_AXE_HEAD
+item.iron_pickaxe_nz.11721	Iron pickaxe (nz)	ITEM	cache-item-family.iron_pickaxe_nz.11721	11721	TEMPORARY_INSTANCE_ITEM	IRON_PICKAXE_NZ
+item.jack_lantern_mask.9920	Jack lantern mask	ITEM	cache-item-family.jack_lantern_mask.9920	9920	HOLIDAY_EVENT_CONTENT	JACK_LANTERN_MASK
+item.jad_jumper.32932	Jad jumper	ITEM	cache-item-family.jad_jumper.32932	32932	SEASONAL_OR_PROMOTIONAL_REWARD	JAD_JUMPER
+item.jad_plush.27814	Jad plush	ITEM	cache-item-family.jad_plush.27814	27814	HOLIDAY_EVENT_CONTENT	JAD_PLUSH
+item.jad_slippers.27808	Jad slippers	ITEM	cache-item-family.jad_slippers.27808	27808	HOLIDAY_EVENT_CONTENT	JAD_SLIPPERS
+item.jonas_mask.21719	Jonas mask	ITEM	cache-item-family.jonas_mask.21719	21719	HOLIDAY_EVENT_CONTENT	JONAS_MASK
+item.kharidian_quest_lamp.33004	Kharidian quest lamp	ITEM	cache-item-family.kharidian_quest_lamp.33004	33004	TEMPORARY_DEADMAN_CONTENT	KHARIDIAN_QUEST_LAMP
+item.king_s_barrage.33251	King's barrage	ITEM	cache-item-family.king_s_barrage.33251	33251	TEMPORARY_LEAGUES_CONTENT	KINGS_BARRAGE
+item.knapsack.33218	Knapsack	ITEM	cache-item-family.knapsack.33218	33218	TEMPORARY_LEAGUES_CONTENT	KNAPSACK
+item.lathas_amulet.421	Lathas' amulet	ITEM	cache-item-family.lathas_amulet.421	421	INACCESSIBLE_CACHE_CONTENT	LATHAS_AMULET
+item.liquid_adrenaline_1.27341	Liquid adrenaline (1)	ITEM	cache-item-family.liquid_adrenaline_1.27341	27341	TEMPORARY_INSTANCE_ITEM	LIQUID_ADRENALINE_1
+item.liquid_adrenaline_2.27339	Liquid adrenaline (2)	ITEM	cache-item-family.liquid_adrenaline_2.27339	27339	TEMPORARY_INSTANCE_ITEM	LIQUID_ADRENALINE_2
+item.lithic_sceptre.33255	Lithic sceptre	ITEM	cache-item-family.lithic_sceptre.33255	33255	TEMPORARY_LEAGUES_CONTENT	LITHIC_SCEPTRE
+item.love_crossbow.28128	Love crossbow	ITEM	cache-item-family.love_crossbow.28128	28128	HOLIDAY_EVENT_CONTENT	LOVE_CROSSBOW
+item.lovley_jubbly_bib.32928	Lovley jubbly bib	ITEM	cache-item-family.lovley_jubbly_bib.32928	32928	SEASONAL_OR_PROMOTIONAL_REWARD	LOVLEY_JUBBLY_BIB
+item.magic_secateurs_nz.11711	Magic secateurs (nz)	ITEM	cache-item-family.magic_secateurs_nz.11711	11711	TEMPORARY_INSTANCE_ITEM	MAGIC_SECATEURS_NZ
+item.mahjarrat_2_quest_lamp.33007	Mahjarrat 2 quest lamp	ITEM	cache-item-family.mahjarrat_2_quest_lamp.33007	33007	TEMPORARY_DEADMAN_CONTENT	MAHJARRAT_2_QUEST_LAMP
+item.marionette_handle.6864	Marionette handle	ITEM	cache-item-family.marionette_handle.6864	6864	HOLIDAY_EVENT_CONTENT	MARIONETTE_HANDLE
+item.mask_of_balance.13203	Mask of balance	ITEM	cache-item-family.mask_of_balance.13203	13203	SEASONAL_OR_PROMOTIONAL_REWARD	MASK_OF_BALANCE
+item.melted_easter_egg.26927	Melted easter egg	ITEM	cache-item-family.melted_easter_egg.26927	26927	HOLIDAY_EVENT_CONTENT	MELTED_EASTER_EGG
+item.minion_whistle.28769	Minion whistle	ITEM	cache-item-family.minion_whistle.28769	28769	TEMPORARY_LEAGUES_CONTENT	MINION_WHISTLE
+item.mithril_axe_head.516	Mithril axe head	ITEM	cache-item-family.mithril_axe_head.516	516	INACCESSIBLE_CACHE_CONTENT	MITHRIL_AXE_HEAD
+item.mithril_pickaxe_nz.11720	Mithril pickaxe (nz)	ITEM	cache-item-family.mithril_pickaxe_nz.11720	11720	TEMPORARY_INSTANCE_ITEM	MITHRIL_PICKAXE_NZ
+item.monkey_wrench.4018	Monkey wrench	ITEM	cache-item-family.monkey_wrench.4018	4018	INACCESSIBLE_CACHE_CONTENT	MONKEY_WRENCH
+item.mummy_s_body.20083	Mummy's body	ITEM	cache-item-family.mummy_s_body.20083	20083	HOLIDAY_EVENT_CONTENT	MUMMYS_BODY
+item.mummy_s_feet.20092	Mummy's feet	ITEM	cache-item-family.mummy_s_feet.20092	20092	HOLIDAY_EVENT_CONTENT	MUMMYS_FEET
+item.mummy_s_hands.20086	Mummy's hands	ITEM	cache-item-family.mummy_s_hands.20086	20086	HOLIDAY_EVENT_CONTENT	MUMMYS_HANDS
+item.mummy_s_head.20080	Mummy's head	ITEM	cache-item-family.mummy_s_head.20080	20080	HOLIDAY_EVENT_CONTENT	MUMMYS_HEAD
+item.mummy_s_legs.20089	Mummy's legs	ITEM	cache-item-family.mummy_s_legs.20089	20089	HOLIDAY_EVENT_CONTENT	MUMMYS_LEGS
+item.myreque_quest_lamp.33005	Myreque quest lamp	ITEM	cache-item-family.myreque_quest_lamp.33005	33005	TEMPORARY_DEADMAN_CONTENT	MYREQUE_QUEST_LAMP
+item.mystic_cards.27645	Mystic cards	ITEM	cache-item-family.mystic_cards.27645	27645	SEASONAL_OR_PROMOTIONAL_REWARD	MYSTIC_CARDS
+item.nature_s_recurve.33245	Nature's recurve	ITEM	cache-item-family.nature_s_recurve.33245	33245	TEMPORARY_LEAGUES_CONTENT	NATURES_RECURVE
+item.nature_s_reprisal.30390	Nature's reprisal	ITEM	cache-item-family.nature_s_reprisal.30390	30390	TEMPORARY_LEAGUES_CONTENT	NATURES_REPRISAL
+item.nectar_1.27321	Nectar (1)	ITEM	cache-item-family.nectar_1.27321	27321	TEMPORARY_INSTANCE_ITEM	NECTAR_1
+item.nectar_2.27319	Nectar (2)	ITEM	cache-item-family.nectar_2.27319	27319	TEMPORARY_INSTANCE_ITEM	NECTAR_2
+item.nectar_3.27317	Nectar (3)	ITEM	cache-item-family.nectar_3.27317	27317	TEMPORARY_INSTANCE_ITEM	NECTAR_3
+item.nectar_4.27315	Nectar (4)	ITEM	cache-item-family.nectar_4.27315	27315	TEMPORARY_INSTANCE_ITEM	NECTAR_4
+item.nest_hat.27875	Nest hat	ITEM	cache-item-family.nest_hat.27875	27875	HOLIDAY_EVENT_CONTENT	NEST_HAT
+item.oldschool_jumper.27822	Oldschool jumper	ITEM	cache-item-family.oldschool_jumper.27822	27822	HOLIDAY_EVENT_CONTENT	OLDSCHOOL_JUMPER
+item.orange_pumpkin_angry.30269	Orange pumpkin (angry)	ITEM	cache-item-family.orange_pumpkin_angry.30269	30269	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_ANGRY
+item.orange_pumpkin_depressed.30270	Orange pumpkin (depressed)	ITEM	cache-item-family.orange_pumpkin_depressed.30270	30270	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_DEPRESSED
+item.orange_pumpkin_disgusted.30266	Orange pumpkin (disgusted)	ITEM	cache-item-family.orange_pumpkin_disgusted.30266	30266	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_DISGUSTED
+item.orange_pumpkin_evil.30268	Orange pumpkin (evil)	ITEM	cache-item-family.orange_pumpkin_evil.30268	30268	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_EVIL
+item.orange_pumpkin_happy.30273	Orange pumpkin (happy)	ITEM	cache-item-family.orange_pumpkin_happy.30273	30273	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_HAPPY
+item.orange_pumpkin_laughing.30274	Orange pumpkin (laughing)	ITEM	cache-item-family.orange_pumpkin_laughing.30274	30274	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_LAUGHING
+item.orange_pumpkin_sad.30272	Orange pumpkin (sad)	ITEM	cache-item-family.orange_pumpkin_sad.30272	30272	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_SAD
+item.orange_pumpkin_shocked.30271	Orange pumpkin (shocked)	ITEM	cache-item-family.orange_pumpkin_shocked.30271	30271	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_SHOCKED
+item.orange_pumpkin_silly.30267	Orange pumpkin (silly)	ITEM	cache-item-family.orange_pumpkin_silly.30267	30267	HOLIDAY_EVENT_CONTENT	ORANGE_PUMPKIN_SILLY
+item.overload_1.20985	Overload (-)	ITEM	cache-item-family.overload_1.20985	20985	TEMPORARY_INSTANCE_ITEM	OVERLOAD_1_20985,OVERLOAD_2_20986,OVERLOAD_3_20987,OVERLOAD_4_20988
+item.overload_1.20993	Overload (+)	ITEM	cache-item-family.overload_1.20993	20993	TEMPORARY_INSTANCE_ITEM	OVERLOAD_1_20993,OVERLOAD_2_20994,OVERLOAD_3_20995,OVERLOAD_4_20996
+item.overload_4.11730	Overload	ITEM	cache-item-family.overload_4.11730	11730	TEMPORARY_INSTANCE_ITEM	OVERLOAD_4,OVERLOAD_3,OVERLOAD_2,OVERLOAD_1
+item.paddlefish.23874	Paddlefish	ITEM	cache-item-family.paddlefish.23874	23874	TEMPORARY_INSTANCE_ITEM	PADDLEFISH
+item.partyhat_specs.12399	Partyhat & specs	ITEM	cache-item-family.partyhat_specs.12399	12399	HOLIDAY_EVENT_CONTENT	PARTYHAT__SPECS
+item.phren_bark.23838	Phren bark	ITEM	cache-item-family.phren_bark.23838	23838	TEMPORARY_INSTANCE_ITEM	PHREN_BARK
+item.pink_sweets.4564	Pink sweets	ITEM	cache-item-family.pink_sweets.4564	4564	INACCESSIBLE_CACHE_CONTENT	PINK_SWEETS
+item.platinum_speedrun_trophy.27424	Platinum speedrun trophy	ITEM	cache-item-family.platinum_speedrun_trophy.27424	27424	TEMPORARY_SPEEDRUN_CONTENT	PLATINUM_SPEEDRUN_TROPHY
+item.poet_s_jacket.28126	Poet's jacket	ITEM	cache-item-family.poet_s_jacket.28126	28126	HOLIDAY_EVENT_CONTENT	POETS_JACKET
+item.potion_of_power.25206	Potion of power	ITEM	cache-item-family.potion_of_power.25206	25206	TEMPORARY_INSTANCE_ITEM	POTION_OF_POWER1
+item.powder_grey_pumpkin_angry.30296	Powder grey pumpkin (angry)	ITEM	cache-item-family.powder_grey_pumpkin_angry.30296	30296	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_ANGRY
+item.powder_grey_pumpkin_depressed.30297	Powder grey pumpkin (depressed)	ITEM	cache-item-family.powder_grey_pumpkin_depressed.30297	30297	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_DEPRESSED
+item.powder_grey_pumpkin_disgusted.30293	Powder grey pumpkin (disgusted)	ITEM	cache-item-family.powder_grey_pumpkin_disgusted.30293	30293	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_DISGUSTED
+item.powder_grey_pumpkin_evil.30295	Powder grey pumpkin (evil)	ITEM	cache-item-family.powder_grey_pumpkin_evil.30295	30295	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_EVIL
+item.powder_grey_pumpkin_happy.30300	Powder grey pumpkin (happy)	ITEM	cache-item-family.powder_grey_pumpkin_happy.30300	30300	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_HAPPY
+item.powder_grey_pumpkin_laughing.30301	Powder grey pumpkin (laughing)	ITEM	cache-item-family.powder_grey_pumpkin_laughing.30301	30301	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_LAUGHING
+item.powder_grey_pumpkin_sad.30299	Powder grey pumpkin (sad)	ITEM	cache-item-family.powder_grey_pumpkin_sad.30299	30299	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_SAD
+item.powder_grey_pumpkin_shocked.30298	Powder grey pumpkin (shocked)	ITEM	cache-item-family.powder_grey_pumpkin_shocked.30298	30298	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_SHOCKED
+item.powder_grey_pumpkin_silly.30294	Powder grey pumpkin (silly)	ITEM	cache-item-family.powder_grey_pumpkin_silly.30294	30294	HOLIDAY_EVENT_CONTENT	POWDER_GREY_PUMPKIN_SILLY
+item.prayer_enhance.20961	Prayer enhance (-)	ITEM	cache-item-family.prayer_enhance.20961	20961	TEMPORARY_INSTANCE_ITEM	PRAYER_ENHANCE_1
+item.prayer_enhance.20965	Prayer enhance	ITEM	cache-item-family.prayer_enhance.20965	20965	TEMPORARY_INSTANCE_ITEM	PRAYER_ENHANCE_1_20965
+item.prayer_enhance.20969	Prayer enhance (+)	ITEM	cache-item-family.prayer_enhance.20969	20969	TEMPORARY_INSTANCE_ITEM	PRAYER_ENHANCE_1_20969
+item.present_box_hat.30479	Present box hat	ITEM	cache-item-family.present_box_hat.30479	30479	HOLIDAY_EVENT_CONTENT	PRESENT_BOX_HAT
+item.prop_sword.22316	Prop sword	ITEM	cache-item-family.prop_sword.22316	22316	HOLIDAY_EVENT_CONTENT	PROP_SWORD
+item.propeller_hat.25606	Propeller hat	ITEM	cache-item-family.propeller_hat.25606	25606	HOLIDAY_EVENT_CONTENT	PROPELLER_HAT
+item.protest_banner.25822	Protest banner	ITEM	cache-item-family.protest_banner.25822	25822	USER_REVIEWED_RETIREMENT	PROTEST_BANNER
+item.pumpkin.1959	Pumpkin	ITEM	cache-item-family.pumpkin.1959	1959	HOLIDAY_EVENT_CONTENT	PUMPKIN
+item.pumpkin_lantern.24325	Pumpkin lantern	ITEM	cache-item-family.pumpkin_lantern.24325	24325	HOLIDAY_EVENT_CONTENT	PUMPKIN_LANTERN
+item.purple_partyhat.1046	Purple partyhat	ITEM	cache-item-family.purple_partyhat.1046	1046	HOLIDAY_EVENT_CONTENT	PURPLE_PARTYHAT
+item.raging_echoes_adamant_trophy.30469	Raging echoes adamant trophy	ITEM	cache-item-family.raging_echoes_adamant_trophy.30469	30469	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_ADAMANT_TROPHY
+item.raging_echoes_banner.30430	Raging echoes banner	ITEM	cache-item-family.raging_echoes_banner.30430	30430	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_BANNER
+item.raging_echoes_boots_t1.30410	Raging echoes boots (t1)	ITEM	cache-item-family.raging_echoes_boots_t1.30410	30410	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_BOOTS_T1
+item.raging_echoes_boots_t2.30418	Raging echoes boots (t2)	ITEM	cache-item-family.raging_echoes_boots_t2.30418	30418	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_BOOTS_T2
+item.raging_echoes_boots_t3.30426	Raging echoes boots (t3)	ITEM	cache-item-family.raging_echoes_boots_t3.30426	30426	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_BOOTS_T3
+item.raging_echoes_bronze_trophy.30477	Raging echoes bronze trophy	ITEM	cache-item-family.raging_echoes_bronze_trophy.30477	30477	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_BRONZE_TROPHY
+item.raging_echoes_cane.30428	Raging echoes cane	ITEM	cache-item-family.raging_echoes_cane.30428	30428	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_CANE
+item.raging_echoes_curtains.30502	Raging echoes curtains	ITEM	cache-item-family.raging_echoes_curtains.30502	30557	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_CURTAINS_30557
+item.raging_echoes_death_scroll.30455	Raging echoes death scroll	ITEM	cache-item-family.raging_echoes_death_scroll.30455	30455	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_DEATH_SCROLL
+item.raging_echoes_dragon_trophy.30465	Raging echoes dragon trophy	ITEM	cache-item-family.raging_echoes_dragon_trophy.30465	30465	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_DRAGON_TROPHY
+item.raging_echoes_hat_t1.30404	Raging echoes hat (t1)	ITEM	cache-item-family.raging_echoes_hat_t1.30404	30404	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_HAT_T1
+item.raging_echoes_hat_t2.30412	Raging echoes hat (t2)	ITEM	cache-item-family.raging_echoes_hat_t2.30412	30412	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_HAT_T2
+item.raging_echoes_hat_t3.30420	Raging echoes hat (t3)	ITEM	cache-item-family.raging_echoes_hat_t3.30420	30420	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_HAT_T3
+item.raging_echoes_iron_trophy.30475	Raging echoes iron trophy	ITEM	cache-item-family.raging_echoes_iron_trophy.30475	30475	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_IRON_TROPHY
+item.raging_echoes_mithril_trophy.30471	Raging echoes mithril trophy	ITEM	cache-item-family.raging_echoes_mithril_trophy.30471	30471	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_MITHRIL_TROPHY
+item.raging_echoes_nexus_scroll.30459	Raging echoes nexus scroll	ITEM	cache-item-family.raging_echoes_nexus_scroll.30459	30459	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_NEXUS_SCROLL
+item.raging_echoes_npc_contact_scroll.30457	Raging echoes npc contact scroll	ITEM	cache-item-family.raging_echoes_npc_contact_scroll.30457	30457	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_NPC_CONTACT_SCROLL
+item.raging_echoes_portal_scroll.30461	Raging echoes portal scroll	ITEM	cache-item-family.raging_echoes_portal_scroll.30461	30461	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_PORTAL_SCROLL
+item.raging_echoes_relic_hunter_t1_armour_set.30331	Raging echoes relic hunter (t1) armour set	ITEM	cache-item-family.raging_echoes_relic_hunter_t1_armour_set.30331	30331	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_RELIC_HUNTER_T1_ARMOUR_SET
+item.raging_echoes_relic_hunter_t2_armour_set.30334	Raging echoes relic hunter (t2) armour set	ITEM	cache-item-family.raging_echoes_relic_hunter_t2_armour_set.30334	30334	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_RELIC_HUNTER_T2_ARMOUR_SET
+item.raging_echoes_relic_hunter_t3_armour_set.30337	Raging echoes relic hunter (t3) armour set	ITEM	cache-item-family.raging_echoes_relic_hunter_t3_armour_set.30337	30337	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_RELIC_HUNTER_T3_ARMOUR_SET
+item.raging_echoes_robeskirt_t1.30408	Raging echoes robeskirt (t1)	ITEM	cache-item-family.raging_echoes_robeskirt_t1.30408	30408	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_ROBESKIRT_T1
+item.raging_echoes_robeskirt_t2.30416	Raging echoes robeskirt (t2)	ITEM	cache-item-family.raging_echoes_robeskirt_t2.30416	30416	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_ROBESKIRT_T2
+item.raging_echoes_robeskirt_t3.30424	Raging echoes robeskirt (t3)	ITEM	cache-item-family.raging_echoes_robeskirt_t3.30424	30424	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_ROBESKIRT_T3
+item.raging_echoes_rug.30501	Raging echoes rug	ITEM	cache-item-family.raging_echoes_rug.30501	30554	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_RUG_30554
+item.raging_echoes_rune_trophy.30467	Raging echoes rune trophy	ITEM	cache-item-family.raging_echoes_rune_trophy.30467	30467	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_RUNE_TROPHY
+item.raging_echoes_scrying_pool_scroll.30560	Raging echoes scrying pool scroll	ITEM	cache-item-family.raging_echoes_scrying_pool_scroll.30560	30560	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_SCRYING_POOL_SCROLL
+item.raging_echoes_spirit_tree_scroll.30563	Raging echoes spirit tree scroll	ITEM	cache-item-family.raging_echoes_spirit_tree_scroll.30563	30563	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_SPIRIT_TREE_SCROLL
+item.raging_echoes_steel_trophy.30473	Raging echoes steel trophy	ITEM	cache-item-family.raging_echoes_steel_trophy.30473	30473	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_STEEL_TROPHY
+item.raging_echoes_top_t1.30406	Raging echoes top (t1)	ITEM	cache-item-family.raging_echoes_top_t1.30406	30406	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_TOP_T1
+item.raging_echoes_top_t2.30414	Raging echoes top (t2)	ITEM	cache-item-family.raging_echoes_top_t2.30414	30414	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_TOP_T2
+item.raging_echoes_top_t3.30422	Raging echoes top (t3)	ITEM	cache-item-family.raging_echoes_top_t3.30422	30422	TEMPORARY_LEAGUES_CONTENT	RAGING_ECHOES_TOP_T3
+item.rainbow_cape.29489	Rainbow cape	ITEM	cache-item-family.rainbow_cape.29489	29489	HOLIDAY_EVENT_CONTENT	RAINBOW_CAPE
+item.rainbow_crown_shirt.29507	Rainbow crown shirt	ITEM	cache-item-family.rainbow_crown_shirt.29507	29507	HOLIDAY_EVENT_CONTENT	RAINBOW_CROWN_SHIRT
+item.rainbow_jumper.28116	Rainbow jumper	ITEM	cache-item-family.rainbow_jumper.28116	28116	HOLIDAY_EVENT_CONTENT	RAINBOW_JUMPER
+item.rainbow_partyhat.11863	Rainbow partyhat	ITEM	cache-item-family.rainbow_partyhat.11863	11863	HOLIDAY_EVENT_CONTENT	RAINBOW_PARTYHAT
+item.rainbow_scarf.21314	Rainbow scarf	ITEM	cache-item-family.rainbow_scarf.21314	21314	HOLIDAY_EVENT_CONTENT	RAINBOW_SCARF
+item.raw_paddlefish.23872	Raw paddlefish	ITEM	cache-item-family.raw_paddlefish.23872	23872	TEMPORARY_INSTANCE_ITEM	RAW_PADDLEFISH
+item.recipe_for_disaster_quest_lamp.33009	Recipe for disaster quest lamp	ITEM	cache-item-family.recipe_for_disaster_quest_lamp.33009	33009	TEMPORARY_DEADMAN_CONTENT	RECIPE_FOR_DISASTER_QUEST_LAMP
+item.red_gingerbread_shield.24430	Red gingerbread shield	ITEM	cache-item-family.red_gingerbread_shield.24430	24430	HOLIDAY_EVENT_CONTENT	RED_GINGERBREAD_SHIELD
+item.red_halloween_mask.1057	Red halloween mask	ITEM	cache-item-family.red_halloween_mask.1057	1057	HOLIDAY_EVENT_CONTENT	RED_HALLOWEEN_MASK
+item.red_partyhat.1038	Red partyhat	ITEM	cache-item-family.red_partyhat.1038	1038	HOLIDAY_EVENT_CONTENT	RED_PARTYHAT
+item.red_pumpkin_angry.30278	Red pumpkin (angry)	ITEM	cache-item-family.red_pumpkin_angry.30278	30278	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_ANGRY
+item.red_pumpkin_depressed.30279	Red pumpkin (depressed)	ITEM	cache-item-family.red_pumpkin_depressed.30279	30279	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_DEPRESSED
+item.red_pumpkin_disgusted.30275	Red pumpkin (disgusted)	ITEM	cache-item-family.red_pumpkin_disgusted.30275	30275	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_DISGUSTED
+item.red_pumpkin_evil.30277	Red pumpkin (evil)	ITEM	cache-item-family.red_pumpkin_evil.30277	30277	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_EVIL
+item.red_pumpkin_happy.30282	Red pumpkin (happy)	ITEM	cache-item-family.red_pumpkin_happy.30282	30282	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_HAPPY
+item.red_pumpkin_laughing.30283	Red pumpkin (laughing)	ITEM	cache-item-family.red_pumpkin_laughing.30283	30283	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_LAUGHING
+item.red_pumpkin_sad.30281	Red pumpkin (sad)	ITEM	cache-item-family.red_pumpkin_sad.30281	30281	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_SAD
+item.red_pumpkin_shocked.30280	Red pumpkin (shocked)	ITEM	cache-item-family.red_pumpkin_shocked.30280	30280	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_SHOCKED
+item.red_pumpkin_silly.30276	Red pumpkin (silly)	ITEM	cache-item-family.red_pumpkin_silly.30276	30276	HOLIDAY_EVENT_CONTENT	RED_PUMPKIN_SILLY
+item.red_sweets.4562	Red sweets	ITEM	cache-item-family.red_sweets.4562	4562	INACCESSIBLE_CACHE_CONTENT	RED_SWEETS
+item.reindeer_hat.10507	Reindeer hat	ITEM	cache-item-family.reindeer_hat.10507	10507	HOLIDAY_EVENT_CONTENT	REINDEER_HAT
+item.revitalisation_1.20949	Revitalisation (-)(1)	ITEM	cache-item-family.revitalisation_1.20949	20949	TEMPORARY_INSTANCE_ITEM	REVITALISATION_1
+item.revitalisation_1.20957	Revitalisation (+)(1)	ITEM	cache-item-family.revitalisation_1.20957	20957	TEMPORARY_INSTANCE_ITEM	REVITALISATION_1_20957
+item.revitalisation_2.20950	Revitalisation (-)(2)	ITEM	cache-item-family.revitalisation_2.20950	20950	TEMPORARY_INSTANCE_ITEM	REVITALISATION_2
+item.revitalisation_2.20958	Revitalisation (+)(2)	ITEM	cache-item-family.revitalisation_2.20958	20958	TEMPORARY_INSTANCE_ITEM	REVITALISATION_2_20958
+item.revitalisation_3.20951	Revitalisation (-)(3)	ITEM	cache-item-family.revitalisation_3.20951	20951	TEMPORARY_INSTANCE_ITEM	REVITALISATION_3
+item.revitalisation_3.20959	Revitalisation (+)(3)	ITEM	cache-item-family.revitalisation_3.20959	20959	TEMPORARY_INSTANCE_ITEM	REVITALISATION_3_20959
+item.revitalisation_4.20952	Revitalisation (-)(4)	ITEM	cache-item-family.revitalisation_4.20952	20952	TEMPORARY_INSTANCE_ITEM	REVITALISATION_4
+item.revitalisation_4.20960	Revitalisation (+)(4)	ITEM	cache-item-family.revitalisation_4.20960	20960	TEMPORARY_INSTANCE_ITEM	REVITALISATION_4_20960
+item.revitalisation_potion.20953	Revitalisation potion	ITEM	cache-item-family.revitalisation_potion.20953	20953	TEMPORARY_INSTANCE_ITEM	REVITALISATION_POTION_1
+item.rotten_potato.5733	Rotten potato	ITEM	cache-item-family.rotten_potato.5733	5733	INACCESSIBLE_CACHE_CONTENT	ROTTEN_POTATO
+item.rubber_chicken.4566	Rubber chicken	ITEM	cache-item-family.rubber_chicken.4566	4566	HOLIDAY_EVENT_CONTENT	RUBBER_CHICKEN
+item.rune_axe_head.520	Rune axe head	ITEM	cache-item-family.rune_axe_head.520	520	INACCESSIBLE_CACHE_CONTENT	RUNE_AXE_HEAD
+item.rune_pickaxe_nz.11719	Rune pickaxe (nz)	ITEM	cache-item-family.rune_pickaxe_nz.11719	11719	TEMPORARY_INSTANCE_ITEM	RUNE_PICKAXE_NZ
+item.runefest_shield.21695	Runefest shield	ITEM	cache-item-family.runefest_shield.21695	21695	SEASONAL_OR_PROMOTIONAL_REWARD	RUNEFEST_SHIELD
+item.sack_of_coal.27558	Sack of coal	ITEM	cache-item-family.sack_of_coal.27558	27558	HOLIDAY_EVENT_CONTENT	SACK_OF_COAL
+item.sack_of_presents.20834	Sack of presents	ITEM	cache-item-family.sack_of_presents.20834	20834	HOLIDAY_EVENT_CONTENT	SACK_OF_PRESENTS
+item.santa_boots.12891	Santa boots	ITEM	cache-item-family.santa_boots.12891	12891	HOLIDAY_EVENT_CONTENT	SANTA_BOOTS
+item.santa_gloves.12890	Santa gloves	ITEM	cache-item-family.santa_gloves.12890	12890	HOLIDAY_EVENT_CONTENT	SANTA_GLOVES
+item.santa_hat.1050	Santa hat	ITEM	cache-item-family.santa_hat.1050	1050	HOLIDAY_EVENT_CONTENT	SANTA_HAT
+item.santa_jacket.12888	Santa jacket	ITEM	cache-item-family.santa_jacket.12888	12888	HOLIDAY_EVENT_CONTENT	SANTA_JACKET
+item.santa_mask.12887	Santa mask	ITEM	cache-item-family.santa_mask.12887	12887	HOLIDAY_EVENT_CONTENT	SANTA_MASK
+item.santa_pantaloons.12889	Santa pantaloons	ITEM	cache-item-family.santa_pantaloons.12889	12889	HOLIDAY_EVENT_CONTENT	SANTA_PANTALOONS
+item.santa_s_list.27564	Santa's list	ITEM	cache-item-family.santa_s_list.27564	27564	HOLIDAY_EVENT_CONTENT	SANTAS_LIST
+item.saucepan.26254	Saucepan	ITEM	cache-item-family.saucepan.26254	26254	HOLIDAY_EVENT_CONTENT	SAUCEPAN
+item.scarecrow_shirt.30232	Scarecrow shirt	ITEM	cache-item-family.scarecrow_shirt.30232	30232	HOLIDAY_EVENT_CONTENT	SCARECROW_SHIRT
+item.scythe.1419	Scythe	ITEM	cache-item-family.scythe.1419	1419	HOLIDAY_EVENT_CONTENT	SCYTHE
+item.searing_boots.28771	Searing boots	ITEM	cache-item-family.searing_boots.28771	28771	TEMPORARY_LEAGUES_CONTENT	SEARING_BOOTS
+item.secret_santa_present_black.26322	Secret santa present (black)	ITEM	cache-item-family.secret_santa_present_black.26322	26322	HOLIDAY_EVENT_CONTENT	SECRET_SANTA_PRESENT_BLACK
+item.secret_santa_present_blue.26318	Secret santa present (blue)	ITEM	cache-item-family.secret_santa_present_blue.26318	26318	HOLIDAY_EVENT_CONTENT	SECRET_SANTA_PRESENT_BLUE
+item.secret_santa_present_gold.26324	Secret santa present (gold)	ITEM	cache-item-family.secret_santa_present_gold.26324	26324	HOLIDAY_EVENT_CONTENT	SECRET_SANTA_PRESENT_GOLD
+item.secret_santa_present_green.26320	Secret santa present (green)	ITEM	cache-item-family.secret_santa_present_green.26320	26320	HOLIDAY_EVENT_CONTENT	SECRET_SANTA_PRESENT_GREEN
+item.secret_santa_present_red.26316	Secret santa present (red)	ITEM	cache-item-family.secret_santa_present_red.26316	26316	HOLIDAY_EVENT_CONTENT	SECRET_SANTA_PRESENT_RED
+item.shadowflame_quadrant.33253	Shadowflame quadrant	ITEM	cache-item-family.shadowflame_quadrant.33253	33253	TEMPORARY_LEAGUES_CONTENT	SHADOWFLAME_QUADRANT
+item.shattered_banner.26424	Shattered banner	ITEM	cache-item-family.shattered_banner.26424	26424	TEMPORARY_LEAGUES_CONTENT	SHATTERED_BANNER
+item.shattered_boots_t1.26436	Shattered boots (t1)	ITEM	cache-item-family.shattered_boots_t1.26436	26436	TEMPORARY_LEAGUES_CONTENT	SHATTERED_BOOTS_T1
+item.shattered_boots_t2.26448	Shattered boots (t2)	ITEM	cache-item-family.shattered_boots_t2.26448	26448	TEMPORARY_LEAGUES_CONTENT	SHATTERED_BOOTS_T2
+item.shattered_boots_t3.26460	Shattered boots (t3)	ITEM	cache-item-family.shattered_boots_t3.26460	26460	TEMPORARY_LEAGUES_CONTENT	SHATTERED_BOOTS_T3
+item.shattered_cane.26517	Shattered cane	ITEM	cache-item-family.shattered_cane.26517	26517	TEMPORARY_LEAGUES_CONTENT	SHATTERED_CANE
+item.shattered_cannon_ornament_kit.26528	Shattered cannon ornament kit	ITEM	cache-item-family.shattered_cannon_ornament_kit.26528	26528	TEMPORARY_LEAGUES_CONTENT	SHATTERED_CANNON_ORNAMENT_KIT
+item.shattered_hood_t1.26427	Shattered hood (t1)	ITEM	cache-item-family.shattered_hood_t1.26427	26427	TEMPORARY_LEAGUES_CONTENT	SHATTERED_HOOD_T1
+item.shattered_hood_t2.26439	Shattered hood (t2)	ITEM	cache-item-family.shattered_hood_t2.26439	26439	TEMPORARY_LEAGUES_CONTENT	SHATTERED_HOOD_T2
+item.shattered_hood_t3.26451	Shattered hood (t3)	ITEM	cache-item-family.shattered_hood_t3.26451	26451	TEMPORARY_LEAGUES_CONTENT	SHATTERED_HOOD_T3
+item.shattered_relic_hunter_t1_armour_set.26554	Shattered relic hunter (t1) armour set	ITEM	cache-item-family.shattered_relic_hunter_t1_armour_set.26554	26554	TEMPORARY_LEAGUES_CONTENT	SHATTERED_RELIC_HUNTER_T1_ARMOUR_SET
+item.shattered_relic_hunter_t2_armour_set.26557	Shattered relic hunter (t2) armour set	ITEM	cache-item-family.shattered_relic_hunter_t2_armour_set.26557	26557	TEMPORARY_LEAGUES_CONTENT	SHATTERED_RELIC_HUNTER_T2_ARMOUR_SET
+item.shattered_relic_hunter_t3_armour_set.26560	Shattered relic hunter (t3) armour set	ITEM	cache-item-family.shattered_relic_hunter_t3_armour_set.26560	26560	TEMPORARY_LEAGUES_CONTENT	SHATTERED_RELIC_HUNTER_T3_ARMOUR_SET
+item.shattered_relics_mystic_ornament_kit.26541	Shattered relics mystic ornament kit	ITEM	cache-item-family.shattered_relics_mystic_ornament_kit.26541	26541	TEMPORARY_LEAGUES_CONTENT	SHATTERED_RELICS_MYSTIC_ORNAMENT_KIT
+item.shattered_relics_variety_ornament_kit.26421	Shattered relics variety ornament kit	ITEM	cache-item-family.shattered_relics_variety_ornament_kit.26421	26421	TEMPORARY_LEAGUES_CONTENT	SHATTERED_RELICS_VARIETY_ORNAMENT_KIT
+item.shattered_relics_void_ornament_kit.26479	Shattered relics void ornament kit	ITEM	cache-item-family.shattered_relics_void_ornament_kit.26479	26479	TEMPORARY_LEAGUES_CONTENT	SHATTERED_RELICS_VOID_ORNAMENT_KIT
+item.shattered_teleport_scroll.26500	Shattered teleport scroll	ITEM	cache-item-family.shattered_teleport_scroll.26500	26500	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TELEPORT_SCROLL
+item.shattered_top_t1.26430	Shattered top (t1)	ITEM	cache-item-family.shattered_top_t1.26430	26430	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TOP_T1
+item.shattered_top_t2.26442	Shattered top (t2)	ITEM	cache-item-family.shattered_top_t2.26442	26442	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TOP_T2
+item.shattered_top_t3.26454	Shattered top (t3)	ITEM	cache-item-family.shattered_top_t3.26454	26454	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TOP_T3
+item.shattered_trousers_t1.26433	Shattered trousers (t1)	ITEM	cache-item-family.shattered_trousers_t1.26433	26433	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TROUSERS_T1
+item.shattered_trousers_t2.26445	Shattered trousers (t2)	ITEM	cache-item-family.shattered_trousers_t2.26445	26445	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TROUSERS_T2
+item.shattered_trousers_t3.26457	Shattered trousers (t3)	ITEM	cache-item-family.shattered_trousers_t3.26457	26457	TEMPORARY_LEAGUES_CONTENT	SHATTERED_TROUSERS_T3
+item.sigil_of_aggression.26131	Sigil of aggression	ITEM	cache-item-family.sigil_of_aggression.26131	26131	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_AGGRESSION
+item.sigil_of_agile_fortune.28492	Sigil of agile fortune	ITEM	cache-item-family.sigil_of_agile_fortune.28492	28492	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_AGILE_FORTUNE
+item.sigil_of_arcane_swiftness.29678	Sigil of arcane swiftness	ITEM	cache-item-family.sigil_of_arcane_swiftness.29678	29678	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_ARCANE_SWIFTNESS
+item.sigil_of_automation.33057	Sigil of automation	ITEM	cache-item-family.sigil_of_automation.33057	33057	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_AUTOMATION
+item.sigil_of_barrows.26008	Sigil of barrows	ITEM	cache-item-family.sigil_of_barrows.26008	26008	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_BARROWS
+item.sigil_of_binding.26065	Sigil of binding	ITEM	cache-item-family.sigil_of_binding.26065	26065	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_BINDING
+item.sigil_of_conclusion.33055	Sigil of conclusion	ITEM	cache-item-family.sigil_of_conclusion.33055	33055	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_CONCLUSION
+item.sigil_of_consistency.25993	Sigil of consistency	ITEM	cache-item-family.sigil_of_consistency.25993	25993	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_CONSISTENCY
+item.sigil_of_deception.29657	Sigil of deception	ITEM	cache-item-family.sigil_of_deception.29657	29657	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_DECEPTION
+item.sigil_of_deft_strikes.26011	Sigil of deft strikes	ITEM	cache-item-family.sigil_of_deft_strikes.26011	26011	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_DEFT_STRIKES
+item.sigil_of_devotion.26098	Sigil of devotion	ITEM	cache-item-family.sigil_of_devotion.26098	26098	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_DEVOTION
+item.sigil_of_efficiency.33061	Sigil of efficiency	ITEM	cache-item-family.sigil_of_efficiency.33061	33061	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_EFFICIENCY
+item.sigil_of_enhanced_harvest.26017	Sigil of enhanced harvest	ITEM	cache-item-family.sigil_of_enhanced_harvest.26017	26017	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_ENHANCED_HARVEST
+item.sigil_of_escaping.26068	Sigil of escaping	ITEM	cache-item-family.sigil_of_escaping.26068	26068	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_ESCAPING
+item.sigil_of_eternal_belief.33059	Sigil of eternal belief	ITEM	cache-item-family.sigil_of_eternal_belief.33059	33059	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_ETERNAL_BELIEF
+item.sigil_of_exaggeration.26056	Sigil of exaggeration	ITEM	cache-item-family.sigil_of_exaggeration.26056	26056	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_EXAGGERATION
+item.sigil_of_faith.28519	Sigil of faith	ITEM	cache-item-family.sigil_of_faith.28519	28519	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_FAITH
+item.sigil_of_finality.26125	Sigil of finality	ITEM	cache-item-family.sigil_of_finality.26125	26125	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_FINALITY
+item.sigil_of_fortification.26005	Sigil of fortification	ITEM	cache-item-family.sigil_of_fortification.26005	26005	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_FORTIFICATION
+item.sigil_of_freedom.26014	Sigil of freedom	ITEM	cache-item-family.sigil_of_freedom.26014	26014	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_FREEDOM
+item.sigil_of_garments.26104	Sigil of garments	ITEM	cache-item-family.sigil_of_garments.26104	26104	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_GARMENTS
+item.sigil_of_hoarding.28480	Sigil of hoarding	ITEM	cache-item-family.sigil_of_hoarding.28480	28480	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_HOARDING
+item.sigil_of_last_recall.26143	Sigil of last recall	ITEM	cache-item-family.sigil_of_last_recall.26143	26143	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_LAST_RECALL
+item.sigil_of_litheness.29660	Sigil of litheness	ITEM	cache-item-family.sigil_of_litheness.29660	29660	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_LITHENESS
+item.sigil_of_meticulousness.29648	Sigil of meticulousness	ITEM	cache-item-family.sigil_of_meticulousness.29648	29648	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_METICULOUSNESS
+item.sigil_of_nature.26095	Sigil of nature	ITEM	cache-item-family.sigil_of_nature.26095	26095	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_NATURE
+item.sigil_of_onslaught.29666	Sigil of onslaught	ITEM	cache-item-family.sigil_of_onslaught.29666	29666	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_ONSLAUGHT
+item.sigil_of_pious_protection.26128	Sigil of pious protection	ITEM	cache-item-family.sigil_of_pious_protection.26128	26128	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_PIOUS_PROTECTION
+item.sigil_of_precision.28513	Sigil of precision	ITEM	cache-item-family.sigil_of_precision.28513	28513	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_PRECISION
+item.sigil_of_preservation.26122	Sigil of preservation	ITEM	cache-item-family.sigil_of_preservation.26122	26122	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_PRESERVATION
+item.sigil_of_prosperity.26080	Sigil of prosperity	ITEM	cache-item-family.sigil_of_prosperity.26080	26080	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_PROSPERITY
+item.sigil_of_rampage.26134	Sigil of rampage	ITEM	cache-item-family.sigil_of_rampage.26134	26134	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_RAMPAGE
+item.sigil_of_remote_storage.26140	Sigil of remote storage	ITEM	cache-item-family.sigil_of_remote_storage.26140	26140	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_REMOTE_STORAGE
+item.sigil_of_resilience.25990	Sigil of resilience	ITEM	cache-item-family.sigil_of_resilience.25990	25990	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_RESILIENCE
+item.sigil_of_resistance.28489	Sigil of resistance	ITEM	cache-item-family.sigil_of_resistance.28489	28489	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_RESISTANCE
+item.sigil_of_restoration.29669	Sigil of restoration	ITEM	cache-item-family.sigil_of_restoration.29669	29669	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_RESTORATION
+item.sigil_of_revoked_limitation.29651	Sigil of revoked limitation	ITEM	cache-item-family.sigil_of_revoked_limitation.29651	29651	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_REVOKED_LIMITATION
+item.sigil_of_slaughter.26107	Sigil of slaughter	ITEM	cache-item-family.sigil_of_slaughter.26107	26107	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_SLAUGHTER
+item.sigil_of_specialised_strikes.26059	Sigil of specialised strikes	ITEM	cache-item-family.sigil_of_specialised_strikes.26059	26059	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_SPECIALISED_STRIKES
+item.sigil_of_stamina.26041	Sigil of stamina	ITEM	cache-item-family.sigil_of_stamina.26041	26041	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_STAMINA
+item.sigil_of_storage.26020	Sigil of storage	ITEM	cache-item-family.sigil_of_storage.26020	26020	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_STORAGE
+item.sigil_of_supreme_stamina.26119	Sigil of supreme stamina	ITEM	cache-item-family.sigil_of_supreme_stamina.26119	26119	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_SUPREME_STAMINA
+item.sigil_of_sustenance.28477	Sigil of sustenance	ITEM	cache-item-family.sigil_of_sustenance.28477	28477	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_SUSTENANCE
+item.sigil_of_the_abyss.26038	Sigil of the abyss	ITEM	cache-item-family.sigil_of_the_abyss.26038	26038	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_ABYSS
+item.sigil_of_the_adroit.29663	Sigil of the adroit	ITEM	cache-item-family.sigil_of_the_adroit.29663	29663	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_ADROIT
+item.sigil_of_the_alchemaniac.28483	Sigil of the alchemaniac	ITEM	cache-item-family.sigil_of_the_alchemaniac.28483	28483	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_ALCHEMANIAC
+item.sigil_of_the_alchemist.26026	Sigil of the alchemist	ITEM	cache-item-family.sigil_of_the_alchemist.26026	26026	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_ALCHEMIST
+item.sigil_of_the_augmented_thrall.28516	Sigil of the augmented thrall	ITEM	cache-item-family.sigil_of_the_augmented_thrall.28516	28516	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_AUGMENTED_THRALL
+item.sigil_of_the_barbarians.26089	Sigil of the barbarians	ITEM	cache-item-family.sigil_of_the_barbarians.26089	26089	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_BARBARIANS
+item.sigil_of_the_bloodhound.28510	Sigil of the bloodhound	ITEM	cache-item-family.sigil_of_the_bloodhound.28510	28510	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_BLOODHOUND
+item.sigil_of_the_chef.26032	Sigil of the chef	ITEM	cache-item-family.sigil_of_the_chef.26032	26032	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_CHEF
+item.sigil_of_the_craftsman.26035	Sigil of the craftsman	ITEM	cache-item-family.sigil_of_the_craftsman.26035	26035	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_CRAFTSMAN
+item.sigil_of_the_dwarves.26083	Sigil of the dwarves	ITEM	cache-item-family.sigil_of_the_dwarves.26083	26083	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_DWARVES
+item.sigil_of_the_elves.26086	Sigil of the elves	ITEM	cache-item-family.sigil_of_the_elves.26086	26086	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_ELVES
+item.sigil_of_the_eternal_jeweller.26047	Sigil of the eternal jeweller	ITEM	cache-item-family.sigil_of_the_eternal_jeweller.26047	26047	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_ETERNAL_JEWELLER
+item.sigil_of_the_feral_fighter.26074	Sigil of the feral fighter	ITEM	cache-item-family.sigil_of_the_feral_fighter.26074	26074	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_FERAL_FIGHTER
+item.sigil_of_the_fletcher.26029	Sigil of the fletcher	ITEM	cache-item-family.sigil_of_the_fletcher.26029	26029	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_FLETCHER
+item.sigil_of_the_food_master.28495	Sigil of the food master	ITEM	cache-item-family.sigil_of_the_food_master.28495	28495	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_FOOD_MASTER
+item.sigil_of_the_forager.26101	Sigil of the forager	ITEM	cache-item-family.sigil_of_the_forager.26101	26101	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_FORAGER
+item.sigil_of_the_formidable_fighter.25996	Sigil of the formidable fighter	ITEM	cache-item-family.sigil_of_the_formidable_fighter.25996	25996	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_FORMIDABLE_FIGHTER
+item.sigil_of_the_fortune_farmer.26110	Sigil of the fortune farmer	ITEM	cache-item-family.sigil_of_the_fortune_farmer.26110	26110	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_FORTUNE_FARMER
+item.sigil_of_the_gnomes.26092	Sigil of the gnomes	ITEM	cache-item-family.sigil_of_the_gnomes.26092	26092	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_GNOMES
+item.sigil_of_the_gods.33053	Sigil of the gods	ITEM	cache-item-family.sigil_of_the_gods.33053	33053	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_GODS
+item.sigil_of_the_guardian_angel.26146	Sigil of the guardian angel	ITEM	cache-item-family.sigil_of_the_guardian_angel.26146	26146	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_GUARDIAN_ANGEL
+item.sigil_of_the_gunslinger.29675	Sigil of the gunslinger	ITEM	cache-item-family.sigil_of_the_gunslinger.29675	29675	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_GUNSLINGER
+item.sigil_of_the_hunter.28486	Sigil of the hunter	ITEM	cache-item-family.sigil_of_the_hunter.28486	28486	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_HUNTER
+item.sigil_of_the_infernal_chef.28501	Sigil of the infernal chef	ITEM	cache-item-family.sigil_of_the_infernal_chef.28501	28501	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_INFERNAL_CHEF
+item.sigil_of_the_infernal_smith.28504	Sigil of the infernal smith	ITEM	cache-item-family.sigil_of_the_infernal_smith.28504	28504	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_INFERNAL_SMITH
+item.sigil_of_the_lightbearer.28507	Sigil of the lightbearer	ITEM	cache-item-family.sigil_of_the_lightbearer.28507	28507	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_LIGHTBEARER
+item.sigil_of_the_menacing_mage.26077	Sigil of the menacing mage	ITEM	cache-item-family.sigil_of_the_menacing_mage.26077	26077	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_MENACING_MAGE
+item.sigil_of_the_meticulous_mage.26002	Sigil of the meticulous mage	ITEM	cache-item-family.sigil_of_the_meticulous_mage.26002	26002	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_METICULOUS_MAGE
+item.sigil_of_the_ninja.28525	Sigil of the ninja	ITEM	cache-item-family.sigil_of_the_ninja.28525	28525	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_NINJA
+item.sigil_of_the_porcupine.26062	Sigil of the porcupine	ITEM	cache-item-family.sigil_of_the_porcupine.26062	26062	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_PORCUPINE
+item.sigil_of_the_potion_master.26044	Sigil of the potion master	ITEM	cache-item-family.sigil_of_the_potion_master.26044	26044	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_POTION_MASTER
+item.sigil_of_the_rampart.29654	Sigil of the rampart	ITEM	cache-item-family.sigil_of_the_rampart.29654	29654	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_RAMPART
+item.sigil_of_the_rigorous_ranger.25999	Sigil of the rigorous ranger	ITEM	cache-item-family.sigil_of_the_rigorous_ranger.25999	25999	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_RIGOROUS_RANGER
+item.sigil_of_the_ruthless_ranger.26071	Sigil of the ruthless ranger	ITEM	cache-item-family.sigil_of_the_ruthless_ranger.26071	26071	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_RUTHLESS_RANGER
+item.sigil_of_the_serpent.26116	Sigil of the serpent	ITEM	cache-item-family.sigil_of_the_serpent.26116	26116	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_SERPENT
+item.sigil_of_the_skiller.26137	Sigil of the skiller	ITEM	cache-item-family.sigil_of_the_skiller.26137	26137	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_SKILLER
+item.sigil_of_the_smith.26023	Sigil of the smith	ITEM	cache-item-family.sigil_of_the_smith.26023	26023	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_SMITH
+item.sigil_of_the_swashbuckler.29672	Sigil of the swashbuckler	ITEM	cache-item-family.sigil_of_the_swashbuckler.29672	29672	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_SWASHBUCKLER
+item.sigil_of_the_treasure_hunter.26050	Sigil of the treasure hunter	ITEM	cache-item-family.sigil_of_the_treasure_hunter.26050	26050	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_TREASURE_HUNTER
+item.sigil_of_the_well_fed.28498	Sigil of the well fed	ITEM	cache-item-family.sigil_of_the_well_fed.28498	28498	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_THE_WELL_FED
+item.sigil_of_titanium.28522	Sigil of titanium	ITEM	cache-item-family.sigil_of_titanium.28522	28522	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_TITANIUM
+item.sigil_of_versatility.26113	Sigil of versatility	ITEM	cache-item-family.sigil_of_versatility.26113	26113	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_VERSATILITY
+item.sigil_of_woodcraft.28528	Sigil of woodcraft	ITEM	cache-item-family.sigil_of_woodcraft.28528	28528	TEMPORARY_DEADMAN_CONTENT	SIGIL_OF_WOODCRAFT
+item.silver_partyhat.27828	Silver partyhat	ITEM	cache-item-family.silver_partyhat.27828	27828	HOLIDAY_EVENT_CONTENT	SILVER_PARTYHAT
+item.silver_speedrun_trophy.27420	Silver speedrun trophy	ITEM	cache-item-family.silver_speedrun_trophy.27420	27420	TEMPORARY_SPEEDRUN_CONTENT	SILVER_SPEEDRUN_TROPHY
+item.skeleton_boots.9921	Skeleton boots	ITEM	cache-item-family.skeleton_boots.9921	9921	HOLIDAY_EVENT_CONTENT	SKELETON_BOOTS
+item.skeleton_gloves.9922	Skeleton gloves	ITEM	cache-item-family.skeleton_gloves.9922	9922	HOLIDAY_EVENT_CONTENT	SKELETON_GLOVES
+item.skeleton_lantern.24327	Skeleton lantern	ITEM	cache-item-family.skeleton_lantern.24327	24327	HOLIDAY_EVENT_CONTENT	SKELETON_LANTERN
+item.skeleton_leggings.9923	Skeleton leggings	ITEM	cache-item-family.skeleton_leggings.9923	9923	HOLIDAY_EVENT_CONTENT	SKELETON_LEGGINGS
+item.skeleton_mask.9925	Skeleton mask	ITEM	cache-item-family.skeleton_mask.9925	9925	HOLIDAY_EVENT_CONTENT	SKELETON_MASK
+item.skeleton_shirt.9924	Skeleton shirt	ITEM	cache-item-family.skeleton_shirt.9924	9924	HOLIDAY_EVENT_CONTENT	SKELETON_SHIRT
+item.skis.26649	Skis	ITEM	cache-item-family.skis.26649	26649	HOLIDAY_EVENT_CONTENT	SKIS
+item.slice_of_birthday_cake.11916	Slice of birthday cake	ITEM	cache-item-family.slice_of_birthday_cake.11916	11916	HOLIDAY_EVENT_CONTENT	SLICE_OF_BIRTHDAY_CAKE
+item.snow_goggles_hat.27568	Snow goggles & hat	ITEM	cache-item-family.snow_goggles_hat.27568	27568	HOLIDAY_EVENT_CONTENT	SNOW_GOGGLES__HAT
+item.snow_imp_costume_body.21842	Snow imp costume body	ITEM	cache-item-family.snow_imp_costume_body.21842	21842	HOLIDAY_EVENT_CONTENT	SNOW_IMP_COSTUME_BODY
+item.snow_imp_costume_feet.21846	Snow imp costume feet	ITEM	cache-item-family.snow_imp_costume_feet.21846	21846	HOLIDAY_EVENT_CONTENT	SNOW_IMP_COSTUME_FEET
+item.snow_imp_costume_gloves.21845	Snow imp costume gloves	ITEM	cache-item-family.snow_imp_costume_gloves.21845	21845	HOLIDAY_EVENT_CONTENT	SNOW_IMP_COSTUME_GLOVES
+item.snow_imp_costume_head.21841	Snow imp costume head	ITEM	cache-item-family.snow_imp_costume_head.21841	21841	HOLIDAY_EVENT_CONTENT	SNOW_IMP_COSTUME_HEAD
+item.snow_imp_costume_legs.21843	Snow imp costume legs	ITEM	cache-item-family.snow_imp_costume_legs.21843	21843	HOLIDAY_EVENT_CONTENT	SNOW_IMP_COSTUME_LEGS
+item.snow_imp_costume_tail.21844	Snow imp costume tail	ITEM	cache-item-family.snow_imp_costume_tail.21844	21844	HOLIDAY_EVENT_CONTENT	SNOW_IMP_COSTUME_TAIL
+item.snowball.10501	Snowball	ITEM	cache-item-family.snowball.10501	10501	HOLIDAY_EVENT_CONTENT	SNOWBALL
+item.snowdrop_seed.6460	Snowdrop seed	ITEM	cache-item-family.snowdrop_seed.6460	6460	SEASONAL_OR_PROMOTIONAL_REWARD	SNOWDROP_SEED
+item.snowglobe_helmet.28788	Snowglobe helmet	ITEM	cache-item-family.snowglobe_helmet.28788	28788	HOLIDAY_EVENT_CONTENT	SNOWGLOBE_HELMET
+item.snowman_ring.26314	Snowman ring	ITEM	cache-item-family.snowman_ring.26314	26314	HOLIDAY_EVENT_CONTENT	SNOWMAN_RING
+item.spider_hat.28603	Spider hat	ITEM	cache-item-family.spider_hat.28603	28603	HOLIDAY_EVENT_CONTENT	SPIDER_HAT
+item.spookier_boots.24323	Spookier boots	ITEM	cache-item-family.spookier_boots.24323	24323	HOLIDAY_EVENT_CONTENT	SPOOKIER_BOOTS
+item.spookier_gloves.24321	Spookier gloves	ITEM	cache-item-family.spookier_gloves.24321	24321	HOLIDAY_EVENT_CONTENT	SPOOKIER_GLOVES
+item.spookier_hood.24315	Spookier hood	ITEM	cache-item-family.spookier_hood.24315	24315	HOLIDAY_EVENT_CONTENT	SPOOKIER_HOOD
+item.spookier_robe.24317	Spookier robe	ITEM	cache-item-family.spookier_robe.24317	24317	HOLIDAY_EVENT_CONTENT	SPOOKIER_ROBE
+item.spookier_skirt.24319	Spookier skirt	ITEM	cache-item-family.spookier_skirt.24319	24319	HOLIDAY_EVENT_CONTENT	SPOOKIER_SKIRT
+item.spooky_boots.24304	Spooky boots	ITEM	cache-item-family.spooky_boots.24304	24304	HOLIDAY_EVENT_CONTENT	SPOOKY_BOOTS
+item.spooky_gloves.24303	Spooky gloves	ITEM	cache-item-family.spooky_gloves.24303	24303	HOLIDAY_EVENT_CONTENT	SPOOKY_GLOVES
+item.spooky_hood.24300	Spooky hood	ITEM	cache-item-family.spooky_hood.24300	24300	HOLIDAY_EVENT_CONTENT	SPOOKY_HOOD
+item.spooky_pumpkin_lantern.31227	Spooky pumpkin lantern	ITEM	cache-item-family.spooky_pumpkin_lantern.31227	31227	HOLIDAY_EVENT_CONTENT	SPOOKY_PUMPKIN_LANTERN
+item.spooky_robe.24301	Spooky robe	ITEM	cache-item-family.spooky_robe.24301	24301	HOLIDAY_EVENT_CONTENT	SPOOKY_ROBE
+item.spooky_skirt.24302	Spooky skirt	ITEM	cache-item-family.spooky_skirt.24302	24302	HOLIDAY_EVENT_CONTENT	SPOOKY_SKIRT
+item.starter_bow.22333	Starter bow	ITEM	cache-item-family.starter_bow.22333	22333	TEMPORARY_INSTANCE_ITEM	STARTER_BOW
+item.starter_cape.33063	Starter cape	ITEM	cache-item-family.starter_cape.33063	33063	TEMPORARY_DEADMAN_CONTENT	STARTER_CAPE
+item.starter_staff.22335	Starter staff	ITEM	cache-item-family.starter_staff.22335	22335	TEMPORARY_INSTANCE_ITEM	STARTER_STAFF
+item.starter_sword.22331	Starter sword	ITEM	cache-item-family.starter_sword.22331	22331	TEMPORARY_INSTANCE_ITEM	STARTER_SWORD
+item.steel_axe_head.512	Steel axe head	ITEM	cache-item-family.steel_axe_head.512	512	INACCESSIBLE_CACHE_CONTENT	STEEL_AXE_HEAD
+item.stray_dog_plush.27816	Stray dog plush	ITEM	cache-item-family.stray_dog_plush.27816	27816	HOLIDAY_EVENT_CONTENT	STRAY_DOG_PLUSH
+item.sunlight_spear.30369	Sunlight spear	ITEM	cache-item-family.sunlight_spear.30369	30369	TEMPORARY_LEAGUES_CONTENT	SUNLIGHT_SPEAR
+item.sunlit_bracers.30386	Sunlit bracers	ITEM	cache-item-family.sunlit_bracers.30386	30386	TEMPORARY_LEAGUES_CONTENT	SUNLIT_BRACERS
+item.sweet_nutcracker_boots.27585	Sweet nutcracker boots	ITEM	cache-item-family.sweet_nutcracker_boots.27585	27585	HOLIDAY_EVENT_CONTENT	SWEET_NUTCRACKER_BOOTS
+item.sweet_nutcracker_hat.27584	Sweet nutcracker hat	ITEM	cache-item-family.sweet_nutcracker_hat.27584	27584	HOLIDAY_EVENT_CONTENT	SWEET_NUTCRACKER_HAT
+item.sweet_nutcracker_staff.27586	Sweet nutcracker staff	ITEM	cache-item-family.sweet_nutcracker_staff.27586	27586	HOLIDAY_EVENT_CONTENT	SWEET_NUTCRACKER_STAFF
+item.sweet_nutcracker_top.27582	Sweet nutcracker top	ITEM	cache-item-family.sweet_nutcracker_top.27582	27582	HOLIDAY_EVENT_CONTENT	SWEET_NUTCRACKER_TOP
+item.sweet_nutcracker_trousers.27583	Sweet nutcracker trousers	ITEM	cache-item-family.sweet_nutcracker_trousers.27583	27583	HOLIDAY_EVENT_CONTENT	SWEET_NUTCRACKER_TROUSERS
+item.swords_and_emblem.31193	Swords and emblem	ITEM	cache-item-family.swords_and_emblem.31193	31193	GRID_MASTER_TEMPORARY_CONTENT	SWORDS_AND_EMBLEM
+item.swords_and_emblem_b.31196	Swords and emblem (b)	ITEM	cache-item-family.swords_and_emblem_b.31196	31196	GRID_MASTER_TEMPORARY_CONTENT	SWORDS_AND_EMBLEM_B
+item.tears_of_elidinis_1.27333	Tears of elidinis (1)	ITEM	cache-item-family.tears_of_elidinis_1.27333	27333	TEMPORARY_INSTANCE_ITEM	TEARS_OF_ELIDINIS_1
+item.tears_of_elidinis_2.27331	Tears of elidinis (2)	ITEM	cache-item-family.tears_of_elidinis_2.27331	27331	TEMPORARY_INSTANCE_ITEM	TEARS_OF_ELIDINIS_2
+item.tears_of_elidinis_3.27329	Tears of elidinis (3)	ITEM	cache-item-family.tears_of_elidinis_3.27329	27329	TEMPORARY_INSTANCE_ITEM	TEARS_OF_ELIDINIS_3
+item.tears_of_elidinis_4.27327	Tears of elidinis (4)	ITEM	cache-item-family.tears_of_elidinis_4.27327	27327	TEMPORARY_INSTANCE_ITEM	TEARS_OF_ELIDINIS_4
+item.telekinetic_grab.8022	Telekinetic grab	ITEM	cache-item-family.telekinetic_grab.8022	8022	INACCESSIBLE_CACHE_CONTENT	TELEKINETIC_GRAB
+item.teleport_crystal.23904	Teleport crystal	ITEM	cache-item-family.teleport_crystal.23904	23904	TEMPORARY_INSTANCE_ITEM	TELEPORT_CRYSTAL
+item.the_dogsword.30367	The dogsword	ITEM	cache-item-family.the_dogsword.30367	30367	TEMPORARY_LEAGUES_CONTENT	THE_DOGSWORD
+item.thousand_dragon_ward.30382	Thousand-dragon ward	ITEM	cache-item-family.thousand_dragon_ward.30382	30382	TEMPORARY_LEAGUES_CONTENT	THOUSANDDRAGON_WARD
+item.thunder_khopesh.30388	Thunder khopesh	ITEM	cache-item-family.thunder_khopesh.30388	30388	TEMPORARY_LEAGUES_CONTENT	THUNDER_KHOPESH
+item.trailblazer_banner.25056	Trailblazer banner	ITEM	cache-item-family.trailblazer_banner.25056	25056	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_BANNER
+item.trailblazer_boots_t1.25037	Trailblazer boots (t1)	ITEM	cache-item-family.trailblazer_boots_t1.25037	25037	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_BOOTS_T1
+item.trailblazer_boots_t2.25025	Trailblazer boots (t2)	ITEM	cache-item-family.trailblazer_boots_t2.25025	25025	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_BOOTS_T2
+item.trailblazer_boots_t3.25010	Trailblazer boots (t3)	ITEM	cache-item-family.trailblazer_boots_t3.25010	25010	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_BOOTS_T3
+item.trailblazer_cane.25013	Trailblazer cane	ITEM	cache-item-family.trailblazer_cane.25013	25013	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_CANE
+item.trailblazer_globe.25093	Trailblazer globe	ITEM	cache-item-family.trailblazer_globe.25093	25093	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_GLOBE
+item.trailblazer_graceful_ornament_kit.25099	Trailblazer graceful ornament kit	ITEM	cache-item-family.trailblazer_graceful_ornament_kit.25099	25099	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_GRACEFUL_ORNAMENT_KIT
+item.trailblazer_hood_t1.25028	Trailblazer hood (t1)	ITEM	cache-item-family.trailblazer_hood_t1.25028	25028	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_HOOD_T1
+item.trailblazer_hood_t2.25016	Trailblazer hood (t2)	ITEM	cache-item-family.trailblazer_hood_t2.25016	25016	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_HOOD_T2
+item.trailblazer_hood_t3.25001	Trailblazer hood (t3)	ITEM	cache-item-family.trailblazer_hood_t3.25001	25001	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_HOOD_T3
+item.trailblazer_relic_hunter_t1_armour_set.25380	Trailblazer relic hunter (t1) armour set	ITEM	cache-item-family.trailblazer_relic_hunter_t1_armour_set.25380	25380	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELIC_HUNTER_T1_ARMOUR_SET
+item.trailblazer_relic_hunter_t2_armour_set.25383	Trailblazer relic hunter (t2) armour set	ITEM	cache-item-family.trailblazer_relic_hunter_t2_armour_set.25383	25383	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELIC_HUNTER_T2_ARMOUR_SET
+item.trailblazer_relic_hunter_t3_armour_set.25386	Trailblazer relic hunter (t3) armour set	ITEM	cache-item-family.trailblazer_relic_hunter_t3_armour_set.25386	25386	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELIC_HUNTER_T3_ARMOUR_SET
+item.trailblazer_reloaded_alchemy_scroll.28693	Trailblazer reloaded alchemy scroll	ITEM	cache-item-family.trailblazer_reloaded_alchemy_scroll.28693	28693	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_ALCHEMY_SCROLL
+item.trailblazer_reloaded_banner.28702	Trailblazer reloaded banner	ITEM	cache-item-family.trailblazer_reloaded_banner.28702	28702	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_BANNER
+item.trailblazer_reloaded_blowpipe_ornament_kit.28690	Trailblazer reloaded blowpipe ornament kit	ITEM	cache-item-family.trailblazer_reloaded_blowpipe_ornament_kit.28690	28690	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_BLOWPIPE_ORNAMENT_KIT
+item.trailblazer_reloaded_boots_t1.28721	Trailblazer reloaded boots (t1)	ITEM	cache-item-family.trailblazer_reloaded_boots_t1.28721	28721	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_BOOTS_T1
+item.trailblazer_reloaded_boots_t2.28733	Trailblazer reloaded boots (t2)	ITEM	cache-item-family.trailblazer_reloaded_boots_t2.28733	28733	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_BOOTS_T2
+item.trailblazer_reloaded_boots_t3.28745	Trailblazer reloaded boots (t3)	ITEM	cache-item-family.trailblazer_reloaded_boots_t3.28745	28745	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_BOOTS_T3
+item.trailblazer_reloaded_bulwark_ornament_kit.28684	Trailblazer reloaded bulwark ornament kit	ITEM	cache-item-family.trailblazer_reloaded_bulwark_ornament_kit.28684	28684	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_BULWARK_ORNAMENT_KIT
+item.trailblazer_reloaded_death_scroll.28699	Trailblazer reloaded death scroll	ITEM	cache-item-family.trailblazer_reloaded_death_scroll.28699	28699	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_DEATH_SCROLL
+item.trailblazer_reloaded_headband_t1.28712	Trailblazer reloaded headband (t1)	ITEM	cache-item-family.trailblazer_reloaded_headband_t1.28712	28712	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_HEADBAND_T1
+item.trailblazer_reloaded_headband_t2.28724	Trailblazer reloaded headband (t2)	ITEM	cache-item-family.trailblazer_reloaded_headband_t2.28724	28724	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_HEADBAND_T2
+item.trailblazer_reloaded_headband_t3.28736	Trailblazer reloaded headband (t3)	ITEM	cache-item-family.trailblazer_reloaded_headband_t3.28736	28736	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_HEADBAND_T3
+item.trailblazer_reloaded_home_teleport_scroll.28705	Trailblazer reloaded home teleport scroll	ITEM	cache-item-family.trailblazer_reloaded_home_teleport_scroll.28705	28705	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_HOME_TELEPORT_SCROLL
+item.trailblazer_reloaded_rejuvenation_pool_scroll.28708	Trailblazer reloaded rejuvenation pool scroll	ITEM	cache-item-family.trailblazer_reloaded_rejuvenation_pool_scroll.28708	28708	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_REJUVENATION_POOL_SCROLL
+item.trailblazer_reloaded_relic_hunter_t1_armour_set.28777	Trailblazer reloaded relic hunter (t1) armour set	ITEM	cache-item-family.trailblazer_reloaded_relic_hunter_t1_armour_set.28777	28777	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_RELIC_HUNTER_T1_ARMOUR_SET
+item.trailblazer_reloaded_relic_hunter_t2_armour_set.28780	Trailblazer reloaded relic hunter (t2) armour set	ITEM	cache-item-family.trailblazer_reloaded_relic_hunter_t2_armour_set.28780	28780	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_RELIC_HUNTER_T2_ARMOUR_SET
+item.trailblazer_reloaded_relic_hunter_t3_armour_set.28783	Trailblazer reloaded relic hunter (t3) armour set	ITEM	cache-item-family.trailblazer_reloaded_relic_hunter_t3_armour_set.28783	28783	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_RELIC_HUNTER_T3_ARMOUR_SET
+item.trailblazer_reloaded_top_t1.28715	Trailblazer reloaded top (t1)	ITEM	cache-item-family.trailblazer_reloaded_top_t1.28715	28715	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TOP_T1
+item.trailblazer_reloaded_top_t2.28727	Trailblazer reloaded top (t2)	ITEM	cache-item-family.trailblazer_reloaded_top_t2.28727	28727	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TOP_T2
+item.trailblazer_reloaded_top_t3.28739	Trailblazer reloaded top (t3)	ITEM	cache-item-family.trailblazer_reloaded_top_t3.28739	28739	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TOP_T3
+item.trailblazer_reloaded_torch.28748	Trailblazer reloaded torch	ITEM	cache-item-family.trailblazer_reloaded_torch.28748	28748	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TORCH
+item.trailblazer_reloaded_trousers_t1.28718	Trailblazer reloaded trousers (t1)	ITEM	cache-item-family.trailblazer_reloaded_trousers_t1.28718	28718	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TROUSERS_T1
+item.trailblazer_reloaded_trousers_t2.28730	Trailblazer reloaded trousers (t2)	ITEM	cache-item-family.trailblazer_reloaded_trousers_t2.28730	28730	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TROUSERS_T2
+item.trailblazer_reloaded_trousers_t3.28742	Trailblazer reloaded trousers (t3)	ITEM	cache-item-family.trailblazer_reloaded_trousers_t3.28742	28742	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_TROUSERS_T3
+item.trailblazer_reloaded_vengeance_scroll.28696	Trailblazer reloaded vengeance scroll	ITEM	cache-item-family.trailblazer_reloaded_vengeance_scroll.28696	28696	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RELOADED_VENGEANCE_SCROLL
+item.trailblazer_rug.25096	Trailblazer rug	ITEM	cache-item-family.trailblazer_rug.25096	25096	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_RUG
+item.trailblazer_teleport_scroll.25087	Trailblazer teleport scroll	ITEM	cache-item-family.trailblazer_teleport_scroll.25087	25087	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TELEPORT_SCROLL
+item.trailblazer_tool_ornament_kit.25090	Trailblazer tool ornament kit	ITEM	cache-item-family.trailblazer_tool_ornament_kit.25090	25090	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TOOL_ORNAMENT_KIT
+item.trailblazer_top_t1.25031	Trailblazer top (t1)	ITEM	cache-item-family.trailblazer_top_t1.25031	25031	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TOP_T1
+item.trailblazer_top_t2.25019	Trailblazer top (t2)	ITEM	cache-item-family.trailblazer_top_t2.25019	25019	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TOP_T2
+item.trailblazer_top_t3.25004	Trailblazer top (t3)	ITEM	cache-item-family.trailblazer_top_t3.25004	25004	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TOP_T3
+item.trailblazer_trousers_t1.25034	Trailblazer trousers (t1)	ITEM	cache-item-family.trailblazer_trousers_t1.25034	25034	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TROUSERS_T1
+item.trailblazer_trousers_t2.25022	Trailblazer trousers (t2)	ITEM	cache-item-family.trailblazer_trousers_t2.25022	25022	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TROUSERS_T2
+item.trailblazer_trousers_t3.25007	Trailblazer trousers (t3)	ITEM	cache-item-family.trailblazer_trousers_t3.25007	25007	TEMPORARY_LEAGUES_CONTENT	TRAILBLAZER_TROUSERS_T3
+item.transmutation_ledger.33229	Transmutation ledger	ITEM	cache-item-family.transmutation_ledger.33229	33229	TEMPORARY_LEAGUES_CONTENT	TRANSMUTATION_LEDGER
+item.treat_cauldron.27463	Treat cauldron	ITEM	cache-item-family.treat_cauldron.27463	27463	HOLIDAY_EVENT_CONTENT	TREAT_CAULDRON
+item.trinket_of_fortuity.33047	Trinket of fortuity	ITEM	cache-item-family.trinket_of_fortuity.33047	33047	TEMPORARY_DEADMAN_CONTENT	TRINKET_OF_FORTUITY_INACTIVE
+item.trinket_of_fortuity_active.33050	Trinket of fortuity (active)	ITEM	cache-item-family.trinket_of_fortuity_active.33050	33050	TEMPORARY_DEADMAN_CONTENT	TRINKET_OF_FORTUITY_ACTIVE
+item.twisted_1.20925	Twisted (-)(1)	ITEM	cache-item-family.twisted_1.20925	20925	TEMPORARY_LEAGUES_CONTENT	TWISTED_1
+item.twisted_1.20933	Twisted (+)(1)	ITEM	cache-item-family.twisted_1.20933	20933	TEMPORARY_LEAGUES_CONTENT	TWISTED_1_20933
+item.twisted_2.20926	Twisted (-)(2)	ITEM	cache-item-family.twisted_2.20926	20926	TEMPORARY_LEAGUES_CONTENT	TWISTED_2
+item.twisted_2.20934	Twisted (+)(2)	ITEM	cache-item-family.twisted_2.20934	20934	TEMPORARY_LEAGUES_CONTENT	TWISTED_2_20934
+item.twisted_3.20927	Twisted (-)(3)	ITEM	cache-item-family.twisted_3.20927	20927	TEMPORARY_LEAGUES_CONTENT	TWISTED_3
+item.twisted_3.20935	Twisted (+)(3)	ITEM	cache-item-family.twisted_3.20935	20935	TEMPORARY_LEAGUES_CONTENT	TWISTED_3_20935
+item.twisted_4.20928	Twisted (-)(4)	ITEM	cache-item-family.twisted_4.20928	20928	TEMPORARY_LEAGUES_CONTENT	TWISTED_4
+item.twisted_4.20936	Twisted (+)(4)	ITEM	cache-item-family.twisted_4.20936	20936	TEMPORARY_LEAGUES_CONTENT	TWISTED_4_20936
+item.twisted_adamant_trophy.24376	Twisted adamant trophy	ITEM	cache-item-family.twisted_adamant_trophy.24376	24376	TEMPORARY_LEAGUES_CONTENT	TWISTED_ADAMANT_TROPHY
+item.twisted_ancestral_hat.24664	Twisted ancestral hat	ITEM	cache-item-family.twisted_ancestral_hat.24664	24664	TEMPORARY_LEAGUES_CONTENT	TWISTED_ANCESTRAL_HAT
+item.twisted_ancestral_robe_bottom.24668	Twisted ancestral robe bottom	ITEM	cache-item-family.twisted_ancestral_robe_bottom.24668	24668	TEMPORARY_LEAGUES_CONTENT	TWISTED_ANCESTRAL_ROBE_BOTTOM
+item.twisted_ancestral_robe_top.24666	Twisted ancestral robe top	ITEM	cache-item-family.twisted_ancestral_robe_top.24666	24666	TEMPORARY_LEAGUES_CONTENT	TWISTED_ANCESTRAL_ROBE_TOP
+item.twisted_banner.24413	Twisted banner	ITEM	cache-item-family.twisted_banner.24413	24413	TEMPORARY_LEAGUES_CONTENT	TWISTED_BANNER
+item.twisted_blueprints.24463	Twisted blueprints	ITEM	cache-item-family.twisted_blueprints.24463	24463	TEMPORARY_LEAGUES_CONTENT	TWISTED_BLUEPRINTS
+item.twisted_boots_t1.24411	Twisted boots (t1)	ITEM	cache-item-family.twisted_boots_t1.24411	24411	TEMPORARY_LEAGUES_CONTENT	TWISTED_BOOTS_T1
+item.twisted_boots_t2.24403	Twisted boots (t2)	ITEM	cache-item-family.twisted_boots_t2.24403	24403	TEMPORARY_LEAGUES_CONTENT	TWISTED_BOOTS_T2
+item.twisted_boots_t3.24393	Twisted boots (t3)	ITEM	cache-item-family.twisted_boots_t3.24393	24393	TEMPORARY_LEAGUES_CONTENT	TWISTED_BOOTS_T3
+item.twisted_bronze_trophy.24384	Twisted bronze trophy	ITEM	cache-item-family.twisted_bronze_trophy.24384	24384	TEMPORARY_LEAGUES_CONTENT	TWISTED_BRONZE_TROPHY
+item.twisted_cane.24395	Twisted cane	ITEM	cache-item-family.twisted_cane.24395	24395	TEMPORARY_LEAGUES_CONTENT	TWISTED_CANE
+item.twisted_coat_t1.24407	Twisted coat (t1)	ITEM	cache-item-family.twisted_coat_t1.24407	24407	TEMPORARY_LEAGUES_CONTENT	TWISTED_COAT_T1
+item.twisted_coat_t2.24399	Twisted coat (t2)	ITEM	cache-item-family.twisted_coat_t2.24399	24399	TEMPORARY_LEAGUES_CONTENT	TWISTED_COAT_T2
+item.twisted_coat_t3.24389	Twisted coat (t3)	ITEM	cache-item-family.twisted_coat_t3.24389	24389	TEMPORARY_LEAGUES_CONTENT	TWISTED_COAT_T3
+item.twisted_dragon_trophy.24372	Twisted dragon trophy	ITEM	cache-item-family.twisted_dragon_trophy.24372	24372	TEMPORARY_LEAGUES_CONTENT	TWISTED_DRAGON_TROPHY
+item.twisted_hat_t1.24405	Twisted hat (t1)	ITEM	cache-item-family.twisted_hat_t1.24405	24405	TEMPORARY_LEAGUES_CONTENT	TWISTED_HAT_T1
+item.twisted_hat_t2.24397	Twisted hat (t2)	ITEM	cache-item-family.twisted_hat_t2.24397	24397	TEMPORARY_LEAGUES_CONTENT	TWISTED_HAT_T2
+item.twisted_hat_t3.24387	Twisted hat (t3)	ITEM	cache-item-family.twisted_hat_t3.24387	24387	TEMPORARY_LEAGUES_CONTENT	TWISTED_HAT_T3
+item.twisted_horns.24466	Twisted horns	ITEM	cache-item-family.twisted_horns.24466	24466	TEMPORARY_LEAGUES_CONTENT	TWISTED_HORNS
+item.twisted_iron_trophy.24382	Twisted iron trophy	ITEM	cache-item-family.twisted_iron_trophy.24382	24382	TEMPORARY_LEAGUES_CONTENT	TWISTED_IRON_TROPHY
+item.twisted_mithril_trophy.24378	Twisted mithril trophy	ITEM	cache-item-family.twisted_mithril_trophy.24378	24378	TEMPORARY_LEAGUES_CONTENT	TWISTED_MITHRIL_TROPHY
+item.twisted_potion.20929	Twisted potion	ITEM	cache-item-family.twisted_potion.20929	20929	TEMPORARY_LEAGUES_CONTENT	TWISTED_POTION_1
+item.twisted_relic_hunter_t1_armour_set.24469	Twisted relic hunter (t1) armour set	ITEM	cache-item-family.twisted_relic_hunter_t1_armour_set.24469	24469	TEMPORARY_LEAGUES_CONTENT	TWISTED_RELIC_HUNTER_T1_ARMOUR_SET
+item.twisted_relic_hunter_t2_armour_set.24472	Twisted relic hunter (t2) armour set	ITEM	cache-item-family.twisted_relic_hunter_t2_armour_set.24472	24472	TEMPORARY_LEAGUES_CONTENT	TWISTED_RELIC_HUNTER_T2_ARMOUR_SET
+item.twisted_relic_hunter_t3_armour_set.24475	Twisted relic hunter (t3) armour set	ITEM	cache-item-family.twisted_relic_hunter_t3_armour_set.24475	24475	TEMPORARY_LEAGUES_CONTENT	TWISTED_RELIC_HUNTER_T3_ARMOUR_SET
+item.twisted_rune_trophy.24374	Twisted rune trophy	ITEM	cache-item-family.twisted_rune_trophy.24374	24374	TEMPORARY_LEAGUES_CONTENT	TWISTED_RUNE_TROPHY
+item.twisted_slayer_helmet.24370	Twisted slayer helmet	ITEM	cache-item-family.twisted_slayer_helmet.24370	24370	TEMPORARY_LEAGUES_CONTENT	TWISTED_SLAYER_HELMET
+item.twisted_slayer_helmet_i.24444	Twisted slayer helmet (i)	ITEM	cache-item-family.twisted_slayer_helmet_i.24444	24444	TEMPORARY_LEAGUES_CONTENT	TWISTED_SLAYER_HELMET_I
+item.twisted_steel_trophy.24380	Twisted steel trophy	ITEM	cache-item-family.twisted_steel_trophy.24380	24380	TEMPORARY_LEAGUES_CONTENT	TWISTED_STEEL_TROPHY
+item.twisted_teleport_scroll.24460	Twisted teleport scroll	ITEM	cache-item-family.twisted_teleport_scroll.24460	24460	TEMPORARY_LEAGUES_CONTENT	TWISTED_TELEPORT_SCROLL
+item.twisted_trousers_t1.24409	Twisted trousers (t1)	ITEM	cache-item-family.twisted_trousers_t1.24409	24409	TEMPORARY_LEAGUES_CONTENT	TWISTED_TROUSERS_T1
+item.twisted_trousers_t2.24401	Twisted trousers (t2)	ITEM	cache-item-family.twisted_trousers_t2.24401	24401	TEMPORARY_LEAGUES_CONTENT	TWISTED_TROUSERS_T2
+item.twisted_trousers_t3.24391	Twisted trousers (t3)	ITEM	cache-item-family.twisted_trousers_t3.24391	24391	TEMPORARY_LEAGUES_CONTENT	TWISTED_TROUSERS_T3
+item.ugly_halloween_jumper_black.26258	Ugly halloween jumper (black)	ITEM	cache-item-family.ugly_halloween_jumper_black.26258	26258	HOLIDAY_EVENT_CONTENT	UGLY_HALLOWEEN_JUMPER_BLACK
+item.ugly_halloween_jumper_orange.26256	Ugly halloween jumper (orange)	ITEM	cache-item-family.ugly_halloween_jumper_orange.26256	26256	HOLIDAY_EVENT_CONTENT	UGLY_HALLOWEEN_JUMPER_ORANGE
+item.unidentified_fragment_combat.26547	Unidentified fragment (combat)	ITEM	cache-item-family.unidentified_fragment_combat.26547	26547	TEMPORARY_LEAGUES_CONTENT	UNIDENTIFIED_FRAGMENT_COMBAT
+item.unidentified_fragment_harvesting.26544	Unidentified fragment (harvesting)	ITEM	cache-item-family.unidentified_fragment_harvesting.26544	26544	TEMPORARY_LEAGUES_CONTENT	UNIDENTIFIED_FRAGMENT_HARVESTING
+item.unidentified_fragment_misc.26548	Unidentified fragment (misc)	ITEM	cache-item-family.unidentified_fragment_misc.26548	26548	TEMPORARY_LEAGUES_CONTENT	UNIDENTIFIED_FRAGMENT_MISC
+item.unidentified_fragment_production.26545	Unidentified fragment (production)	ITEM	cache-item-family.unidentified_fragment_production.26545	26545	TEMPORARY_LEAGUES_CONTENT	UNIDENTIFIED_FRAGMENT_PRODUCTION
+item.unidentified_fragment_skilling.26546	Unidentified fragment (skilling)	ITEM	cache-item-family.unidentified_fragment_skilling.26546	26546	TEMPORARY_LEAGUES_CONTENT	UNIDENTIFIED_FRAGMENT_SKILLING
+item.v_s_helm.33247	V's helm	ITEM	cache-item-family.v_s_helm.33247	33247	TEMPORARY_LEAGUES_CONTENT	VS_HELM
+item.water_filled_vial.23880	Water-filled vial	ITEM	cache-item-family.water_filled_vial.23880	23880	TEMPORARY_INSTANCE_ITEM	WATERFILLED_VIAL
+item.web_cloak.28671	Web cloak	ITEM	cache-item-family.web_cloak.28671	28671	HOLIDAY_EVENT_CONTENT	WEB_CLOAK
+item.white_partyhat.1048	White partyhat	ITEM	cache-item-family.white_partyhat.1048	1048	HOLIDAY_EVENT_CONTENT	WHITE_PARTYHAT
+item.white_pumpkin_angry.30251	White pumpkin (angry)	ITEM	cache-item-family.white_pumpkin_angry.30251	30251	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_ANGRY
+item.white_pumpkin_depressed.30252	White pumpkin (depressed)	ITEM	cache-item-family.white_pumpkin_depressed.30252	30252	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_DEPRESSED
+item.white_pumpkin_disgusted.30248	White pumpkin (disgusted)	ITEM	cache-item-family.white_pumpkin_disgusted.30248	30248	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_DISGUSTED
+item.white_pumpkin_evil.30250	White pumpkin (evil)	ITEM	cache-item-family.white_pumpkin_evil.30250	30250	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_EVIL
+item.white_pumpkin_happy.30255	White pumpkin (happy)	ITEM	cache-item-family.white_pumpkin_happy.30255	30255	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_HAPPY
+item.white_pumpkin_laughing.30256	White pumpkin (laughing)	ITEM	cache-item-family.white_pumpkin_laughing.30256	30256	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_LAUGHING
+item.white_pumpkin_sad.30254	White pumpkin (sad)	ITEM	cache-item-family.white_pumpkin_sad.30254	30254	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_SAD
+item.white_pumpkin_shocked.30253	White pumpkin (shocked)	ITEM	cache-item-family.white_pumpkin_shocked.30253	30253	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_SHOCKED
+item.white_pumpkin_silly.30249	White pumpkin (silly)	ITEM	cache-item-family.white_pumpkin_silly.30249	30249	HOLIDAY_EVENT_CONTENT	WHITE_PUMPKIN_SILLY
+item.white_sweets.4560	White sweets	ITEM	cache-item-family.white_sweets.4560	4560	INACCESSIBLE_CACHE_CONTENT	WHITE_SWEETS
+item.wintumber_tree.10508	Wintumber tree	ITEM	cache-item-family.wintumber_tree.10508	10508	HOLIDAY_EVENT_CONTENT	WINTUMBER_TREE
+item.wise_old_man_s_santa_hat.21859	Wise old man's santa hat	ITEM	cache-item-family.wise_old_man_s_santa_hat.21859	21859	HOLIDAY_EVENT_CONTENT	WISE_OLD_MANS_SANTA_HAT
+item.witch_boots.27479	Witch boots	ITEM	cache-item-family.witch_boots.27479	27479	HOLIDAY_EVENT_CONTENT	WITCH_BOOTS
+item.witch_cape.27481	Witch cape	ITEM	cache-item-family.witch_cape.27481	27481	HOLIDAY_EVENT_CONTENT	WITCH_CAPE
+item.witch_hat.27473	Witch hat	ITEM	cache-item-family.witch_hat.27473	27473	HOLIDAY_EVENT_CONTENT	WITCH_HAT
+item.witch_robes.27477	Witch robes	ITEM	cache-item-family.witch_robes.27477	27477	HOLIDAY_EVENT_CONTENT	WITCH_ROBES
+item.witch_top.27475	Witch top	ITEM	cache-item-family.witch_top.27475	27475	HOLIDAY_EVENT_CONTENT	WITCH_TOP
+item.wristbands_of_the_arena.26723	Wristbands of the arena	ITEM	cache-item-family.wristbands_of_the_arena.26723	26723	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA
+item.wristbands_of_the_arena_c.26725	Wristbands of the arena (c)	ITEM	cache-item-family.wristbands_of_the_arena_c.26725	26725	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA_C
+item.wristbands_of_the_arena_cl.26726	Wristbands of the arena (cl)	ITEM	cache-item-family.wristbands_of_the_arena_cl.26726	26726	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA_CL
+item.wristbands_of_the_arena_i.26727	Wristbands of the arena (i)	ITEM	cache-item-family.wristbands_of_the_arena_i.26727	26727	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA_I
+item.wristbands_of_the_arena_ic.26729	Wristbands of the arena (ic)	ITEM	cache-item-family.wristbands_of_the_arena_ic.26729	26729	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA_IC
+item.wristbands_of_the_arena_il.26728	Wristbands of the arena (il)	ITEM	cache-item-family.wristbands_of_the_arena_il.26728	26728	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA_IL
+item.wristbands_of_the_arena_ilc.26730	Wristbands of the arena (ilc)	ITEM	cache-item-family.wristbands_of_the_arena_ilc.26730	26730	FAILED_POLL_BETA_CONTENT	WRISTBANDS_OF_THE_ARENA_ILC
+item.xeric_s_aid_1.20973	Xeric's aid (-)(1)	ITEM	cache-item-family.xeric_s_aid_1.20973	20973	TEMPORARY_INSTANCE_ITEM	XERICS_AID_1
+item.xeric_s_aid_1.20977	Xeric's aid (1)	ITEM	cache-item-family.xeric_s_aid_1.20977	20977	TEMPORARY_INSTANCE_ITEM	XERICS_AID_1_20977
+item.xeric_s_aid_1.20981	Xeric's aid (+)(1)	ITEM	cache-item-family.xeric_s_aid_1.20981	20981	TEMPORARY_INSTANCE_ITEM	XERICS_AID_1_20981
+item.xeric_s_aid_2.20974	Xeric's aid (-)(2)	ITEM	cache-item-family.xeric_s_aid_2.20974	20974	TEMPORARY_INSTANCE_ITEM	XERICS_AID_2
+item.xeric_s_aid_2.20978	Xeric's aid (2)	ITEM	cache-item-family.xeric_s_aid_2.20978	20978	TEMPORARY_INSTANCE_ITEM	XERICS_AID_2_20978
+item.xeric_s_aid_2.20982	Xeric's aid (+)(2)	ITEM	cache-item-family.xeric_s_aid_2.20982	20982	TEMPORARY_INSTANCE_ITEM	XERICS_AID_2_20982
+item.xeric_s_aid_3.20975	Xeric's aid (-)(3)	ITEM	cache-item-family.xeric_s_aid_3.20975	20975	TEMPORARY_INSTANCE_ITEM	XERICS_AID_3
+item.xeric_s_aid_3.20979	Xeric's aid (3)	ITEM	cache-item-family.xeric_s_aid_3.20979	20979	TEMPORARY_INSTANCE_ITEM	XERICS_AID_3_20979
+item.xeric_s_aid_3.20983	Xeric's aid (+)(3)	ITEM	cache-item-family.xeric_s_aid_3.20983	20983	TEMPORARY_INSTANCE_ITEM	XERICS_AID_3_20983
+item.xeric_s_aid_4.20976	Xeric's aid (-)(4)	ITEM	cache-item-family.xeric_s_aid_4.20976	20976	TEMPORARY_INSTANCE_ITEM	XERICS_AID_4
+item.xeric_s_aid_4.20980	Xeric's aid (4)	ITEM	cache-item-family.xeric_s_aid_4.20980	20980	TEMPORARY_INSTANCE_ITEM	XERICS_AID_4_20980
+item.xeric_s_aid_4.20984	Xeric's aid (+)(4)	ITEM	cache-item-family.xeric_s_aid_4.20984	20984	TEMPORARY_INSTANCE_ITEM	XERICS_AID_4_20984
+item.yellow_partyhat.1040	Yellow partyhat	ITEM	cache-item-family.yellow_partyhat.1040	1040	HOLIDAY_EVENT_CONTENT	YELLOW_PARTYHAT
+item.yellow_pumpkin_angry.30260	Yellow pumpkin (angry)	ITEM	cache-item-family.yellow_pumpkin_angry.30260	30260	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_ANGRY
+item.yellow_pumpkin_depressed.30261	Yellow pumpkin (depressed)	ITEM	cache-item-family.yellow_pumpkin_depressed.30261	30261	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_DEPRESSED
+item.yellow_pumpkin_disgusted.30257	Yellow pumpkin (disgusted)	ITEM	cache-item-family.yellow_pumpkin_disgusted.30257	30257	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_DISGUSTED
+item.yellow_pumpkin_evil.30259	Yellow pumpkin (evil)	ITEM	cache-item-family.yellow_pumpkin_evil.30259	30259	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_EVIL
+item.yellow_pumpkin_happy.30264	Yellow pumpkin (happy)	ITEM	cache-item-family.yellow_pumpkin_happy.30264	30264	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_HAPPY
+item.yellow_pumpkin_laughing.30265	Yellow pumpkin (laughing)	ITEM	cache-item-family.yellow_pumpkin_laughing.30265	30265	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_LAUGHING
+item.yellow_pumpkin_sad.30263	Yellow pumpkin (sad)	ITEM	cache-item-family.yellow_pumpkin_sad.30263	30263	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_SAD
+item.yellow_pumpkin_shocked.30262	Yellow pumpkin (shocked)	ITEM	cache-item-family.yellow_pumpkin_shocked.30262	30262	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_SHOCKED
+item.yellow_pumpkin_silly.30258	Yellow pumpkin (silly)	ITEM	cache-item-family.yellow_pumpkin_silly.30258	30258	HOLIDAY_EVENT_CONTENT	YELLOW_PUMPKIN_SILLY
+item.yo_yo.4079	Yo-yo	ITEM	cache-item-family.yo_yo.4079	4079	HOLIDAY_EVENT_CONTENT	YOYO
+item.zombie_head.6722	Zombie head	ITEM	cache-item-family.zombie_head.6722	6722	HOLIDAY_EVENT_CONTENT	ZOMBIE_HEAD
+npc.aranei.15764	Aranei	NPC	cache-npc-family.aranei.15764	15764	USER_REVIEWED_RETIREMENT	
+npc.auguste.4715	Auguste	NPC	cache-npc-family.auguste.4715	4715	USER_REVIEWED_RETIREMENT	
+npc.banker_tutor.3227	Banker tutor	NPC	cache-npc-family.banker_tutor.3227	3227	USER_REVIEWED_RETIREMENT	
+npc.bunny.3902	Bunny	NPC	cache-npc-family.bunny.3902	3902	HOLIDAY_EVENT_CONTENT	
+npc.cave_kraken.492	Cave kraken	NPC	cache-npc-family.cave_kraken.492	492	INACCESSIBLE_CACHE_CONTENT	
+npc.combat_test.6802	Combat Test	NPC	cache-npc-family.combat_test.6802	6802	TECHNICAL_TEST_CONTENT	
+npc.combat_test_maxhit.8479	Combat Test (maxhit)	NPC	cache-npc-family.combat_test_maxhit.8479	8479	TECHNICAL_TEST_CONTENT	
+npc.constantinius.13826	Constantinius	NPC	cache-npc-family.constantinius.13826	13826	USER_REVIEWED_RETIREMENT	
+npc.cozyac.13828	Cozyac	NPC	cache-npc-family.cozyac.13828	13828	USER_REVIEWED_RETIREMENT	
+npc.curator_haig_halen.5214	Curator Haig Halen	NPC	cache-npc-family.curator_haig_halen.5214	5214	USER_REVIEWED_RETIREMENT	
+npc.daero.1445	Daero	NPC	cache-npc-family.daero.1445	1445	USER_REVIEWED_RETIREMENT	
+npc.digsite_workman.3628	Digsite workman	NPC	cache-npc-family.digsite_workman.3628	3628	USER_REVIEWED_RETIREMENT	
+npc.dr_fenkenstrain.1269	Dr Fenkenstrain	NPC	cache-npc-family.dr_fenkenstrain.1269	1269	USER_REVIEWED_RETIREMENT	
+npc.financial_seer.6485	Financial Seer	NPC	cache-npc-family.financial_seer.6485	6485	USER_REVIEWED_RETIREMENT	
+npc.financial_wizard.6510	Financial Wizard	NPC	cache-npc-family.financial_wizard.6510	6510	USER_REVIEWED_RETIREMENT	
+npc.fishmonger.775	Fishmonger	NPC	cache-npc-family.fishmonger.775	775	INACCESSIBLE_CACHE_CONTENT	
+npc.istoria.11112	Istoria	NPC	cache-npc-family.istoria.11112	11112	USER_REVIEWED_RETIREMENT	
+npc.movario.2341	Movario	NPC	cache-npc-family.movario.2341	2341	USER_REVIEWED_RETIREMENT	
+npc.nevet.14802	Nevet	NPC	cache-npc-family.nevet.14802	14802	GRID_MASTER_TEMPORARY_CONTENT	
+npc.nigel.8390	Nigel	NPC	cache-npc-family.nigel.8390	8390	DEADMAN_REWARD	
+npc.no_fingers.3597	'No fingers'	NPC	cache-npc-family.no_fingers.3597	3597	USER_REVIEWED_RETIREMENT	
+npc.patzi.13819	Patzi	NPC	cache-npc-family.patzi.13819	13819	USER_REVIEWED_RETIREMENT	
+npc.pavo.13832	Pavo	NPC	cache-npc-family.pavo.13832	13832	USER_REVIEWED_RETIREMENT	
+npc.priest.11303	Priest	NPC	cache-npc-family.priest.11303	11303	USER_REVIEWED_RETIREMENT	
+npc.primula.7953	Primula	NPC	cache-npc-family.primula.7953	7953	USER_REVIEWED_RETIREMENT	
+npc.renu.13350	Renu	NPC	cache-npc-family.renu.13350	13350	USER_REVIEWED_RETIREMENT	
+npc.rockslug.421	Rockslug	NPC	cache-npc-family.rockslug.421	421	INACCESSIBLE_CACHE_CONTENT	
+npc.sandy.5384	Sandy	NPC	cache-npc-family.sandy.5384	5384	USER_REVIEWED_RETIREMENT	
+npc.soulless.508	Soulless	NPC	cache-npc-family.soulless.508	508	INACCESSIBLE_CACHE_CONTENT	
+npc.student.3634	Student	NPC	cache-npc-family.student.3634	3634	USER_REVIEWED_RETIREMENT	
+npc.test_pirate_captain.15687	Test Pirate Captain	NPC	cache-npc-family.test_pirate_captain.15687	15687	TECHNICAL_TEST_CONTENT	
+npc.test_pirate_mage.15686	Test Pirate Mage	NPC	cache-npc-family.test_pirate_mage.15686	15686	TECHNICAL_TEST_CONTENT	
+npc.test_pirate_ranger.15685	Test Pirate Ranger	NPC	cache-npc-family.test_pirate_ranger.15685	15685	TECHNICAL_TEST_CONTENT	
+npc.the_sage.11232	The Sage	NPC	cache-npc-family.the_sage.11232	11232	LEAGUES_SERVICE_NPC	
+npc.twisted_banshee.7272	Twisted Banshee	NPC	cache-npc-family.twisted_banshee.7272	7272	TEMPORARY_LEAGUES_CONTENT	
+npc.villager.3552	Villager	NPC	cache-npc-family.villager.3552	3552	USER_REVIEWED_RETIREMENT	
+npc.xocotla.13830	Xocotla	NPC	cache-npc-family.xocotla.13830	13830	USER_REVIEWED_RETIREMENT	
+npc.zealot.3611	Zealot	NPC	cache-npc-family.zealot.3611	3611	USER_REVIEWED_RETIREMENT	
+npc.zebak.11730	Zebak	NPC	cache-npc-family.zebak.11730	11730	TEMPORARY_INSTANCE_ITEM	

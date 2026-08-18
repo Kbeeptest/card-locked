@@ -1,0 +1,14 @@
+pool	card_id	maximum_healing	access_note
+WEAPON	item.bronze_dagger	0	Lumbridge Castle ground spawn
+WEAPON	item.iron_dagger	0	Lumbridge goblin-house ground spawn
+WEAPON	item.bronze_mace	0	Al Kharid ground spawn reachable without another card
+WEAPON	item.bronze_scimitar	0	Rimmington ground spawn
+NPC	npc.chicken	0	Low-level Lumbridge-area target
+NPC	npc.goblin	0	Low-level Lumbridge-area target
+NPC	npc.man	0	Low-level Lumbridge-area target
+NPC	npc.woman	0	Low-level Lumbridge-area target
+NPC	npc.giant_rat	0	Low-level freely accessible target
+HEALING	item.cabbage.1965	1	Freely pickable cabbage spawn or field
+HEALING	item.onion.1957	1	Freely pickable onion spawn or field
+HEALING	item.potato.1942	1	Freely pickable potato field
+HEALING	item.cooked_chicken	3	Freely accessible cooked-chicken ground spawn

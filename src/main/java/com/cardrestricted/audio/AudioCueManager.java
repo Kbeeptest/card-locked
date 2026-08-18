@@ -1,0 +1,202 @@
+package com.cardrestricted.audio;
+
+import com.cardrestricted.catalog.Rarity;
+import java.io.BufferedInputStream;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Map;
+import java.util.Objects;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.Executors;
+import java.util.concurrent.RejectedExecutionException;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.ThreadFactory;
+import javax.sound.sampled.AudioInputStream;
+import javax.sound.sampled.AudioSystem;
+import javax.sound.sampled.Clip;
+import javax.sound.sampled.FloatControl;
+import javax.sound.sampled.LineEvent;
+
+public final class AudioCueManager
+{
+    private static final String RESOURCE_ROOT = "/com/cardrestricted/audio/";
+
+    private final Map<String, byte[]> clipBytes = new ConcurrentHashMap<>();
+    private final AtomicBoolean closed = new AtomicBoolean();
+    private final ScheduledExecutorService executor =
+        Executors.newScheduledThreadPool(3,
+        new ThreadFactory()
+        {
+            private int index;
+
+            @Override
+            public synchronized Thread newThread(Runnable runnable)
+            {
+                Thread thread = new Thread(
+                    runnable,
+                    "card-locked-audio-" + (++index));
+                thread.setDaemon(true);
+                return thread;
+            }
+        });
+
+    public void playDealCard(int cardPosition)
+    {
+        if (cardPosition < 0 || cardPosition >= 5)
+        {
+            return;
+        }
+        // One physical deck-to-table cue is fired by the presentation
+        // overlay when the corresponding card actually reaches its laid-out
+        // position. Keeping timing in the visual state machine prevents audio
+        // from running ahead of, or continuing after, a skipped deal.
+        play("card_deal_" + (cardPosition + 1) + ".wav", -1.4f);
+    }
+
+    public void playReveal(Rarity rarity)
+    {
+        playReveal(rarity, false);
+    }
+
+    public void playReveal(Rarity rarity, boolean foil)
+    {
+        Objects.requireNonNull(rarity, "rarity");
+        if (foil)
+        {
+            play("reveal_foil.wav", -1.4f);
+            return;
+        }
+        switch (rarity)
+        {
+            case COMMON:
+                play("reveal_common.wav", -1.8f);
+                break;
+            case UNCOMMON:
+                play("reveal_uncommon.wav", -1.7f);
+                break;
+            case RARE:
+                play("reveal_rare.wav", -1.6f);
+                break;
+            case EPIC:
+                play("reveal_epic.wav", -1.5f);
+                break;
+            case LEGENDARY:
+                play("reveal_legendary.wav", -1.4f);
+                break;
+            case MYTHIC:
+                play("reveal_mythic.wav", -1.3f);
+                break;
+            case GODLY:
+                play("reveal_godly.wav", -1.2f);
+                break;
+            default:
+                play("reveal_common.wav", -1.8f);
+                break;
+        }
+    }
+
+    public void shutdown()
+    {
+        if (!closed.compareAndSet(false, true))
+        {
+            return;
+        }
+        // Audio is cosmetic. Never hold RuneLite's Swing EDT waiting for an
+        // audio worker during plugin disable/reload.
+        executor.shutdownNow();
+        clipBytes.clear();
+    }
+
+    boolean isShutdownForTesting()
+    {
+        return closed.get() && executor.isShutdown();
+    }
+
+    private void play(String resourceName, float gainDb)
+    {
+        if (closed.get())
+        {
+            return;
+        }
+        try
+        {
+            executor.execute(() -> playNow(resourceName, gainDb));
+        }
+        catch (RejectedExecutionException ignored)
+        {
+            // Shutdown can race cosmetic audio requests.
+        }
+    }
+
+    private void playNow(String resourceName, float gainDb)
+    {
+        if (closed.get())
+        {
+            return;
+        }
+        try
+        {
+            byte[] bytes = clipBytes.computeIfAbsent(
+                resourceName,
+                this::readResourceBytes);
+            if (bytes == null || bytes.length == 0)
+            {
+                return;
+            }
+            try (AudioInputStream stream = AudioSystem.getAudioInputStream(
+                new BufferedInputStream(new ByteArrayInputStream(bytes))))
+            {
+                Clip clip = AudioSystem.getClip();
+                clip.addLineListener(event -> {
+                    if (event.getType() == LineEvent.Type.STOP
+                        || event.getType() == LineEvent.Type.CLOSE)
+                    {
+                        clip.close();
+                    }
+                });
+                clip.open(stream);
+                if (clip.isControlSupported(FloatControl.Type.MASTER_GAIN))
+                {
+                    FloatControl gain = (FloatControl) clip.getControl(
+                        FloatControl.Type.MASTER_GAIN);
+                    float bounded = Math.max(
+                        gain.getMinimum(),
+                        Math.min(gain.getMaximum(), gainDb));
+                    gain.setValue(bounded);
+                }
+                clip.start();
+            }
+        }
+        catch (Exception ignored)
+        {
+            // Audio is cosmetic. Fail silently so gameplay is unaffected.
+        }
+    }
+
+    private byte[] readResourceBytes(String resourceName)
+    {
+        try (InputStream input = AudioCueManager.class.getResourceAsStream(
+                RESOURCE_ROOT + resourceName))
+        {
+            if (input == null)
+            {
+                return new byte[0];
+            }
+            ByteArrayOutputStream output = new ByteArrayOutputStream();
+            byte[] buffer = new byte[4096];
+            int read;
+            while ((read = input.read(buffer)) >= 0)
+            {
+                output.write(buffer, 0, read);
+            }
+            return output.toByteArray();
+        }
+        catch (IOException ignored)
+        {
+            return new byte[0];
+        }
+    }
+}

@@ -1,0 +1,33 @@
+achievement_id	display_name	description	scope	scope_key	measure	target
+first-card	First Unlock	Unlock your first card.	OVERALL	*	OWNED_COUNT	1
+starter-five	Starter Collection	Own at least five cards.	OVERALL	*	OWNED_COUNT	5
+collector-100	Collector I	Own at least 100 cards.	OVERALL	*	OWNED_COUNT	100
+collector-500	Collector II	Own at least 500 cards.	OVERALL	*	OWNED_COUNT	500
+collector-1000	Collector III	Own at least 1,000 cards.	OVERALL	*	OWNED_COUNT	1000
+quarter-complete	Quarter Complete	Unlock 25% of the active catalogue.	OVERALL	*	COMPLETION_PERCENT	25
+half-complete	Half Complete	Unlock 50% of the active catalogue.	OVERALL	*	COMPLETION_PERCENT	50
+three-quarters-complete	Three Quarters	Unlock 75% of the active catalogue.	OVERALL	*	COMPLETION_PERCENT	75
+ninety-complete	Elite Collector	Unlock 90% of the active catalogue.	OVERALL	*	COMPLETION_PERCENT	90
+ninety-five-complete	Near Completion	Unlock 95% of the active catalogue.	OVERALL	*	COMPLETION_PERCENT	95
+catalogue-complete	Card Locked Master	Unlock every card in the active catalogue.	OVERALL	*	COMPLETION_PERCENT	100
+first-foil	First Foil	Own your first foil card.	OVERALL	*	FOIL_COUNT	1
+foil-25	Foil Collector I	Own at least 25 foil cards.	OVERALL	*	FOIL_COUNT	25
+foil-100	Foil Collector II	Own at least 100 foil cards.	OVERALL	*	FOIL_COUNT	100
+common-complete	Common Knowledge	Unlock every Common card.	RARITY	COMMON	COMPLETION_PERCENT	100
+uncommon-complete	Uncommonly Complete	Unlock every Uncommon card.	RARITY	UNCOMMON	COMPLETION_PERCENT	100
+rare-complete	Rare Authority	Unlock every Rare card.	RARITY	RARE	COMPLETION_PERCENT	100
+epic-complete	Epic Archive	Unlock every Epic card.	RARITY	EPIC	COMPLETION_PERCENT	100
+legendary-complete	Legendary Archive	Unlock every Legendary card.	RARITY	LEGENDARY	COMPLETION_PERCENT	100
+mythic-complete	Mythic Archive	Unlock every Mythic card.	RARITY	MYTHIC	COMPLETION_PERCENT	100
+godly-complete	Godly Archive	Unlock every Godly card.	RARITY	GODLY	COMPLETION_PERCENT	100
+items-complete	Item Archivist	Unlock every item card.	CARD_TYPE	ITEM	COMPLETION_PERCENT	100
+npcs-complete	NPC Archivist	Unlock every NPC card.	CARD_TYPE	NPC	COMPLETION_PERCENT	100
+f2p-complete	Free-World Master	Unlock every free-to-play card.	ACCESS	F2P	COMPLETION_PERCENT	100
+members-complete	Members Master	Unlock every members card.	ACCESS	MEMBERS	COMPLETION_PERCENT	100
+combat-methods-complete	Combat Arsenal	Complete the Combat Method category.	CATEGORY	COMBAT_METHOD	COMPLETION_PERCENT	100
+npc-targets-complete	Target Catalogue	Complete the NPC Target category.	CATEGORY	NPC_TARGET	COMPLETION_PERCENT	100
+support-complete	Support Specialist	Complete the Support category.	CATEGORY	SUPPORT	COMPLETION_PERCENT	100
+gathering-tools-complete	Gathering Specialist	Complete the Gathering Tool category.	CATEGORY	GATHERING_TOOL	COMPLETION_PERCENT	100
+processing-inputs-complete	Processing Specialist	Complete the Processing Input category.	CATEGORY	PROCESSING_INPUT	COMPLETION_PERCENT	100
+utility-complete	Utility Specialist	Complete the Utility category.	CATEGORY	UTILITY	COMPLETION_PERCENT	100
+noncombat-alpha-complete	Noncombat NPC Alpha	Unlock every card introduced in catalogue version 11.	CATALOGUE_VERSION	11	COMPLETION_PERCENT	100

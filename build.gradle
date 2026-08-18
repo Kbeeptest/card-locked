@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    maven {
+        url = 'https://repo.runelite.net'
+    }
+    mavenCentral()
+}
+
+def runeLiteVersion = providers.gradleProperty('runeLiteVersion')
+    .orElse('latest.release').get()
+
+dependencies {
+    compileOnly group: 'net.runelite', name: 'client', version: runeLiteVersion
+
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation group: 'net.runelite', name: 'client', version: runeLiteVersion
+}
+
+group = 'com.cardrestricted'
+version = '0.81.03-SNAPSHOT'
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release.set(11)
+}
+
+tasks.register('run', JavaExec) {
+    dependsOn tasks.named('testClasses')
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'com.cardrestricted.CardRestrictedAccountPluginTest'
+    jvmArgs '-ea'
+    args '--developer-mode', '--debug'
+}

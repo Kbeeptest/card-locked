@@ -1,0 +1,10 @@
+package com.cardrestricted.catalog;
+
+public enum ContentBoundary
+{
+    F2P_VERTICAL_SLICE,
+    MEMBERS_EXPANSION_FOUNDATION,
+    MEMBERS_LARGE_SCALE_ALPHA,
+    MEMBERS_NONCOMBAT_NPC_ALPHA,
+    QUEST_CATALOGUE_GAP_REVIEW
+}

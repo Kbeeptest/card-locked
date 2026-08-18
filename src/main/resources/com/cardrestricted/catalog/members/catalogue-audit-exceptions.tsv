@@ -1,0 +1,10 @@
+card_id	text_status	artwork_status	reason
+item.burnt_meat.2146	PENDING_OFFICIAL_EXAMINE	ITEM_SPRITE	Quest-gap activation retained its reviewed catalogue description until official examine provenance is imported.
+item.fishing_explosive.6660	PENDING_OFFICIAL_EXAMINE	ITEM_SPRITE	Quest-gap activation retained its reviewed catalogue description until official examine provenance is imported.
+item.goutweed.3261	PENDING_OFFICIAL_EXAMINE	ITEM_SPRITE	Quest-gap activation retained its reviewed catalogue description until official examine provenance is imported.
+item.ice_cooler.6696	PENDING_OFFICIAL_EXAMINE	ITEM_SPRITE	Quest-gap activation retained its reviewed catalogue description until official examine provenance is imported.
+npc.evil_creature.1241	PENDING_OFFICIAL_EXAMINE	BUILT_IN_FALLBACK	Mandatory quest NPC lacks a verified bundled Wiki mapping; built-in deterministic fallback is used.
+npc.koschei_the_deathless.3897	PENDING_OFFICIAL_EXAMINE	BUILT_IN_FALLBACK	Mandatory quest NPC lacks a verified bundled Wiki mapping; built-in deterministic fallback is used.
+npc.loar_shade.1277	PENDING_OFFICIAL_EXAMINE	BUILT_IN_FALLBACK	Mandatory quest NPC lacks a verified bundled Wiki mapping; built-in deterministic fallback is used.
+npc.naiatli.13838	PENDING_OFFICIAL_EXAMINE	BUILT_IN_FALLBACK	Mandatory quest NPC lacks a verified bundled Wiki mapping; built-in deterministic fallback is used.
+npc.solus_dellagar.4962	PENDING_OFFICIAL_EXAMINE	BUILT_IN_FALLBACK	Mandatory quest NPC lacks a verified bundled Wiki mapping; built-in deterministic fallback is used.

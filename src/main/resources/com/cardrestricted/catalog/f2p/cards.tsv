@@ -1,0 +1,201 @@
+card_id	display_name	examine_text	card_type	rarity	categories	entity_family_id	permissions	free_to_play	introduced_version
+item.adamant-2h-sword	Adamant 2h sword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-2h-sword	ITEM_EQUIP	true	8
+item.adamant-arrow	Adamant arrow	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-arrow	ITEM_EQUIP	true	8
+item.adamant-chainbody	Adamant chainbody	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.adamant-chainbody	ITEM_EQUIP	true	8
+item.adamant-dagger	Adamant dagger	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-dagger	ITEM_EQUIP	true	8
+item.adamant-full-helm	Adamant full helm	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.adamant-full-helm	ITEM_EQUIP	true	8
+item.adamant-kiteshield	Adamant kiteshield	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.adamant-kiteshield	ITEM_EQUIP	true	8
+item.adamant-longsword	Adamant longsword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-longsword	ITEM_EQUIP	true	8
+item.adamant-mace	Adamant mace	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-mace	ITEM_EQUIP	true	8
+item.adamant-platebody	Adamant platebody	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.adamant-platebody	ITEM_EQUIP	true	8
+item.adamant-platelegs	Adamant platelegs	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.adamant-platelegs	ITEM_EQUIP	true	8
+item.adamant-scimitar	Adamant scimitar	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-scimitar	ITEM_EQUIP	true	8
+item.adamant-sq-shield	Adamant sq shield	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.adamant-sq-shield	ITEM_EQUIP	true	8
+item.adamant-sword	Adamant sword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.adamant-sword	ITEM_EQUIP	true	8
+item.adamantite-bar	Adamantite bar	A valuable crafting or smithing material.	ITEM	RARE	PROCESSING_INPUT	item-family.adamantite-bar	ITEM_PROCESS	true	8
+item.adamantite-ore	Adamantite ore	A valuable crafting or smithing material.	ITEM	RARE	PROCESSING_INPUT	item-family.adamantite-ore	ITEM_PROCESS	true	8
+item.air-rune	Air rune	A rune carrying magical power.	ITEM	COMMON	COMBAT_METHOD	item-family.air-rune	ITEM_ACTIVATE	true	8
+item.amulet-of-accuracy	Amulet of accuracy	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.amulet-of-accuracy	ITEM_EQUIP	true	8
+item.amulet-of-defence	Amulet of defence	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.amulet-of-defence	ITEM_EQUIP	true	8
+item.amulet-of-magic	Amulet of magic	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.amulet-of-magic	ITEM_EQUIP	true	8
+item.amulet-of-strength	Amulet of strength	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.amulet-of-strength	ITEM_EQUIP	true	8
+item.anchovies	Anchovies	Some nicely cooked anchovies.	ITEM	UNCOMMON	SUPPORT	item-family.anchovies	ITEM_CONSUME	true	5
+item.body-rune	Body rune	A rune carrying magical power.	ITEM	COMMON	COMBAT_METHOD	item-family.body-rune	ITEM_ACTIVATE	true	8
+item.bowl	Bowl	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.bowl	ITEM_EQUIP	true	8
+item.bread	Bread	Nice crispy bread.	ITEM	COMMON	SUPPORT	item-family.bread	ITEM_CONSUME	true	2
+item.bronze-arrow	Bronze arrow	A useful piece of combat equipment.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze-arrow	ITEM_EQUIP	true	8
+item.bronze-bar	Bronze bar	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.bronze-bar	ITEM_PROCESS	true	8
+item.bronze-chainbody	Bronze chainbody	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.bronze-chainbody	ITEM_EQUIP	true	8
+item.bronze-crossbow	Bronze crossbow	A useful piece of combat equipment.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze-crossbow	ITEM_EQUIP	true	8
+item.bronze-longsword	Bronze longsword	A useful piece of combat equipment.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze-longsword	ITEM_EQUIP	true	8
+item.bronze_2h_sword	Bronze 2h sword	A two handed sword.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze_2h_sword	ITEM_EQUIP	true	5
+item.bronze_axe	Bronze axe	A woodcutter's axe.	ITEM	COMMON	GATHERING_TOOL	item-family.bronze_axe	ITEM_EQUIP,ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	1
+item.bronze_dagger	Bronze dagger	Short but pointy.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze_dagger	ITEM_EQUIP	true	5
+item.bronze_full_helm	Bronze full helm	A full face helmet.	ITEM	COMMON	SUPPORT	item-family.bronze_full_helm	ITEM_EQUIP	true	5
+item.bronze_kiteshield	Bronze kiteshield	A large metal shield.	ITEM	COMMON	SUPPORT	item-family.bronze_kiteshield	ITEM_EQUIP	true	5
+item.bronze_mace	Bronze mace	A spiky mace.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze_mace	ITEM_EQUIP	true	2
+item.bronze_med_helm	Bronze med helm	A medium sized helmet.	ITEM	COMMON	SUPPORT	item-family.bronze_med_helm	ITEM_EQUIP	true	1
+item.bronze_pickaxe	Bronze pickaxe	Used for mining.	ITEM	COMMON	GATHERING_TOOL	item-family.bronze_pickaxe	ITEM_EQUIP,ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	1
+item.bronze_platebody	Bronze platebody	Provides excellent protection.	ITEM	COMMON	SUPPORT	item-family.bronze_platebody	ITEM_EQUIP	true	5
+item.bronze_platelegs	Bronze platelegs	These look pretty heavy.	ITEM	COMMON	SUPPORT	item-family.bronze_platelegs	ITEM_EQUIP	true	5
+item.bronze_scimitar	Bronze scimitar	A vicious, curved sword.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze_scimitar	ITEM_EQUIP	true	5
+item.bronze_sword	Bronze sword	A razor sharp sword.	ITEM	COMMON	COMBAT_METHOD	item-family.bronze_sword	ITEM_EQUIP	true	1
+item.bucket	Bucket	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.bucket	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.chaos-rune	Chaos rune	A rune carrying magical power.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.chaos-rune	ITEM_ACTIVATE	true	8
+item.chisel	Chisel	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.chisel	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.coal	Coal	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.coal	ITEM_PROCESS	true	8
+item.cooked_chicken	Cooked chicken	Mmm this looks tasty.	ITEM	UNCOMMON	SUPPORT	item-family.cooked_chicken	ITEM_CONSUME	true	5
+item.cooked_meat	Cooked meat	Mmm this looks tasty.	ITEM	COMMON	SUPPORT	item-family.cooked_meat	ITEM_CONSUME	true	2
+item.copper_ore	Copper ore	This needs refining.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.copper_ore	ITEM_PROCESS	true	1
+item.cosmic-rune	Cosmic rune	A rune carrying magical power.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.cosmic-rune	ITEM_ACTIVATE	true	8
+item.death-rune	Death rune	A rune carrying magical power.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.death-rune	ITEM_ACTIVATE	true	8
+item.diamond	Diamond	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.diamond	ITEM_PROCESS	true	8
+item.diamond-necklace	Diamond necklace	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.diamond-necklace	ITEM_EQUIP	true	8
+item.diamond-ring	Diamond ring	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.diamond-ring	ITEM_EQUIP	true	8
+item.earth-rune	Earth rune	A rune carrying magical power.	ITEM	COMMON	COMBAT_METHOD	item-family.earth-rune	ITEM_ACTIVATE	true	8
+item.emerald	Emerald	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.emerald	ITEM_PROCESS	true	8
+item.emerald-necklace	Emerald necklace	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.emerald-necklace	ITEM_EQUIP	true	8
+item.emerald-ring	Emerald ring	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.emerald-ring	ITEM_EQUIP	true	8
+item.fire-rune	Fire rune	A rune carrying magical power.	ITEM	COMMON	COMBAT_METHOD	item-family.fire-rune	ITEM_ACTIVATE	true	8
+item.gold-bar	Gold bar	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.gold-bar	ITEM_PROCESS	true	8
+item.gold-necklace	Gold necklace	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.gold-necklace	ITEM_EQUIP	true	8
+item.gold-ore	Gold ore	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.gold-ore	ITEM_PROCESS	true	8
+item.gold-ring	Gold ring	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.gold-ring	ITEM_EQUIP	true	8
+item.hammer	Hammer	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.hammer	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.hardleather_body	Hardleather body	Harder than normal leather.	ITEM	COMMON	SUPPORT	item-family.hardleather_body	ITEM_EQUIP	true	5
+item.herring	Herring	Some nicely cooked herring.	ITEM	UNCOMMON	SUPPORT	item-family.herring	ITEM_CONSUME	true	5
+item.iron-arrow	Iron arrow	A useful piece of combat equipment.	ITEM	COMMON	COMBAT_METHOD	item-family.iron-arrow	ITEM_EQUIP	true	8
+item.iron-bar	Iron bar	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.iron-bar	ITEM_PROCESS	true	8
+item.iron-chainbody	Iron chainbody	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.iron-chainbody	ITEM_EQUIP	true	8
+item.iron-crossbow	Iron crossbow	A useful piece of combat equipment.	ITEM	COMMON	COMBAT_METHOD	item-family.iron-crossbow	ITEM_EQUIP	true	8
+item.iron-longsword	Iron longsword	A useful piece of combat equipment.	ITEM	COMMON	COMBAT_METHOD	item-family.iron-longsword	ITEM_EQUIP	true	8
+item.iron-ore	Iron ore	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.iron-ore	ITEM_PROCESS	true	8
+item.iron_2h_sword	Iron 2h sword	A two handed sword.	ITEM	COMMON	COMBAT_METHOD	item-family.iron_2h_sword	ITEM_EQUIP	true	5
+item.iron_dagger	Iron dagger	Short but pointy.	ITEM	COMMON	COMBAT_METHOD	item-family.iron_dagger	ITEM_EQUIP	true	2
+item.iron_full_helm	Iron full helm	A full face helmet.	ITEM	COMMON	SUPPORT	item-family.iron_full_helm	ITEM_EQUIP	true	5
+item.iron_kiteshield	Iron kiteshield	A large metal shield.	ITEM	COMMON	SUPPORT	item-family.iron_kiteshield	ITEM_EQUIP	true	5
+item.iron_med_helm	Iron med helm	A medium sized helmet.	ITEM	COMMON	SUPPORT	item-family.iron_med_helm	ITEM_EQUIP	true	5
+item.iron_platebody	Iron platebody	Provides excellent protection.	ITEM	COMMON	SUPPORT	item-family.iron_platebody	ITEM_EQUIP	true	5
+item.iron_platelegs	Iron platelegs	These look pretty heavy.	ITEM	COMMON	SUPPORT	item-family.iron_platelegs	ITEM_EQUIP	true	5
+item.iron_scimitar	Iron scimitar	A vicious, curved sword.	ITEM	COMMON	COMBAT_METHOD	item-family.iron_scimitar	ITEM_EQUIP	true	5
+item.iron_sword	Iron sword	A razor sharp sword.	ITEM	COMMON	COMBAT_METHOD	item-family.iron_sword	ITEM_EQUIP	true	5
+item.jug	Jug	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.jug	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.knife	Knife	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.knife	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.law-rune	Law rune	A rune carrying magical power.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.law-rune	ITEM_ACTIVATE	true	8
+item.leather_body	Leather body	Better than no armour!	ITEM	COMMON	SUPPORT	item-family.leather_body	ITEM_EQUIP	true	2
+item.leather_boots	Leather boots	Comfortable leather boots.	ITEM	COMMON	SUPPORT	item-family.leather_boots	ITEM_EQUIP	true	5
+item.leather_chaps	Leather chaps	Better than no armour!	ITEM	COMMON	SUPPORT	item-family.leather_chaps	ITEM_EQUIP	true	5
+item.leather_gloves	Leather gloves	These will keep my hands warm!	ITEM	COMMON	SUPPORT	item-family.leather_gloves	ITEM_EQUIP	true	2
+item.lobster	Lobster	A filling piece of food.	ITEM	UNCOMMON	SUPPORT	item-family.lobster	ITEM_CONSUME	true	8
+item.logs	Logs	A number of wooden logs.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.logs	ITEM_PROCESS,ITEM_USE_ON_ITEM	true	1
+item.longbow	Longbow	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.longbow	ITEM_EQUIP	true	8
+item.maple-longbow	Maple longbow	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.maple-longbow	ITEM_EQUIP	true	8
+item.maple-shortbow	Maple shortbow	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.maple-shortbow	ITEM_EQUIP	true	8
+item.mind-rune	Mind rune	A rune carrying magical power.	ITEM	COMMON	COMBAT_METHOD	item-family.mind-rune	ITEM_ACTIVATE	true	8
+item.mithril-2h-sword	Mithril 2h sword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-2h-sword	ITEM_EQUIP	true	8
+item.mithril-arrow	Mithril arrow	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-arrow	ITEM_EQUIP	true	8
+item.mithril-bar	Mithril bar	A valuable crafting or smithing material.	ITEM	RARE	PROCESSING_INPUT	item-family.mithril-bar	ITEM_PROCESS	true	8
+item.mithril-chainbody	Mithril chainbody	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.mithril-chainbody	ITEM_EQUIP	true	8
+item.mithril-dagger	Mithril dagger	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-dagger	ITEM_EQUIP	true	8
+item.mithril-full-helm	Mithril full helm	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.mithril-full-helm	ITEM_EQUIP	true	8
+item.mithril-kiteshield	Mithril kiteshield	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.mithril-kiteshield	ITEM_EQUIP	true	8
+item.mithril-longsword	Mithril longsword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-longsword	ITEM_EQUIP	true	8
+item.mithril-mace	Mithril mace	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-mace	ITEM_EQUIP	true	8
+item.mithril-ore	Mithril ore	A valuable crafting or smithing material.	ITEM	RARE	PROCESSING_INPUT	item-family.mithril-ore	ITEM_PROCESS	true	8
+item.mithril-platebody	Mithril platebody	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.mithril-platebody	ITEM_EQUIP	true	8
+item.mithril-platelegs	Mithril platelegs	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.mithril-platelegs	ITEM_EQUIP	true	8
+item.mithril-scimitar	Mithril scimitar	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-scimitar	ITEM_EQUIP	true	8
+item.mithril-sq-shield	Mithril sq shield	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.mithril-sq-shield	ITEM_EQUIP	true	8
+item.mithril-sword	Mithril sword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.mithril-sword	ITEM_EQUIP	true	8
+item.nature-rune	Nature rune	A rune carrying magical power.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.nature-rune	ITEM_ACTIVATE	true	8
+item.oak-longbow	Oak longbow	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.oak-longbow	ITEM_EQUIP	true	8
+item.oak_shortbow	Oak shortbow	A shortbow made out of oak, still effective.	ITEM	RARE	COMBAT_METHOD	item-family.oak_shortbow	ITEM_EQUIP	true	5
+item.pike	Pike	A filling piece of food.	ITEM	UNCOMMON	SUPPORT	item-family.pike	ITEM_CONSUME	true	8
+item.pot	Pot	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.pot	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.pot_of_flour	Pot of flour	There is flour in this pot.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.pot_of_flour	ITEM_USE_ON_ITEM	true	2
+item.raw-lobster	Raw lobster	It should be cooked before eating.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw-lobster	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	8
+item.raw-pike	Raw pike	It should be cooked before eating.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw-pike	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	8
+item.raw-swordfish	Raw swordfish	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.raw-swordfish	ITEM_EQUIP	true	8
+item.raw-tuna	Raw tuna	It should be cooked before eating.	ITEM	RARE	PROCESSING_INPUT	item-family.raw-tuna	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	8
+item.raw_anchovies	Raw anchovies	I should try cooking this.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_anchovies	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	5
+item.raw_beef	Raw beef	I need to cook this first.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_beef	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	2
+item.raw_chicken	Raw chicken	I need to cook this first.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_chicken	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	5
+item.raw_herring	Raw herring	I should try cooking this.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_herring	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	5
+item.raw_salmon	Raw salmon	I should try cooking this.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_salmon	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	5
+item.raw_sardine	Raw sardine	I should try cooking this.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_sardine	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	5
+item.raw_shrimps	Raw shrimps	I should try cooking this.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_shrimps	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	1
+item.raw_trout	Raw trout	I should try cooking this.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.raw_trout	ITEM_PROCESS,ITEM_USE_ON_OBJECT	true	5
+item.ruby	Ruby	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.ruby	ITEM_PROCESS	true	8
+item.ruby-necklace	Ruby necklace	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.ruby-necklace	ITEM_EQUIP	true	8
+item.ruby-ring	Ruby ring	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.ruby-ring	ITEM_EQUIP	true	8
+item.rune-2h-sword	Rune 2h sword	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-2h-sword	ITEM_EQUIP	true	8
+item.rune-arrow	Rune arrow	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-arrow	ITEM_EQUIP	true	8
+item.rune-chainbody	Rune chainbody	Protective or decorative equipment.	ITEM	RARE	SUPPORT	item-family.rune-chainbody	ITEM_EQUIP	true	8
+item.rune-dagger	Rune dagger	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-dagger	ITEM_EQUIP	true	8
+item.rune-full-helm	Rune full helm	Protective or decorative equipment.	ITEM	RARE	SUPPORT	item-family.rune-full-helm	ITEM_EQUIP	true	8
+item.rune-kiteshield	Rune kiteshield	Protective or decorative equipment.	ITEM	RARE	SUPPORT	item-family.rune-kiteshield	ITEM_EQUIP	true	8
+item.rune-longsword	Rune longsword	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-longsword	ITEM_EQUIP	true	8
+item.rune-mace	Rune mace	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-mace	ITEM_EQUIP	true	8
+item.rune-platebody	Rune platebody	Protective or decorative equipment.	ITEM	RARE	SUPPORT	item-family.rune-platebody	ITEM_EQUIP	true	8
+item.rune-platelegs	Rune platelegs	Protective or decorative equipment.	ITEM	RARE	SUPPORT	item-family.rune-platelegs	ITEM_EQUIP	true	8
+item.rune-scimitar	Rune scimitar	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-scimitar	ITEM_EQUIP	true	8
+item.rune-sq-shield	Rune sq shield	Protective or decorative equipment.	ITEM	RARE	SUPPORT	item-family.rune-sq-shield	ITEM_EQUIP	true	8
+item.rune-sword	Rune sword	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.rune-sword	ITEM_EQUIP	true	8
+item.runite-bar	Runite bar	A valuable crafting or smithing material.	ITEM	RARE	PROCESSING_INPUT	item-family.runite-bar	ITEM_PROCESS	true	8
+item.runite-ore	Runite ore	A valuable crafting or smithing material.	ITEM	RARE	PROCESSING_INPUT	item-family.runite-ore	ITEM_PROCESS	true	8
+item.salmon	Salmon	Some nicely cooked salmon.	ITEM	UNCOMMON	SUPPORT	item-family.salmon	ITEM_CONSUME	true	5
+item.sapphire	Sapphire	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.sapphire	ITEM_PROCESS	true	8
+item.sapphire-necklace	Sapphire necklace	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.sapphire-necklace	ITEM_EQUIP	true	8
+item.sapphire-ring	Sapphire ring	Protective or decorative equipment.	ITEM	COMMON	SUPPORT	item-family.sapphire-ring	ITEM_EQUIP	true	8
+item.sardine	Sardine	Some nicely cooked sardines.	ITEM	UNCOMMON	SUPPORT	item-family.sardine	ITEM_CONSUME	true	5
+item.shears	Shears	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.shears	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.shortbow	Shortbow	Short but effective.	ITEM	RARE	COMBAT_METHOD	item-family.shortbow	ITEM_EQUIP	true	2
+item.shrimps	Shrimps	Some nicely cooked shrimp.	ITEM	UNCOMMON	SUPPORT	item-family.shrimps	ITEM_CONSUME	true	1
+item.silver-bar	Silver bar	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.silver-bar	ITEM_PROCESS	true	8
+item.silver-ore	Silver ore	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.silver-ore	ITEM_PROCESS	true	8
+item.small_fishing_net	Small fishing net	Useful for catching small fish.	ITEM	COMMON	GATHERING_TOOL	item-family.small_fishing_net	ITEM_ACTIVATE,ITEM_USE_ON_NPC	true	1
+item.spade	Spade	A useful everyday tool.	ITEM	COMMON	UTILITY	item-family.spade	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	8
+item.staff	Staff	It's a slightly magical stick.	ITEM	RARE	COMBAT_METHOD	item-family.staff	ITEM_EQUIP	true	5
+item.staff_of_air	Staff of air	A Magical staff.	ITEM	RARE	COMBAT_METHOD	item-family.staff_of_air	ITEM_EQUIP	true	2
+item.staff_of_fire	Staff of fire	A Magical staff.	ITEM	RARE	COMBAT_METHOD	item-family.staff_of_fire	ITEM_EQUIP	true	5
+item.steel-2h-sword	Steel 2h sword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel-2h-sword	ITEM_EQUIP	true	8
+item.steel-arrow	Steel arrow	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel-arrow	ITEM_EQUIP	true	8
+item.steel-bar	Steel bar	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.steel-bar	ITEM_PROCESS	true	8
+item.steel-chainbody	Steel chainbody	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.steel-chainbody	ITEM_EQUIP	true	8
+item.steel-crossbow	Steel crossbow	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel-crossbow	ITEM_EQUIP	true	8
+item.steel-dagger	Steel dagger	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel-dagger	ITEM_EQUIP	true	8
+item.steel-full-helm	Steel full helm	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.steel-full-helm	ITEM_EQUIP	true	8
+item.steel-kiteshield	Steel kiteshield	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.steel-kiteshield	ITEM_EQUIP	true	8
+item.steel-longsword	Steel longsword	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel-longsword	ITEM_EQUIP	true	8
+item.steel-mace	Steel mace	A useful piece of combat equipment.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel-mace	ITEM_EQUIP	true	8
+item.steel-platebody	Steel platebody	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.steel-platebody	ITEM_EQUIP	true	8
+item.steel-platelegs	Steel platelegs	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.steel-platelegs	ITEM_EQUIP	true	8
+item.steel-sq-shield	Steel sq shield	Protective or decorative equipment.	ITEM	UNCOMMON	SUPPORT	item-family.steel-sq-shield	ITEM_EQUIP	true	8
+item.steel_scimitar	Steel scimitar	A vicious, curved sword.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel_scimitar	ITEM_EQUIP	true	5
+item.steel_sword	Steel sword	A razor sharp sword.	ITEM	UNCOMMON	COMBAT_METHOD	item-family.steel_sword	ITEM_EQUIP	true	5
+item.swordfish	Swordfish	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.swordfish	ITEM_EQUIP	true	8
+item.tinderbox	Tinderbox	Useful for lighting a fire.	ITEM	COMMON	UTILITY	item-family.tinderbox	ITEM_ACTIVATE,ITEM_USE_ON_ITEM	true	1
+item.trout	Trout	Some nicely cooked trout.	ITEM	UNCOMMON	SUPPORT	item-family.trout	ITEM_CONSUME	true	5
+item.tuna	Tuna	A filling piece of food.	ITEM	RARE	SUPPORT	item-family.tuna	ITEM_CONSUME	true	8
+item.uncut-diamond	Uncut diamond	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.uncut-diamond	ITEM_PROCESS	true	8
+item.uncut-emerald	Uncut emerald	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.uncut-emerald	ITEM_PROCESS	true	8
+item.uncut-ruby	Uncut ruby	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.uncut-ruby	ITEM_PROCESS	true	8
+item.uncut-sapphire	Uncut sapphire	A valuable crafting or smithing material.	ITEM	UNCOMMON	PROCESSING_INPUT	item-family.uncut-sapphire	ITEM_PROCESS	true	8
+item.water-rune	Water rune	A rune carrying magical power.	ITEM	COMMON	COMBAT_METHOD	item-family.water-rune	ITEM_ACTIVATE	true	8
+item.willow-longbow	Willow longbow	A useful piece of combat equipment.	ITEM	RARE	COMBAT_METHOD	item-family.willow-longbow	ITEM_EQUIP	true	8
+item.willow_shortbow	Willow shortbow	A shortbow made out of willow, still effective.	ITEM	RARE	COMBAT_METHOD	item-family.willow_shortbow	ITEM_EQUIP	true	5
+item.wooden_shield	Wooden shield	A solid wooden shield.	ITEM	RARE	SUPPORT	item-family.wooden_shield	ITEM_EQUIP	true	1
+npc.al_kharid_warrior	Al Kharid warrior	Part of Al-Kharid's elite fighting force.	NPC	COMMON	NPC_TARGET	npc-family.al_kharid_warrior	NPC_ATTACK	true	5
+npc.chicken	Chicken	Yep. Definitely a chicken.	NPC	COMMON	NPC_TARGET	npc-family.chicken	NPC_ATTACK	true	2
+npc.cow	Cow	Converts grass to beef.	NPC	COMMON	NPC_TARGET	npc-family.cow	NPC_ATTACK	true	2
+npc.farmer	Farmer	He grows the crops in this area.	NPC	COMMON	NPC_TARGET	npc-family.farmer	NPC_ATTACK	true	5
+npc.giant_rat	Giant rat	Overgrown vermin.	NPC	UNCOMMON	NPC_TARGET	npc-family.giant_rat	NPC_ATTACK	true	5
+npc.giant_spider	Giant spider	I think this spider has been genetically modified.	NPC	RARE	NPC_TARGET	npc-family.giant_spider	NPC_ATTACK	true	5
+npc.goblin	Goblin	An ugly green creature.	NPC	COMMON	NPC_TARGET	npc-family.goblin	NPC_ATTACK	true	1
+npc.guard	Guard	He tries to keep order around here. His Bizarre uniform isn't helping.	NPC	COMMON	NPC_TARGET	npc-family.guard	NPC_ATTACK	true	5
+npc.highwayman	Highwayman	He holds up passers by.	NPC	COMMON	NPC_TARGET	npc-family.highwayman	NPC_ATTACK	true	5
+npc.man	Man	One of Gielinor's many citizens.	NPC	COMMON	NPC_TARGET	npc-family.man	NPC_ATTACK	true	5
+npc.mugger	Mugger	He jumps out and attacks people.	NPC	COMMON	NPC_TARGET	npc-family.mugger	NPC_ATTACK	true	5
+npc.scorpion	Scorpion	An extremely vicious scorpion.	NPC	COMMON	NPC_TARGET	npc-family.scorpion	NPC_ATTACK	true	5
+npc.spider	Spider	Incey wincey.	NPC	COMMON	NPC_TARGET	npc-family.spider	NPC_ATTACK	true	5
+npc.woman	Woman	One of Gielinor's many citizens.	NPC	COMMON	NPC_TARGET	npc-family.woman	NPC_ATTACK	true	5

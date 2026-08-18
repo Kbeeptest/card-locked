@@ -1,0 +1,350 @@
+card_id	display_name	card_type	rarity	retired_version	reason
+item.24_carat_sword.24539	'24-carat' sword	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.adamant_axe_head.518	Adamant axe head	ITEM	RARE	13	INACCESSIBLE_CACHE_CONTENT
+item.ancient_mjolnir.7804	Ancient mjolnir	ITEM	RARE	13	INACCESSIBLE_CACHE_CONTENT
+item.annihilation_blueprints.33015	Annihilation blueprints	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.annihilation_teleport_scroll.33018	Annihilation teleport scroll	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.annihilation_weapon_scroll.33012	Annihilation weapon scroll	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.anti_panties.13288	Anti-panties	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.armageddon_cape_fabric.29628	Armageddon cape fabric	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.armageddon_rug.29619	Armageddon rug	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.armageddon_teleport_scroll.29622	Armageddon teleport scroll	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.armageddon_weapon_scroll.29625	Armageddon weapon scroll	ITEM	UNCOMMON	15	DEADMAN_REWARD
+item.astral_tiara.9106	Astral tiara	ITEM	RARE	13	INACCESSIBLE_CACHE_CONTENT
+item.banana_cape.25502	Banana cape	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.banana_hat.25840	Banana hat	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.banshee_mask.20773	Banshee mask	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.banshee_robe.20777	Banshee robe	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.banshee_top.20775	Banshee top	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.beer_belly_sweater.32930	Beer belly sweater	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.black_axe_head.514	Black axe head	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.black_h_ween_mask.11847	Black h'ween mask	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.blue_sweets.4558	Blue sweets	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.bob_the_cat_slippers.27806	Bob the cat slippers	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.book_of_egg.29433	Book of egg	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.broken_axe.494	Broken axe	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.broken_pickaxe.468	Broken pickaxe	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.cabbage_cape.13679	Cabbage cape	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.cat_ears.24525	Cat ears	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.chicken_feet.11019	Chicken feet	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.chicken_head.11021	Chicken head	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.chicken_legs.11022	Chicken legs	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.chicken_wings.11020	Chicken wings	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.classic_imp_hood.30648	Classic imp hood	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.classic_imp_tail.30646	Classic imp tail	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.cobweb_cape.28601	Cobweb cape	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.cow_gloves.12958	Cow gloves	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.cow_mask.11919	Cow mask	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.cow_shoes.12959	Cow shoes	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.cow_top.12956	Cow top	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.cow_trousers.12957	Cow trousers	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.crate_ring.26939	Crate ring	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.cruciferous_codex.13681	Cruciferous codex	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.crystal_bow_1_10.4223	Crystal bow 1/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_1_10_i.11758	Crystal bow 1/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_2_10.4222	Crystal bow 2/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_2_10_i.11757	Crystal bow 2/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_3_10.4221	Crystal bow 3/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_3_10_i.11756	Crystal bow 3/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_4_10.4220	Crystal bow 4/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_4_10_i.11755	Crystal bow 4/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_5_10.4219	Crystal bow 5/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_5_10_i.11754	Crystal bow 5/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_6_10.4218	Crystal bow 6/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_6_10_i.11753	Crystal bow 6/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_7_10.4217	Crystal bow 7/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_7_10_i.11752	Crystal bow 7/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_8_10.4216	Crystal bow 8/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_8_10_i.11751	Crystal bow 8/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_9_10.4215	Crystal bow 9/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_9_10_i.11750	Crystal bow 9/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_full.4214	Crystal bow full	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_bow_full_i.11749	Crystal bow full (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_dagger_perfected.30340	Crystal dagger (perfected)	ITEM	EPIC	15	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT
+item.crystal_halberd_1_10.13101	Crystal halberd 1/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_1_10_i.13090	Crystal halberd 1/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_2_10.13100	Crystal halberd 2/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_2_10_i.13089	Crystal halberd 2/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_3_10.13099	Crystal halberd 3/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_3_10_i.13088	Crystal halberd 3/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_4_10.13098	Crystal halberd 4/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_4_10_i.13087	Crystal halberd 4/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_5_10.13097	Crystal halberd 5/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_5_10_i.13086	Crystal halberd 5/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_6_10.13096	Crystal halberd 6/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_6_10_i.13085	Crystal halberd 6/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_7_10.13095	Crystal halberd 7/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_7_10_i.13084	Crystal halberd 7/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_8_10.13094	Crystal halberd 8/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_8_10_i.13083	Crystal halberd 8/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_9_10.13093	Crystal halberd 9/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_9_10_i.13082	Crystal halberd 9/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_full.13092	Crystal halberd full	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_halberd_full_i.13081	Crystal halberd full (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_1_10.4234	Crystal shield 1/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_1_10_i.11769	Crystal shield 1/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_2_10.4233	Crystal shield 2/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_2_10_i.11768	Crystal shield 2/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_3_10.4232	Crystal shield 3/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_3_10_i.11767	Crystal shield 3/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_4_10.4231	Crystal shield 4/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_4_10_i.11766	Crystal shield 4/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_5_10.4230	Crystal shield 5/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_5_10_i.11765	Crystal shield 5/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_6_10.4229	Crystal shield 6/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_6_10_i.11764	Crystal shield 6/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_7_10.4228	Crystal shield 7/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_7_10_i.11763	Crystal shield 7/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_8_10.4227	Crystal shield 8/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_8_10_i.11762	Crystal shield 8/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_9_10.4226	Crystal shield 9/10	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_9_10_i.11761	Crystal shield 9/10 (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_full.4225	Crystal shield full	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.crystal_shield_full_i.11760	Crystal shield full (i)	ITEM	EPIC	13	OBSOLETE_HISTORICAL_STATE
+item.cursed_banana.25500	Cursed banana	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.deep_blue_sweets.4559	Deep blue sweets	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.demonic_pacts_demon_butler_scroll.33368	Demonic pacts demon butler scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.demonic_pacts_relic_hunter_t1_armour_set.33451	Demonic pacts relic hunter (t1) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.demonic_pacts_relic_hunter_t2_armour_set.33454	Demonic pacts relic hunter (t2) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.demonic_pacts_relic_hunter_t3_armour_set.33457	Demonic pacts relic hunter (t3) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.demonic_pacts_throne_scroll.33362	Demonic pacts throne scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.demonic_quill.33342	Demonic quill	ITEM	UNCOMMON	15	DEMONIC_PACTS_REWARD_CONTENT
+item.demonic_skin_contract.33302	Demonic skin contract	ITEM	UNCOMMON	15	DEMONIC_PACTS_REWARD_CONTENT
+item.demonic_staff_ornament_kit.33308	Demonic staff ornament kit	ITEM	UNCOMMON	15	DEMONIC_PACTS_REWARD_CONTENT
+item.demonic_trident_ornament_kit.33311	Demonic trident ornament kit	ITEM	UNCOMMON	15	DEMONIC_PACTS_REWARD_CONTENT
+item.dni23_arms_bare.29730	Dni23 arms bare	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_bareshoulders.29736	Dni23 arms bareshoulders	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_frilly.29732	Dni23 arms frilly	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_loosesleeves.29722	Dni23 arms loosesleeves	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_princely.29724	Dni23 arms princely	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_ripped.29728	Dni23 arms ripped	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_shoulderpads.29718	Dni23 arms shoulderpads	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_tattylong.29726	Dni23 arms tattylong	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_tattyshort.29734	Dni23 arms tattyshort	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_thickstripe.29720	Dni23 arms thickstripe	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_arms_thin.29716	Dni23 arms thin	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_beach.29740	Dni23 legs beach	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_bighem.29764	Dni23 legs bighem	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_layered.29760	Dni23 legs layered	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_leggings.29744	Dni23 legs leggings	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_longnarrowskirt.29756	Dni23 legs longnarrowskirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_longskirt.29754	Dni23 legs longskirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_patched.29750	Dni23 legs patched	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_patchedskirt.29772	Dni23 legs patchedskirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_patterned.29768	Dni23 legs patterned	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_princely.29742	Dni23 legs princely	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_ripped.29748	Dni23 legs ripped	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_sashdots.29762	Dni23 legs sashdots	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_sashtrousers.29766	Dni23 legs sashtrousers	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_shorts.29738	Dni23 legs shorts	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_shortskirt.29758	Dni23 legs shortskirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_sidestripes.29746	Dni23 legs sidestripes	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_skirt.29752	Dni23 legs skirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_legs_tornskirt.29770	Dni23 legs tornskirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_bodice.29714	Dni23 torso bodice	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_corsetry.29712	Dni23 torso corsetry	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_croptops.29704	Dni23 torso croptops	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_darkbuttons.29688	Dni23 torso darkbuttons	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_frilly.29710	Dni23 torso frilly	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_lightbuttons.29686	Dni23 torso lightbuttons	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_poloneck.29706	Dni23 torso poloneck	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_princely.29698	Dni23 torso princely	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_rippedweskit.29700	Dni23 torso rippedweskit	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_shirt.29692	Dni23 torso shirt	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_simple.29708	Dni23 torso simple	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_stitching.29694	Dni23 torso stitching	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dni23_torso_twotoned.29696	Dni23 torso twotoned	ITEM	RARE	15	TECHNICAL_APPEARANCE_MODEL
+item.dog_boots.30491	Dog boots	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.dog_disguise.30487	Dog disguise	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.dragon_axe_head.6743	Dragon axe head	ITEM	EPIC	13	INACCESSIBLE_CACHE_CONTENT
+item.dragon_candle_dagger.27810	Dragon candle dagger	ITEM	EPIC	13	HOLIDAY_EVENT_CONTENT
+item.druidic_wreath.12600	Druidic wreath	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.eastfloor_spade.27873	Eastfloor spade	ITEM	UNCOMMON	13	HOLIDAY_EVENT_CONTENT
+item.echo_ahrim_s_ornament_kit.30451	Echo ahrim's ornament kit	ITEM	EPIC	15	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT
+item.echo_home_teleport_scroll.30453	Echo home teleport scroll	ITEM	UNCOMMON	15	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT
+item.echo_venator_bow_ornament_kit.30432	Echo venator bow ornament kit	ITEM	UNCOMMON	15	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT
+item.echo_virtus_ornament_kit.30443	Echo virtus ornament kit	ITEM	UNCOMMON	15	RAGING_ECHOES_TEMPORARY_OR_REWARD_CONTENT
+item.egg_priest_mitre.29443	Egg priest mitre	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.egg_priest_necklace.29441	Egg priest necklace	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.egg_priest_robe.29437	Egg priest robe	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.egg_priest_robe_top.29439	Egg priest robe top	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.eggnog.27563	Eggnog	ITEM	UNCOMMON	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.essence_pack.25280	Essence pack	ITEM	COMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.event_lamp.31211	Event lamp	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.extradimensional_bag.25106	Extradimensional bag	ITEM	RARE	13	INACCESSIBLE_CACHE_CONTENT
+item.flower_crown.27035	Flower crown	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.giant_boulder.25314	Giant boulder	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.giant_bronze_dagger.27871	Giant bronze dagger	ITEM	COMMON	13	HOLIDAY_EVENT_CONTENT
+item.gnome_child_backpack.27802	Gnome child backpack	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gnome_child_hat.13655	Gnome child hat	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gnome_child_plush.27818	Gnome child plush	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.goblin_paint_cannon.12727	Goblin paint cannon	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.gravedigger_boots.13286	Gravedigger boots	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gravedigger_gloves.13287	Gravedigger gloves	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gravedigger_leggings.13285	Gravedigger leggings	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gravedigger_mask.13283	Gravedigger mask	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gravedigger_top.13284	Gravedigger top	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.gregg_s_eastdoor.25604	Gregg's eastdoor	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.grid_master_altar_icon_scroll.31205	Grid master altar icon scroll	ITEM	UNCOMMON	15	GRID_MASTER_TEMPORARY_CONTENT
+item.grid_master_tabard.31181	Grid master tabard	ITEM	RARE	15	GRID_MASTER_TEMPORARY_CONTENT
+item.grid_master_tabard_b.31184	Grid master tabard (b)	ITEM	RARE	15	GRID_MASTER_TEMPORARY_CONTENT
+item.grid_master_torch_scroll.31208	Grid master torch scroll	ITEM	UNCOMMON	15	GRID_MASTER_TEMPORARY_CONTENT
+item.haunted_wine_bottle.26260	Haunted wine bottle	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.headless_head.24975	Headless head	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.hell_cat_ears.24527	Hell cat ears	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.hornwood_helm.19699	Hornwood helm	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.icy_jumper.28786	Icy jumper	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.impish_ritual_scroll.33359	Impish ritual scroll	ITEM	UNCOMMON	15	DEMONIC_PACTS_REWARD_CONTENT
+item.impish_whistle.33365	Impish whistle	ITEM	UNCOMMON	15	DEMONIC_PACTS_REWARD_CONTENT
+item.iron_axe_head.510	Iron axe head	ITEM	COMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.jad_jumper.32932	Jad jumper	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.jad_plush.27814	Jad plush	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.jad_slippers.27808	Jad slippers	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.jonas_mask.21719	Jonas mask	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.love_crossbow.28128	Love crossbow	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.lovley_jubbly_bib.32928	Lovley jubbly bib	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.mask_of_balance.13203	Mask of balance	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.mithril_axe_head.516	Mithril axe head	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.mystic_cards.27645	Mystic cards	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.nest_hat.27875	Nest hat	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.oldschool_jumper.27822	Oldschool jumper	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.poet_s_jacket.28126	Poet's jacket	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.prop_sword.22316	Prop sword	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.propeller_hat.25606	Propeller hat	ITEM	COMMON	13	HOLIDAY_EVENT_CONTENT
+item.protest_banner.25822	Protest banner	ITEM	RARE	15	USER_REVIEWED_RETIREMENT
+item.raging_echoes_curtains.30502	Raging echoes curtains	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_death_scroll.30455	Raging echoes death scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_nexus_scroll.30459	Raging echoes nexus scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_npc_contact_scroll.30457	Raging echoes npc contact scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_portal_scroll.30461	Raging echoes portal scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_relic_hunter_t1_armour_set.30331	Raging echoes relic hunter (t1) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_relic_hunter_t2_armour_set.30334	Raging echoes relic hunter (t2) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_relic_hunter_t3_armour_set.30337	Raging echoes relic hunter (t3) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_rug.30501	Raging echoes rug	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_scrying_pool_scroll.30560	Raging echoes scrying pool scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.raging_echoes_spirit_tree_scroll.30563	Raging echoes spirit tree scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.rainbow_cape.29489	Rainbow cape	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.rainbow_crown_shirt.29507	Rainbow crown shirt	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.rainbow_jumper.28116	Rainbow jumper	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.rainbow_scarf.21314	Rainbow scarf	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.rotten_potato.5733	Rotten potato	ITEM	COMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.rune_axe_head.520	Rune axe head	ITEM	RARE	13	INACCESSIBLE_CACHE_CONTENT
+item.runefest_shield.21695	Runefest shield	ITEM	RARE	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.sack_of_coal.27558	Sack of coal	ITEM	UNCOMMON	13	HOLIDAY_EVENT_CONTENT
+item.saucepan.26254	Saucepan	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.scarecrow_shirt.30232	Scarecrow shirt	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.shattered_cannon_ornament_kit.26528	Shattered cannon ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_relic_hunter_t1_armour_set.26554	Shattered relic hunter (t1) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_relic_hunter_t2_armour_set.26557	Shattered relic hunter (t2) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_relic_hunter_t3_armour_set.26560	Shattered relic hunter (t3) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_relics_mystic_ornament_kit.26541	Shattered relics mystic ornament kit	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_relics_variety_ornament_kit.26421	Shattered relics variety ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_relics_void_ornament_kit.26479	Shattered relics void ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.shattered_teleport_scroll.26500	Shattered teleport scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.skeleton_lantern.24327	Skeleton lantern	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.skis.26649	Skis	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.snowdrop_seed.6460	Snowdrop seed	ITEM	COMMON	15	SEASONAL_OR_PROMOTIONAL_REWARD
+item.spider_hat.28603	Spider hat	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.spookier_boots.24323	Spookier boots	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.spookier_gloves.24321	Spookier gloves	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.spookier_hood.24315	Spookier hood	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.spookier_robe.24317	Spookier robe	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.spookier_skirt.24319	Spookier skirt	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.steel_axe_head.512	Steel axe head	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.stray_dog_plush.27816	Stray dog plush	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.sweet_nutcracker_boots.27585	Sweet nutcracker boots	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.sweet_nutcracker_hat.27584	Sweet nutcracker hat	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.sweet_nutcracker_staff.27586	Sweet nutcracker staff	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.sweet_nutcracker_top.27582	Sweet nutcracker top	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.sweet_nutcracker_trousers.27583	Sweet nutcracker trousers	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.swords_and_emblem.31193	Swords and emblem	ITEM	RARE	15	GRID_MASTER_TEMPORARY_CONTENT
+item.swords_and_emblem_b.31196	Swords and emblem (b)	ITEM	RARE	15	GRID_MASTER_TEMPORARY_CONTENT
+item.telekinetic_grab.8022	Telekinetic grab	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.trailblazer_banner.25056	Trailblazer banner	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_boots_t1.25037	Trailblazer boots (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_boots_t2.25025	Trailblazer boots (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_boots_t3.25010	Trailblazer boots (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_cane.25013	Trailblazer cane	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_globe.25093	Trailblazer globe	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_graceful_ornament_kit.25099	Trailblazer graceful ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_hood_t1.25028	Trailblazer hood (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_hood_t2.25016	Trailblazer hood (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_hood_t3.25001	Trailblazer hood (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_relic_hunter_t1_armour_set.25380	Trailblazer relic hunter (t1) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_relic_hunter_t2_armour_set.25383	Trailblazer relic hunter (t2) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_relic_hunter_t3_armour_set.25386	Trailblazer relic hunter (t3) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_alchemy_scroll.28693	Trailblazer reloaded alchemy scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_banner.28702	Trailblazer reloaded banner	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_blowpipe_ornament_kit.28690	Trailblazer reloaded blowpipe ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_boots_t1.28721	Trailblazer reloaded boots (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_boots_t2.28733	Trailblazer reloaded boots (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_boots_t3.28745	Trailblazer reloaded boots (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_bulwark_ornament_kit.28684	Trailblazer reloaded bulwark ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_death_scroll.28699	Trailblazer reloaded death scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_headband_t1.28712	Trailblazer reloaded headband (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_headband_t2.28724	Trailblazer reloaded headband (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_headband_t3.28736	Trailblazer reloaded headband (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_home_teleport_scroll.28705	Trailblazer reloaded home teleport scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_rejuvenation_pool_scroll.28708	Trailblazer reloaded rejuvenation pool scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_relic_hunter_t1_armour_set.28777	Trailblazer reloaded relic hunter (t1) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_relic_hunter_t2_armour_set.28780	Trailblazer reloaded relic hunter (t2) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_relic_hunter_t3_armour_set.28783	Trailblazer reloaded relic hunter (t3) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_top_t1.28715	Trailblazer reloaded top (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_top_t2.28727	Trailblazer reloaded top (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_top_t3.28739	Trailblazer reloaded top (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_torch.28748	Trailblazer reloaded torch	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_trousers_t1.28718	Trailblazer reloaded trousers (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_trousers_t2.28730	Trailblazer reloaded trousers (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_trousers_t3.28742	Trailblazer reloaded trousers (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_reloaded_vengeance_scroll.28696	Trailblazer reloaded vengeance scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_rug.25096	Trailblazer rug	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_teleport_scroll.25087	Trailblazer teleport scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_tool_ornament_kit.25090	Trailblazer tool ornament kit	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_top_t1.25031	Trailblazer top (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_top_t2.25019	Trailblazer top (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_top_t3.25004	Trailblazer top (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_trousers_t1.25034	Trailblazer trousers (t1)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_trousers_t2.25022	Trailblazer trousers (t2)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.trailblazer_trousers_t3.25007	Trailblazer trousers (t3)	ITEM	RARE	15	TEMPORARY_LEAGUES_CONTENT
+item.treat_cauldron.27463	Treat cauldron	ITEM	RARE	13	HOLIDAY_EVENT_CONTENT
+item.twisted_blueprints.24463	Twisted blueprints	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.twisted_horns.24466	Twisted horns	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.twisted_relic_hunter_t1_armour_set.24469	Twisted relic hunter (t1) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.twisted_relic_hunter_t2_armour_set.24472	Twisted relic hunter (t2) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.twisted_relic_hunter_t3_armour_set.24475	Twisted relic hunter (t3) armour set	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.twisted_teleport_scroll.24460	Twisted teleport scroll	ITEM	UNCOMMON	15	TEMPORARY_LEAGUES_CONTENT
+item.white_sweets.4560	White sweets	ITEM	UNCOMMON	13	INACCESSIBLE_CACHE_CONTENT
+item.wristbands_of_the_arena.26723	Wristbands of the arena	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+item.wristbands_of_the_arena_c.26725	Wristbands of the arena (c)	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+item.wristbands_of_the_arena_cl.26726	Wristbands of the arena (cl)	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+item.wristbands_of_the_arena_i.26727	Wristbands of the arena (i)	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+item.wristbands_of_the_arena_ic.26729	Wristbands of the arena (ic)	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+item.wristbands_of_the_arena_il.26728	Wristbands of the arena (il)	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+item.wristbands_of_the_arena_ilc.26730	Wristbands of the arena (ilc)	ITEM	RARE	13	FAILED_POLL_BETA_CONTENT
+npc.aranei.15764	Aranei	NPC	COMMON	15	USER_REVIEWED_RETIREMENT
+npc.auguste.4715	Auguste	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.banker_tutor.3227	Banker tutor	NPC	COMMON	15	USER_REVIEWED_RETIREMENT
+npc.constantinius.13826	Constantinius	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.cozyac.13828	Cozyac	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.curator_haig_halen.5214	Curator Haig Halen	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.daero.1445	Daero	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.digsite_workman.3628	Digsite workman	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.dr_fenkenstrain.1269	Dr Fenkenstrain	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.financial_seer.6485	Financial Seer	NPC	COMMON	15	USER_REVIEWED_RETIREMENT
+npc.financial_wizard.6510	Financial Wizard	NPC	COMMON	15	USER_REVIEWED_RETIREMENT
+npc.istoria.11112	Istoria	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.movario.2341	Movario	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.nevet.14802	Nevet	NPC	COMMON	15	GRID_MASTER_TEMPORARY_CONTENT
+npc.nigel.8390	Nigel	NPC	UNCOMMON	15	DEADMAN_REWARD
+npc.no_fingers.3597	'No fingers'	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.patzi.13819	Patzi	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.pavo.13832	Pavo	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.priest.11303	Priest	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.primula.7953	Primula	NPC	COMMON	15	USER_REVIEWED_RETIREMENT
+npc.renu.13350	Renu	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.sandy.5384	Sandy	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.student.3634	Student	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.the_sage.11232	The Sage	NPC	COMMON	15	LEAGUES_SERVICE_NPC
+npc.villager.3552	Villager	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.xocotla.13830	Xocotla	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT
+npc.zealot.3611	Zealot	NPC	UNCOMMON	15	USER_REVIEWED_RETIREMENT

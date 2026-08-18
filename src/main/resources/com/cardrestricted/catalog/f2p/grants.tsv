@@ -1,0 +1,12 @@
+card_id	entity_family_id	permissions
+item.bronze_axe	object-family.tree.normal	OBJECT_CHOP
+item.bronze_pickaxe	object-family.rock.copper	OBJECT_MINE
+item.small_fishing_net	npc-family.fishing-spot.lumbridge-swamp	NPC_NET_FISH
+item.raw_shrimps	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_beef	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_anchovies	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_sardine	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_salmon	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_trout	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_herring	object-family.range.lumbridge-castle	OBJECT_COOK
+item.raw_chicken	object-family.range.lumbridge-castle	OBJECT_COOK
