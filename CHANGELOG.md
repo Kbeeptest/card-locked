@@ -1,3 +1,9 @@
+## 0.81.06 — Plugin Hub compatibility
+
+- Migrated cosmetic pack audio playback from `javax.sound.sampled` to RuneLite's supported `AudioPlayer`.
+- Reduced bundled card-frame and booster source dimensions for Plugin Hub image-size compliance while retaining the same 2:3 artwork and runtime rendering behavior.
+- No gameplay, balance, restriction, rarity, pack-content or sound-asset changes.
+
 ## 0.81.05 — RuneLite API compatibility
 
 - Replaced terminally deprecated RuneLite `WidgetID` usage with the supported `InterfaceID` gameval API.

@@ -158,6 +158,7 @@ import net.runelite.api.gameval.VarbitID;
 import net.runelite.api.widgets.Widget;
 import net.runelite.api.gameval.InterfaceID;
 import net.runelite.client.RuneLite;
+import net.runelite.client.audio.AudioPlayer;
 import net.runelite.client.callback.ClientThread;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.events.ConfigChanged;
@@ -230,6 +231,9 @@ public final class CardRestrictedAccountPlugin extends Plugin
 
     @Inject
     private ConfigManager configManager;
+
+    @Inject
+    private AudioPlayer audioPlayer;
 
     private AudioCueManager audioCueManager;
     private CardCatalogue catalogue;
@@ -378,7 +382,7 @@ public final class CardRestrictedAccountPlugin extends Plugin
 
     private void startUpInternal()
     {
-        audioCueManager = new AudioCueManager();
+        audioCueManager = new AudioCueManager(audioPlayer);
         AudioCueManager startedAudio = audioCueManager;
         lifecycleCleanup.register("audio", startedAudio::shutdown);
         catalogue = MembersCatalogue.create();

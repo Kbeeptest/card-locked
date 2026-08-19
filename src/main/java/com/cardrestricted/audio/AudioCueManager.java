@@ -1,30 +1,17 @@
 package com.cardrestricted.audio;
 
 import com.cardrestricted.catalog.Rarity;
-import java.io.BufferedInputStream;
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.Map;
 import java.util.Objects;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.Executors;
 import java.util.concurrent.RejectedExecutionException;
 import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.ThreadFactory;
-import javax.sound.sampled.AudioInputStream;
-import javax.sound.sampled.AudioSystem;
-import javax.sound.sampled.Clip;
-import javax.sound.sampled.FloatControl;
-import javax.sound.sampled.LineEvent;
+import java.util.concurrent.atomic.AtomicBoolean;
+import net.runelite.client.audio.AudioPlayer;
 
 public final class AudioCueManager
 {
-    private static final String RESOURCE_ROOT = "/com/cardrestricted/audio/";
-
-    private final Map<String, byte[]> clipBytes = new ConcurrentHashMap<>();
+    private final AudioPlayer audioPlayer;
     private final AtomicBoolean closed = new AtomicBoolean();
     private final ScheduledExecutorService executor =
         Executors.newScheduledThreadPool(3,
@@ -42,6 +29,23 @@ public final class AudioCueManager
                 return thread;
             }
         });
+
+    /**
+     * Production constructor. RuneLite owns the actual audio playback backend.
+     */
+    public AudioCueManager(AudioPlayer audioPlayer)
+    {
+        this.audioPlayer = Objects.requireNonNull(audioPlayer, "audioPlayer");
+    }
+
+    /**
+     * Test-only lifecycle constructor. Tests shut this manager down before any
+     * playback request can reach the null backend.
+     */
+    AudioCueManager()
+    {
+        this.audioPlayer = null;
+    }
 
     public void playDealCard(int cardPosition)
     {
@@ -107,7 +111,6 @@ public final class AudioCueManager
         // Audio is cosmetic. Never hold RuneLite's Swing EDT waiting for an
         // audio worker during plugin disable/reload.
         executor.shutdownNow();
-        clipBytes.clear();
     }
 
     boolean isShutdownForTesting()
@@ -133,70 +136,20 @@ public final class AudioCueManager
 
     private void playNow(String resourceName, float gainDb)
     {
-        if (closed.get())
+        if (closed.get() || audioPlayer == null)
         {
             return;
         }
         try
         {
-            byte[] bytes = clipBytes.computeIfAbsent(
-                resourceName,
-                this::readResourceBytes);
-            if (bytes == null || bytes.length == 0)
-            {
-                return;
-            }
-            try (AudioInputStream stream = AudioSystem.getAudioInputStream(
-                new BufferedInputStream(new ByteArrayInputStream(bytes))))
-            {
-                Clip clip = AudioSystem.getClip();
-                clip.addLineListener(event -> {
-                    if (event.getType() == LineEvent.Type.STOP
-                        || event.getType() == LineEvent.Type.CLOSE)
-                    {
-                        clip.close();
-                    }
-                });
-                clip.open(stream);
-                if (clip.isControlSupported(FloatControl.Type.MASTER_GAIN))
-                {
-                    FloatControl gain = (FloatControl) clip.getControl(
-                        FloatControl.Type.MASTER_GAIN);
-                    float bounded = Math.max(
-                        gain.getMinimum(),
-                        Math.min(gain.getMaximum(), gainDb));
-                    gain.setValue(bounded);
-                }
-                clip.start();
-            }
+            // The WAV files live beside this class in the resource tree, so a
+            // relative class resource name gives RuneLite's AudioPlayer the
+            // same packaged cue without using javax.sound directly.
+            audioPlayer.play(AudioCueManager.class, resourceName, gainDb);
         }
         catch (Exception ignored)
         {
             // Audio is cosmetic. Fail silently so gameplay is unaffected.
-        }
-    }
-
-    private byte[] readResourceBytes(String resourceName)
-    {
-        try (InputStream input = AudioCueManager.class.getResourceAsStream(
-                RESOURCE_ROOT + resourceName))
-        {
-            if (input == null)
-            {
-                return new byte[0];
-            }
-            ByteArrayOutputStream output = new ByteArrayOutputStream();
-            byte[] buffer = new byte[4096];
-            int read;
-            while ((read = input.read(buffer)) >= 0)
-            {
-                output.write(buffer, 0, read);
-            }
-            return output.toByteArray();
-        }
-        catch (IOException ignored)
-        {
-            return new byte[0];
         }
     }
 }
