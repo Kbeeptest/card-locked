@@ -2,7 +2,7 @@ package com.cardrestricted.runelite;
 
 import java.util.EnumSet;
 import net.runelite.api.MenuAction;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.gameval.InterfaceID;
 
 /**
  * Conservative menu-context rules used to avoid treating stale widget state or
@@ -102,8 +102,8 @@ public final class InteractionContextRules
             return false;
         }
         int groupId = packedWidgetId >>> 16;
-        return groupId == WidgetID.EQUIPMENT_GROUP_ID
-            || groupId == WidgetID.EQUIPMENT_INVENTORY_GROUP_ID;
+        return groupId == InterfaceID.WORNITEMS
+            || groupId == InterfaceID.EQUIPMENT_SIDE;
     }
 
     public static boolean isGroundItemAction(MenuAction menuAction)

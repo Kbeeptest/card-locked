@@ -3,7 +3,6 @@ package com.cardrestricted.runelite;
 import java.util.Locale;
 import net.runelite.api.MenuAction;
 import net.runelite.api.gameval.InterfaceID;
-import net.runelite.api.widgets.WidgetID;
 
 /**
  * Verifies that banking/storage recovery text originates from a genuine
@@ -103,17 +102,17 @@ public final class StorageInteractionRules
 
     public static boolean isStorageGroup(int groupId)
     {
-        return groupId == WidgetID.BANK_GROUP_ID
-            || groupId == WidgetID.BANK_INVENTORY_GROUP_ID
-            || groupId == WidgetID.DEPOSIT_BOX_GROUP_ID
-            || groupId == WidgetID.SEED_VAULT_GROUP_ID
-            || groupId == WidgetID.SEED_VAULT_INVENTORY_GROUP_ID
-            || groupId == WidgetID.GROUP_STORAGE_GROUP_ID
-            || groupId == WidgetID.GROUP_STORAGE_INVENTORY_GROUP_ID
-            || groupId == WidgetID.CHAMBERS_OF_XERIC_STORAGE_UNIT_PRIVATE_GROUP_ID
-            || groupId == WidgetID.CHAMBERS_OF_XERIC_STORAGE_UNIT_SHARED_GROUP_ID
-            || groupId == WidgetID.CHAMBERS_OF_XERIC_STORAGE_UNIT_INVENTORY_GROUP_ID
-            || groupId == WidgetID.POH_TREASURE_CHEST_INVENTORY_GROUP_ID
+        return groupId == InterfaceID.BANKMAIN
+            || groupId == InterfaceID.BANKSIDE
+            || groupId == InterfaceID.BANK_DEPOSITBOX
+            || groupId == InterfaceID.SEED_VAULT
+            || groupId == InterfaceID.SEED_VAULT_DEPOSIT
+            || groupId == InterfaceID.SHARED_BANK
+            || groupId == InterfaceID.SHARED_BANK_SIDE
+            || groupId == InterfaceID.RAIDS_STORAGE_PRIVATE
+            || groupId == InterfaceID.RAIDS_STORAGE_SHARED
+            || groupId == InterfaceID.RAIDS_STORAGE_SIDE
+            || groupId == InterfaceID.POH_COSTUMES_SIDE
             || groupId == InterfaceID.FOSSIL_STORAGE
             || groupId == InterfaceID.FOSSIL_STORAGE_INV
             || groupId == InterfaceID.II_ELNOCK_STORAGE
@@ -134,13 +133,13 @@ public final class StorageInteractionRules
 
     public static boolean isPrimaryStorageGroup(int groupId)
     {
-        return groupId == WidgetID.BANK_GROUP_ID
-            || groupId == WidgetID.DEPOSIT_BOX_GROUP_ID
-            || groupId == WidgetID.SEED_VAULT_GROUP_ID
-            || groupId == WidgetID.GROUP_STORAGE_GROUP_ID
-            || groupId == WidgetID.CHAMBERS_OF_XERIC_STORAGE_UNIT_PRIVATE_GROUP_ID
-            || groupId == WidgetID.CHAMBERS_OF_XERIC_STORAGE_UNIT_SHARED_GROUP_ID
-            || groupId == WidgetID.POH_TREASURE_CHEST_INVENTORY_GROUP_ID
+        return groupId == InterfaceID.BANKMAIN
+            || groupId == InterfaceID.BANK_DEPOSITBOX
+            || groupId == InterfaceID.SEED_VAULT
+            || groupId == InterfaceID.SHARED_BANK
+            || groupId == InterfaceID.RAIDS_STORAGE_PRIVATE
+            || groupId == InterfaceID.RAIDS_STORAGE_SHARED
+            || groupId == InterfaceID.POH_COSTUMES_SIDE
             || groupId == InterfaceID.FOSSIL_STORAGE
             || groupId == InterfaceID.II_ELNOCK_STORAGE
             || groupId == InterfaceID.CLANS_STORAGE_MAIN

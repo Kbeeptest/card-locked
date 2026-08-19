@@ -156,7 +156,7 @@ import net.runelite.api.events.WidgetClosed;
 import net.runelite.api.events.WidgetLoaded;
 import net.runelite.api.gameval.VarbitID;
 import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.gameval.InterfaceID;
 import net.runelite.client.RuneLite;
 import net.runelite.client.callback.ClientThread;
 import net.runelite.client.config.ConfigManager;
@@ -2440,12 +2440,12 @@ public final class CardRestrictedAccountPlugin extends Plugin
         }
         appendWidgetText(
             text,
-            client.getWidget(WidgetID.DIALOG_NPC_GROUP_ID, 0),
+            client.getWidget(InterfaceID.CHAT_LEFT, 0),
             0,
             new java.util.HashSet<>());
         appendWidgetText(
             text,
-            client.getWidget(WidgetID.DIALOG_PLAYER_GROUP_ID, 0),
+            client.getWidget(InterfaceID.CHAT_RIGHT, 0),
             0,
             new java.util.HashSet<>());
         return text.toString();

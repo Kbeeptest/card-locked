@@ -5,7 +5,6 @@ import java.util.Locale;
 import java.util.Set;
 import net.runelite.api.MenuAction;
 import net.runelite.api.gameval.InterfaceID;
-import net.runelite.api.widgets.WidgetID;
 
 /**
  * Session-local provenance for specialist NPC interfaces which are neither the
@@ -95,7 +94,7 @@ public final class NpcServiceInterfaceAuthorization
         int clientTick,
         int... packedWidgetIds)
     {
-        if (!containsGroup(WidgetID.DIALOG_OPTION_GROUP_ID, packedWidgetIds)
+        if (!containsGroup(InterfaceID.CHATMENU, packedWidgetIds)
             || !withinWindow(
                 verifiedDialogueSourceTick,
                 clientTick,

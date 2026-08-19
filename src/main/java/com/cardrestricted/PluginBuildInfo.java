@@ -3,7 +3,7 @@ package com.cardrestricted;
 /** Single visible build identifier used by the UI and release checks. */
 public final class PluginBuildInfo
 {
-    public static final String VERSION = "0.81.04";
+    public static final String VERSION = "0.81.05";
     public static final String CHANNEL = "Beta candidate";
     public static final String DEVELOPER_TESTING_PROPERTY =
         "cardlocked.developerTesting";

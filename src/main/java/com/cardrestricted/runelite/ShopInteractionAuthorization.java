@@ -3,7 +3,6 @@ package com.cardrestricted.runelite;
 import java.util.Locale;
 import net.runelite.api.MenuAction;
 import net.runelite.api.gameval.InterfaceID;
-import net.runelite.api.widgets.WidgetID;
 
 /**
  * Session-local proof that a shop interface was opened through an interaction
@@ -169,7 +168,7 @@ public final class ShopInteractionAuthorization
 
     public void onWidgetClosed(int groupId)
     {
-        if (groupId == WidgetID.SHOP_GROUP_ID
+        if (groupId == InterfaceID.SHOPMAIN
             || groupId == authorizedCustomGroupId)
         {
             reset();
@@ -375,8 +374,8 @@ public final class ShopInteractionAuthorization
             if (groupId <= 0
                 || isStandardShopGroup(groupId)
                 || GrandExchangeInteractionAuthorization.isExchangeGroup(groupId)
-                || groupId == WidgetID.DIALOG_OPTION_GROUP_ID
-                || groupId == WidgetID.PLAYER_TRADE_SCREEN_GROUP_ID)
+                || groupId == InterfaceID.CHATMENU
+                || groupId == InterfaceID.TRADEMAIN)
             {
                 continue;
             }
@@ -393,32 +392,32 @@ public final class ShopInteractionAuthorization
         int... packedWidgetIds)
     {
         return containsWidgetGroup(
-                WidgetID.GRAND_EXCHANGE_GROUP_ID,
+                InterfaceID.GE_OFFERS,
                 packedWidgetIds)
             || containsWidgetGroup(
-                WidgetID.GRAND_EXCHANGE_INVENTORY_GROUP_ID,
+                InterfaceID.GE_OFFERS_SIDE,
                 packedWidgetIds)
             || containsWidgetGroup(InterfaceID.GE_COLLECT, packedWidgetIds);
     }
 
     private static boolean containsShopWidget(int... packedWidgetIds)
     {
-        return containsWidgetGroup(WidgetID.SHOP_GROUP_ID, packedWidgetIds)
+        return containsWidgetGroup(InterfaceID.SHOPMAIN, packedWidgetIds)
             || containsWidgetGroup(
-                WidgetID.SHOP_INVENTORY_GROUP_ID,
+                InterfaceID.SHOPSIDE,
                 packedWidgetIds);
     }
 
     private static boolean isStandardShopGroup(int groupId)
     {
-        return groupId == WidgetID.SHOP_GROUP_ID
-            || groupId == WidgetID.SHOP_INVENTORY_GROUP_ID;
+        return groupId == InterfaceID.SHOPMAIN
+            || groupId == InterfaceID.SHOPSIDE;
     }
 
     private static boolean containsDialogueWidget(int... packedWidgetIds)
     {
         return containsWidgetGroup(
-            WidgetID.DIALOG_OPTION_GROUP_ID,
+            InterfaceID.CHATMENU,
             packedWidgetIds);
     }
 

@@ -1,7 +1,7 @@
 package com.cardrestricted.runelite;
 
 import java.util.Locale;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.gameval.InterfaceID;
 
 /**
  * Blocks clearly functional dialogue choices reached through the otherwise
@@ -88,7 +88,7 @@ public final class LockedNpcDialogueGuard
     static boolean isDialogueOptionWidget(int packedWidgetId)
     {
         return packedWidgetId >= 0
-            && packedWidgetId >>> 16 == WidgetID.DIALOG_OPTION_GROUP_ID;
+            && packedWidgetId >>> 16 == InterfaceID.CHATMENU;
     }
 
     private boolean withinWindow(int clientTick)

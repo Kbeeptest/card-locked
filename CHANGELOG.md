@@ -1,3 +1,8 @@
+## 0.81.05 — RuneLite API compatibility
+
+- Replaced terminally deprecated RuneLite `WidgetID` usage with the supported `InterfaceID` gameval API.
+- No gameplay, balance, restriction-policy, artwork, pack, sound, or progression changes.
+
 # Changelog
 
 ## 0.81.04

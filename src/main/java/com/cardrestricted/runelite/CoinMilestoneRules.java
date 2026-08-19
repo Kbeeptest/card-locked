@@ -4,7 +4,7 @@ import com.cardrestricted.progression.ProgressionMilestonePolicy;
 import java.util.Collections;
 import java.util.Set;
 import net.runelite.api.ItemID;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.gameval.InterfaceID;
 
 /** Focused interaction rules for the 1,000-card coin milestone. */
 public final class CoinMilestoneRules
@@ -97,7 +97,7 @@ public final class CoinMilestoneRules
             return false;
         }
         int groupId = packedWidgetId >>> 16;
-        return groupId == WidgetID.SHOP_GROUP_ID
+        return groupId == InterfaceID.SHOPMAIN
             && option.trim().toLowerCase(java.util.Locale.ROOT)
                 .startsWith("buy");
     }

@@ -5,7 +5,6 @@ import java.util.Locale;
 import java.util.Set;
 import net.runelite.api.MenuAction;
 import net.runelite.api.gameval.InterfaceID;
-import net.runelite.api.widgets.WidgetID;
 
 /** Provenance proof for Grand Exchange interfaces opened through NPCs/booths. */
 public final class GrandExchangeInteractionAuthorization
@@ -85,7 +84,7 @@ public final class GrandExchangeInteractionAuthorization
         int clientTick,
         int... packedWidgetIds)
     {
-        if (!containsGroup(WidgetID.DIALOG_OPTION_GROUP_ID, packedWidgetIds)
+        if (!containsGroup(InterfaceID.CHATMENU, packedWidgetIds)
             || !withinWindow(
                 verifiedDialogueSourceTick,
                 clientTick,
@@ -194,8 +193,8 @@ public final class GrandExchangeInteractionAuthorization
 
     public static boolean isExchangeGroup(int groupId)
     {
-        return groupId == WidgetID.GRAND_EXCHANGE_GROUP_ID
-            || groupId == WidgetID.GRAND_EXCHANGE_INVENTORY_GROUP_ID
+        return groupId == InterfaceID.GE_OFFERS
+            || groupId == InterfaceID.GE_OFFERS_SIDE
             || groupId == InterfaceID.GE_COLLECT;
     }
 

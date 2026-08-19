@@ -2,7 +2,7 @@ package com.cardrestricted.runelite;
 
 import java.util.Locale;
 import net.runelite.api.MenuAction;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.gameval.InterfaceID;
 
 /**
  * Session-local proof that a bank or storage interface was opened through an
@@ -243,7 +243,7 @@ public final class StorageInteractionAuthorization
         for (int packedWidgetId : packedWidgetIds)
         {
             if (packedWidgetId >= 0
-                && packedWidgetId >>> 16 == WidgetID.DIALOG_OPTION_GROUP_ID)
+                && packedWidgetId >>> 16 == InterfaceID.CHATMENU)
             {
                 return true;
             }

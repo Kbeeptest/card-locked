@@ -1,7 +1,7 @@
 package com.cardrestricted.runelite;
 
 import java.util.Locale;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.gameval.InterfaceID;
 
 /**
  * Identifies transaction confirmations that can move or consume items even
@@ -19,7 +19,7 @@ public final class TransactionInterfaceIntegrityRules
     {
         String value = normalise(option);
         return containsGroup(
-                WidgetID.PLAYER_TRADE_SCREEN_GROUP_ID,
+                InterfaceID.TRADEMAIN,
                 packedWidgetIds)
             && (startsWith(value, "accept")
                 || startsWith(value, "confirm"));
@@ -30,9 +30,9 @@ public final class TransactionInterfaceIntegrityRules
         int... packedWidgetIds)
     {
         String value = normalise(option);
-        if (!containsGroup(WidgetID.GRAND_EXCHANGE_GROUP_ID, packedWidgetIds)
+        if (!containsGroup(InterfaceID.GE_OFFERS, packedWidgetIds)
             && !containsGroup(
-                WidgetID.GRAND_EXCHANGE_INVENTORY_GROUP_ID,
+                InterfaceID.GE_OFFERS_SIDE,
                 packedWidgetIds))
         {
             return false;
