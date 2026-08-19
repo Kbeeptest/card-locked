@@ -1,25 +1,16 @@
-Card Locked offline OSRS Wiki artwork pack v1
+Card Locked OSRS Wiki artwork pack v1
 
-The active catalogue currently has near-complete packaged image coverage:
-- 7,144 cards use packaged OSRS Wiki artwork mappings.
-- 438 item cards use their RuneLite item sprites as the reviewed fallback.
+The active catalogue currently has near-complete reviewed artwork coverage:
+- 7,144 cards use OSRS Wiki artwork mappings.
+- 439 item cards use RuneLite item sprites as the reviewed fallback.
 - 5 NPC cards use deterministic built-in catalogue fallback artwork.
-- 6,667 unique PNG files are stored once in offline-assets-v1.zip.
+- 6,667 unique PNG files are stored in the versioned artwork-v1 release asset.
 
-The Phase 0.77.4 acquisition pass safely imported 715 exact display-name
-matches from the user-supplied OSRS TCG offline Wiki-image cache. Original
-OSRS Wiki source URLs remain recorded in manifest.tsv. No fuzzy or ambiguous
-name match was accepted.
+On a clean installation Card Locked downloads the artwork-v1 archive once from
+the project's GitHub Release on a background worker. The archive is SHA-256
+verified before use and cached locally under RuneLite's data directory.
+Subsequent launches reuse the verified cache. Individual images are read lazily
+from the archive and the in-memory rendered image cache remains bounded.
 
-The ZIP is SHA-256 verified, opened as a random-access archive and read only for
-cards currently being rendered. Individual images are not extracted during
-project unpacking and the in-memory rendered image cache is bounded to 512.
-Gameplay-time Wiki downloads are disabled.
-
-Every artwork row retains its Wiki page, file title, source URL, revision,
-source hash, normalised runtime hash and identity-match method in manifest.tsv.
-
-See:
-- docs/catalogue/TEST_ALBUM_ARTWORK_COMPLETENESS.tsv
-- docs/catalogue/WIKI_CARD_CONTENT_RESOLUTION.tsv
-- docs/OSRS_WIKI_ARTWORK_ATTRIBUTION.md
+The manifest retains Wiki page/file provenance, source URL, source hash,
+normalised runtime hash and identity-match method for mapped artwork.

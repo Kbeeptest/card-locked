@@ -229,7 +229,7 @@ public final class CatalogueResourceAuditTest
     }
 
     @Test
-    public void publicBuildRetainsManifestAndBundlesVerifiedWikiMedia()
+    public void publicBuildRetainsManifestAndExternalVerifiedWikiMediaMetadata()
         throws Exception
     {
         List<Map<String, String>> manifest = rows(ART + "manifest.tsv");
@@ -240,7 +240,7 @@ public final class CatalogueResourceAuditTest
             assertTrue(filename.matches("assets/[0-9a-f]{64}\\.png"));
             assertTrue(filename.contains(row.get("sha256")));
         }
-        assertNotNull(CatalogueResourceAuditTest.class.getClassLoader()
+        assertNull(CatalogueResourceAuditTest.class.getClassLoader()
             .getResource(ART + "offline-assets-v1.zip"));
         assertNotNull(CatalogueResourceAuditTest.class.getClassLoader()
             .getResource(ART + "offline-assets-v1.sha256"));
@@ -248,6 +248,9 @@ public final class CatalogueResourceAuditTest
         assertTrue(properties.contains("redistributed=true"));
         assertTrue(properties.contains("complete=true"));
         assertTrue(properties.contains("uniqueAssets=6667"));
+        assertTrue(properties.contains("releaseTag=artwork-v1"));
+        assertTrue(properties.contains(
+            "releaseAsset=card-locked-artwork-v1.zip"));
     }
 
     private static void assertOnlyActive(

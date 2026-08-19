@@ -5,7 +5,9 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.HttpURLConnection;
 import java.net.URI;
+import java.net.URLConnection;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.charset.StandardCharsets;
@@ -32,19 +34,25 @@ import javax.imageio.ImageIO;
 /**
  * Verified lazy reader for Card Locked's offline OSRS Wiki artwork pack.
  *
- * <p>The public build carries one checksum-addressed archive so a clean RuneLite
- * install has the reviewed card artwork immediately available without network
- * access. The archive is materialised once into Card Locked's cache directory
- * on a low-priority worker and then read lazily.</p>
+ * <p>The reviewed artwork archive is hosted as a versioned GitHub Release asset
+ * so the Plugin Hub source package stays within RuneLite's size limit. On a
+ * clean installation the archive is downloaded once on Card Locked's
+ * low-priority artwork worker, verified against the packaged SHA-256, cached
+ * inside RuneLite's local data directory, and then read lazily. No collection
+ * or gameplay data is included in the request.</p>
  */
 public final class WikiArtworkDiskCache implements AutoCloseable
 {
     public static final String LOCAL_PACK_FILENAME =
         "card-locked-artwork-v1.zip";
-    private static final String BUNDLED_PACK_RESOURCE =
-        "com/cardrestricted/artwork/wiki/offline-assets-v1.zip";
-    private static final String BUNDLED_PACK_HASH_RESOURCE =
+    private static final String PACK_HASH_RESOURCE =
         "com/cardrestricted/artwork/wiki/offline-assets-v1.sha256";
+    private static final URI REMOTE_PACK_URI = URI.create(
+        "https://github.com/Kbeeptest/card-locked/releases/download/"
+            + "artwork-v1/card-locked-artwork-v1.zip");
+    private static final int MAX_REDIRECTS = 5;
+    private static final int CONNECT_TIMEOUT_MILLIS = 10_000;
+    private static final int READ_TIMEOUT_MILLIS = 60_000;
     private static final int MAX_IMAGE_BYTES = 1024 * 1024;
     private static final long MAX_ARCHIVE_BYTES = 96L * 1024L * 1024L;
 
@@ -173,8 +181,9 @@ public final class WikiArtworkDiskCache implements AutoCloseable
     {
         Objects.requireNonNull(entry, "entry");
         Objects.requireNonNull(onAvailable, "onAvailable");
-        // Public builds are fully offline. This compatibility entry point is a
-        // deliberate no-op and cannot initiate an HTTP request.
+        // Individual artwork downloads are deliberately disabled. The only
+        // network path is the versioned, checksum-verified release archive
+        // prepared by prepareAsync().
     }
 
     public int size()
@@ -193,7 +202,7 @@ public final class WikiArtworkDiskCache implements AutoCloseable
         return localPackEntryCount();
     }
 
-    /** Prepares the bundled/local archive away from startup and the Swing EDT. */
+    /** Prepares the verified local/release archive away from the Swing EDT. */
     public void prepareAsync(Executor executor)
     {
         prepareAsync(executor, () -> { });
@@ -262,10 +271,11 @@ public final class WikiArtworkDiskCache implements AutoCloseable
 
     private void prepareLocalPack()
     {
-        Path archivePath = materializeBundledPack();
+        String expectedHash = readExpectedPackHash();
+        Path archivePath = findVerifiedLocalPack(expectedHash);
         if (archivePath == null)
         {
-            archivePath = findLegacyOrUserPack();
+            archivePath = downloadVerifiedPack(expectedHash);
         }
         if (archivePath == null)
         {
@@ -305,11 +315,11 @@ public final class WikiArtworkDiskCache implements AutoCloseable
         }
     }
 
-    private Path materializeBundledPack()
+    private String readExpectedPackHash()
     {
         ClassLoader loader = WikiArtworkDiskCache.class.getClassLoader();
         try (InputStream hashInput = loader.getResourceAsStream(
-            BUNDLED_PACK_HASH_RESOURCE))
+            PACK_HASH_RESOURCE))
         {
             if (hashInput == null)
             {
@@ -319,40 +329,77 @@ public final class WikiArtworkDiskCache implements AutoCloseable
                 readBounded(hashInput, 256),
                 StandardCharsets.US_ASCII).trim().toLowerCase(
                     java.util.Locale.ROOT);
-            if (!expectedHash.matches("[0-9a-f]{64}"))
-            {
-                return null;
-            }
+            return expectedHash.matches("[0-9a-f]{64}")
+                ? expectedHash
+                : null;
+        }
+        catch (IOException | RuntimeException ignored)
+        {
+            return null;
+        }
+    }
+
+    private Path findVerifiedLocalPack(String expectedHash)
+    {
+        if (expectedHash == null)
+        {
+            return null;
+        }
+        try
+        {
             Files.createDirectories(directory);
-            Path target = directory.resolve(
-                "offline-assets-v1-" + expectedHash.substring(0, 16) + ".zip");
-            if (!Files.isRegularFile(target)
-                || !expectedHash.equals(sha256(target)))
+            Path versioned = versionedPackPath(expectedHash);
+            if (isExpectedPack(versioned, expectedHash))
             {
-                try (InputStream input = loader.getResourceAsStream(
-                    BUNDLED_PACK_RESOURCE))
+                removeStaleBundledArchives(versioned);
+                return versioned;
+            }
+            Files.deleteIfExists(versioned);
+
+            Path preferred = directory.resolve(LOCAL_PACK_FILENAME);
+            if (isExpectedPack(preferred, expectedHash))
+            {
+                moveOrCopyVerifiedPack(preferred, versioned);
+                removeStaleBundledArchives(versioned);
+                return versioned;
+            }
+            return null;
+        }
+        catch (IOException | RuntimeException ignored)
+        {
+            return null;
+        }
+    }
+
+    private Path downloadVerifiedPack(String expectedHash)
+    {
+        if (expectedHash == null || closed)
+        {
+            return null;
+        }
+        try
+        {
+            Files.createDirectories(directory);
+            Path target = versionedPackPath(expectedHash);
+            Path temporary = Files.createTempFile(
+                directory, "offline-assets-v1-download-", ".tmp");
+            try
+            {
+                try (InputStream input = openVerifiedRemoteStream(
+                    REMOTE_PACK_URI))
                 {
-                    if (input == null)
-                    {
-                        return null;
-                    }
-                    Path temporary = Files.createTempFile(
-                        directory, "offline-assets-v1-", ".tmp");
-                    try
-                    {
-                        writeAndFlushBounded(input, temporary, MAX_ARCHIVE_BYTES);
-                        if (!expectedHash.equals(sha256(temporary)))
-                        {
-                            throw new IOException(
-                                "Bundled artwork archive failed verification.");
-                        }
-                        moveAtomicallyReplacing(temporary, target);
-                    }
-                    finally
-                    {
-                        Files.deleteIfExists(temporary);
-                    }
+                    writeAndFlushBounded(input, temporary, MAX_ARCHIVE_BYTES);
                 }
+                if (!expectedHash.equals(sha256(temporary)))
+                {
+                    throw new IOException(
+                        "Downloaded artwork archive failed verification.");
+                }
+                moveAtomicallyReplacing(temporary, target);
+            }
+            finally
+            {
+                Files.deleteIfExists(temporary);
             }
             removeStaleBundledArchives(target);
             return target;
@@ -363,32 +410,113 @@ public final class WikiArtworkDiskCache implements AutoCloseable
         }
     }
 
-    private Path findLegacyOrUserPack()
+    private Path versionedPackPath(String expectedHash)
     {
-        Path preferred = directory.resolve(LOCAL_PACK_FILENAME);
-        if (Files.isRegularFile(preferred))
+        return directory.resolve(
+            "offline-assets-v1-" + expectedHash.substring(0, 16) + ".zip");
+    }
+
+    private static boolean isExpectedPack(Path path, String expectedHash)
+        throws IOException
+    {
+        return Files.isRegularFile(path)
+            && Files.size(path) > 0L
+            && Files.size(path) <= MAX_ARCHIVE_BYTES
+            && expectedHash.equals(sha256(path));
+    }
+
+    private static void moveOrCopyVerifiedPack(Path source, Path target)
+        throws IOException
+    {
+        try
         {
-            return preferred;
+            moveAtomicallyReplacing(source, target);
         }
-        if (!Files.isDirectory(directory))
+        catch (IOException moveFailed)
         {
-            return null;
+            Files.copy(source, target, StandardCopyOption.REPLACE_EXISTING);
         }
-        try (java.util.stream.Stream<Path> paths = Files.list(directory))
+    }
+
+    private static InputStream openVerifiedRemoteStream(URI initialUri)
+        throws IOException
+    {
+        URI current = initialUri;
+        for (int redirect = 0; redirect <= MAX_REDIRECTS; redirect++)
         {
-            return paths
-                .filter(Files::isRegularFile)
-                .filter(path -> path.getFileName().toString()
-                    .matches("offline-assets-v1-[0-9a-f]{16}\\.zip"))
-                .sorted(java.util.Comparator.comparing(
-                    path -> path.getFileName().toString()))
-                .findFirst()
-                .orElse(null);
+            if (!isApprovedBundleUri(current))
+            {
+                throw new IOException("Unapproved artwork download host.");
+            }
+            URLConnection rawConnection = current.toURL().openConnection();
+            if (!(rawConnection instanceof HttpURLConnection))
+            {
+                throw new IOException("Artwork download requires HTTPS.");
+            }
+            HttpURLConnection connection =
+                (HttpURLConnection) rawConnection;
+            connection.setInstanceFollowRedirects(false);
+            connection.setConnectTimeout(CONNECT_TIMEOUT_MILLIS);
+            connection.setReadTimeout(READ_TIMEOUT_MILLIS);
+            connection.setRequestProperty(
+                "User-Agent", "Card-Locked/0.81.04 RuneLite");
+            connection.setRequestProperty("Accept", "application/zip");
+
+            int status = connection.getResponseCode();
+            if (status >= 300 && status < 400)
+            {
+                String location = connection.getHeaderField("Location");
+                connection.disconnect();
+                if (location == null || location.trim().isEmpty())
+                {
+                    throw new IOException(
+                        "Artwork download redirect had no destination.");
+                }
+                current = current.resolve(location);
+                continue;
+            }
+            if (status != HttpURLConnection.HTTP_OK)
+            {
+                connection.disconnect();
+                throw new IOException(
+                    "Artwork download failed with HTTP " + status + ".");
+            }
+            long contentLength = connection.getContentLengthLong();
+            if (contentLength > MAX_ARCHIVE_BYTES)
+            {
+                connection.disconnect();
+                throw new IOException("Artwork archive exceeds size limit.");
+            }
+            InputStream stream = connection.getInputStream();
+            return new java.io.FilterInputStream(stream)
+            {
+                @Override
+                public void close() throws IOException
+                {
+                    try
+                    {
+                        super.close();
+                    }
+                    finally
+                    {
+                        connection.disconnect();
+                    }
+                }
+            };
         }
-        catch (IOException ignored)
+        throw new IOException("Too many artwork download redirects.");
+    }
+
+    static boolean isApprovedBundleUri(URI uri)
+    {
+        if (uri == null || !"https".equalsIgnoreCase(uri.getScheme()))
         {
-            return null;
+            return false;
         }
+        String host = uri.getHost();
+        return "github.com".equalsIgnoreCase(host)
+            || "objects.githubusercontent.com".equalsIgnoreCase(host)
+            || "release-assets.githubusercontent.com".equalsIgnoreCase(host);
     }
 
     private void removeStaleBundledArchives(Path current)

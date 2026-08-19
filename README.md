@@ -45,3 +45,8 @@ The project targets Java 11 and RuneLite. The Plugin Hub metadata is in `runelit
 ## Licence
 
 Card Locked is distributed under the BSD 2-Clause licence. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Artwork download
+
+To stay within RuneLite Plugin Hub package limits, the reviewed Card Locked artwork bundle is hosted as the project's `artwork-v1` GitHub Release asset rather than inside the plugin source archive. On a clean installation the plugin downloads the archive once in the background, verifies its SHA-256, and caches it locally. This HTTPS request exposes the connecting IP address to GitHub but sends no RuneScape account, collection, gameplay, save, or diagnostic data.
+

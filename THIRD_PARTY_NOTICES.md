@@ -1,6 +1,6 @@
 # Card Locked third-party notices
 
-This notice accompanies Card Locked 0.81.03 and records third-party attribution and content provenance.
+This notice accompanies Card Locked 0.81.04 and records third-party attribution and content provenance.
 
 ## Card Locked source
 
@@ -18,7 +18,7 @@ Old School RuneScape, RuneScape, associated names and underlying game media are 
 
 This content is not endorsed by or affiliated with Jagex.
 
-Card Locked 0.81.03 includes a reviewed offline artwork archive used by the card collection. The archive contains 6,667 unique image assets referenced by 7,144 current provenance mappings. Card Locked performs no gameplay-time network download for these packaged mappings. A further 439 item cards use RuneLite item sprites as their intended fallback and five NPC cards use deterministic built-in fallback artwork.
+Card Locked 0.81.04 uses a reviewed artwork archive for the card collection. The archive contains 6,667 unique image assets referenced by 7,144 current provenance mappings and is distributed as the project's `artwork-v1` GitHub Release asset. On a clean install Card Locked downloads the archive once, verifies its SHA-256 before use, and caches it locally. A further 439 item cards use RuneLite item sprites as their intended fallback and five NPC cards use deterministic built-in fallback artwork.
 
 The included manifest records the associated OSRS Wiki reference, acquisition provenance and cryptographic digests for mapped assets. Underlying OSRS/Jagex media rights remain with their respective rights holders. Inclusion in Card Locked does not transfer ownership or imply endorsement.
 

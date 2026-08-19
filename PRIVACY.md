@@ -16,11 +16,13 @@ The bounded integrity trace records technical metadata such as interaction surfa
 
 ## Network boundary
 
-The runtime does not transmit collection state, saves, traces, diagnostics, account identifiers or telemetry. Optional Wiki navigation opens the user's browser only after a deliberate button action.
+The runtime does not transmit collection state, saves, traces, diagnostics, RuneScape account identifiers or telemetry. Optional Wiki navigation opens the user's browser only after a deliberate button action.
+
+On first use, if the verified artwork archive is not already cached locally, Card Locked makes an HTTPS request to the project's GitHub Release to download `card-locked-artwork-v1.zip`. As with any web request, GitHub receives the connecting IP address and standard HTTP request metadata. Card Locked sends no RuneScape account name, collection state, gameplay data, save data or diagnostic data with this request.
 
 ## Artwork
 
-The standard distribution includes a reviewed offline artwork archive so the collection is usable on a fresh installation without a gameplay-time image download. Card Locked verifies and prepares that archive locally in the RuneLite profile area. Some item cards intentionally use RuneLite-provided item sprites, and a small number of NPC cards use deterministic built-in fallbacks.
+The reviewed artwork archive is distributed as the `artwork-v1` GitHub Release asset so the Plugin Hub source package remains within RuneLite's size limit. Card Locked downloads it once on a background worker, verifies its packaged SHA-256 before use, and caches it under RuneLite's local data directory. Subsequent launches reuse the verified local archive. Some item cards intentionally use RuneLite-provided item sprites, and a small number of NPC cards use deterministic built-in fallbacks.
 
 ## Recovery and deletion
 

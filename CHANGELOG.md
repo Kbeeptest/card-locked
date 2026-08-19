@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.81.04
+
+- Moved the reviewed Wiki artwork archive to the versioned `artwork-v1` GitHub Release asset to meet the RuneLite Plugin Hub source-archive size limit.
+- Added one-time background artwork download with strict host allowlisting, bounded transfer size and SHA-256 verification before use.
+- Optimised packaged card-frame PNG storage without changing their dimensions.
+- No gameplay balance, progression, rarity, restriction or sound changes.
+
 ## 0.81.03
 
 - Removed the remaining stationary frame between opening a booster and the five-card deal animation beginning.
